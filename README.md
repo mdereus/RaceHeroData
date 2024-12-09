@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RaceHeroData
 =======
 # RaceHero Data Importer
@@ -163,4 +162,3 @@ The application includes comprehensive error handling for:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
->>>>>>> 56818e2 (initial commit)
