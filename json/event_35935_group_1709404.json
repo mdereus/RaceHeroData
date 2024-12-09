@@ -1,0 +1,832 @@
+{
+  "group_id": 1709404,
+  "name": "GLTC",
+  "runs": [
+    {
+      "id": 78109211,
+      "group_id": 1709404,
+      "name": "Race 4",
+      "type": "2",
+      "started_at": "2023-04-01 21:30:00 UTC",
+      "ended_at": "2023-04-01 21:44:41 UTC",
+      "last_received_data_at": "2023-04-01 21:49:17 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-south-carolina/results/1073741854"
+    },
+    {
+      "id": 78102967,
+      "group_id": 1709404,
+      "name": "Race 3",
+      "type": "2",
+      "started_at": "2023-04-01 18:45:00 UTC",
+      "ended_at": "2023-04-01 18:59:01 UTC",
+      "last_received_data_at": "2023-04-01 19:04:01 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-south-carolina/results/1073741853"
+    },
+    {
+      "id": 78097223,
+      "group_id": 1709404,
+      "name": "Race 2",
+      "type": "2",
+      "started_at": "2023-04-01 16:30:00 UTC",
+      "ended_at": "2023-04-01 16:45:14 UTC",
+      "last_received_data_at": "2023-04-01 16:53:34 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 6,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-south-carolina/results/1073741852"
+    },
+    {
+      "id": 78052829,
+      "group_id": 1709404,
+      "name": "Race 1",
+      "type": "2",
+      "started_at": "2023-03-31 19:00:00 UTC",
+      "ended_at": "2023-03-31 19:14:44 UTC",
+      "last_received_data_at": "2023-03-31 19:29:09 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-south-carolina/results/1073741835"
+    },
+    {
+      "id": 78048994,
+      "group_id": 1709404,
+      "name": "Qualifying",
+      "type": "1",
+      "started_at": "2023-03-31 17:20:00 UTC",
+      "ended_at": "2023-03-31 17:45:47 UTC",
+      "last_received_data_at": "2023-03-31 17:57:10 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 13,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-south-carolina/results/1073741834"
+    },
+    {
+      "id": 78042600,
+      "group_id": 1709404,
+      "name": "Practice",
+      "type": "0",
+      "started_at": "2023-03-31 14:20:00 UTC",
+      "ended_at": "2023-03-31 14:52:40 UTC",
+      "last_received_data_at": "2023-03-31 14:54:38 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 9,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-south-carolina/results/1073741833"
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Nat/State",
+    "attribute2": "Sponsor",
+    "attribute3": "Make",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Model/Engine",
+    "attribute7": "Tires",
+    "attribute8": "Email"
+  },
+  "racers": [
+    {
+      "name": "Matt Waldbaum",
+      "number": "90",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Honda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "S2000",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Luke McGrew",
+      "number": "7",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Chevrolet",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Corvette",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Jeremy Swenson",
+      "number": "3",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Chevrolet",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Corvette",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "James Houghton",
+      "number": "41",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Acura",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "TSX",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Joel Morrison",
+      "number": "71",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Honda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "S2000",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Paul Curley",
+      "number": "45",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Chevrolet",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Corvette",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Lena Chin",
+      "number": "917",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Honda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "S2000",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Zac Lovoy",
+      "number": "42",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Honda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "S2000",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Eric Jensen",
+      "number": "184",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Scion",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "FR-S",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Justin Lee",
+      "number": "33",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Mazda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Mx-5",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Andrew Rains",
+      "number": "98",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "BMW",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "330ci",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Gary Wimble",
+      "number": "1",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Chevrolet",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Corvette",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Adam Ulrich",
+      "number": "4",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Chevrolet",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Corvette",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Matan Rosenberg",
+      "number": "484",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Chevrolet",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Corvette",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Wes Case",
+      "number": "767",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "BMW",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "M3",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Ethan Swindel",
+      "number": "182",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Honda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "CRX",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Jon Kozlow",
+      "number": "11",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "BMW",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "M3",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "",
+      "number": "14",
+      "class": "",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Colton Wade",
+      "number": "18",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "BMW",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "M3",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Marcus Luttrell",
+      "number": "92",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Mazda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Mx-5 Miata",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Tony Marchev",
+      "number": "17",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Honda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "S2000",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "James Cathers",
+      "number": "129",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "BMW",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "M3",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Ronnie Vajdak",
+      "number": "99",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Acura",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Integra",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Clayton Fitzpatrick",
+      "number": "171",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Chevrolet",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Corvette",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Scott Robertson",
+      "number": "213",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Mazda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Miata",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Joshua Rubenstein",
+      "number": "159",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Mazda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Mx-5 Miata",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Eddie Nakato",
+      "number": "32",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "BMW",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "330ci",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Carter Hollis",
+      "number": "165",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Honda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Accord",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Michael Kramer",
+      "number": "91",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Honda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Civic",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "",
+      "number": "6",
+      "class": "",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Doug Geiger",
+      "number": "562",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "BMW",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "E46",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Bob Ross",
+      "number": "56",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "BMW",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "325i",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Andy Funston",
+      "number": "163",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Toyota",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Celica Supra",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Tyler Starr",
+      "number": "36",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Subaru",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "BRZ",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Dai Nguyen",
+      "number": "888",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Subaru",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "BRZ",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Thomas Moss",
+      "number": "515",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Mazda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Miata",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Brian Tyson",
+      "number": "23",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Honda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Civic Si",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Ryan Power",
+      "number": "245",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "BMW",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "M3",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "",
+      "number": "14",
+      "class": "",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Vytis Aranauskas",
+      "number": "66",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Justin Thompson",
+      "number": "106",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "",
+      "number": "6",
+      "class": "",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Benjamin Swanson",
+      "number": "610",
+      "class": "GLTC - AWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Carlos Mendez",
+      "number": "14",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Robert McDaniels",
+      "number": "6",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Mazda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "Mx-5 Miata",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Jacob Poole",
+      "number": "88",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    }
+  ]
+}

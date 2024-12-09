@@ -1,0 +1,446 @@
+{
+  "group_id": 2021291,
+  "name": "RUSH SR",
+  "runs": [
+    {
+      "id": 97212774,
+      "group_id": 2021291,
+      "name": "Race 4",
+      "type": "2",
+      "started_at": "2024-04-13 21:15:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 97212773,
+      "group_id": 2021291,
+      "name": "Race 3",
+      "type": "2",
+      "started_at": "2024-04-13 18:55:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 97212772,
+      "group_id": 2021291,
+      "name": "Qualifying 2",
+      "type": "1",
+      "started_at": "2024-04-13 14:10:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 97212771,
+      "group_id": 2021291,
+      "name": "Practice 3",
+      "type": "0",
+      "started_at": "2024-04-13 12:30:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 97212770,
+      "group_id": 2021291,
+      "name": "Race 2",
+      "type": "2",
+      "started_at": "2024-04-12 21:25:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 97212769,
+      "group_id": 2021291,
+      "name": "Qualifying",
+      "type": "1",
+      "started_at": "2024-04-12 17:40:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 97212768,
+      "group_id": 2021291,
+      "name": "Practice 2",
+      "type": "0",
+      "started_at": "2024-04-12 16:00:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 97212767,
+      "group_id": 2021291,
+      "name": "Practice 1",
+      "type": "0",
+      "started_at": "2024-04-12 12:30:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 97212717,
+      "group_id": 2021291,
+      "name": "Race 1",
+      "type": "2",
+      "started_at": "2024-04-12 19:20:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "2024-04-27 17:05:19 UTC",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Nat/State",
+    "attribute2": "Sponsor",
+    "attribute3": "Make",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Model/Engine",
+    "attribute7": "Tires",
+    "attribute8": "Email"
+  },
+  "racers": [
+    {
+      "name": "The RUSH Stig",
+      "number": "8",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Ryan Leach",
+      "number": "56",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "John Rymaniii",
+      "number": "28",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jason Oehler",
+      "number": "74",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Rob Radmann",
+      "number": "5",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Bill Wright",
+      "number": "58",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Suellio Almeida",
+      "number": "10",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Nick Billingsley",
+      "number": "9",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Logan Haydel",
+      "number": "98",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Kelsey Billingsley",
+      "number": "19",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Samuel Reed",
+      "number": "11",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Bruno Purpura",
+      "number": "15",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Bret Digiacomo",
+      "number": "12",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Craig Andrews",
+      "number": "44",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Vilas Saldanha",
+      "number": "63",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Timothy Fokine",
+      "number": "3",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Robbie Sanders",
+      "number": "26",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Tom Byrns",
+      "number": "62",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "John Howe",
+      "number": "65",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "JC JC Racing",
+      "number": "13",
+      "class": "RUSH SR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    }
+  ]
+}

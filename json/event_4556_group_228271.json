@@ -1,0 +1,29 @@
+{
+  "group_id": 228271,
+  "name": "Heat 6 - South Course",
+  "runs": [
+    {
+      "id": 16170085,
+      "group_id": 228271,
+      "name": "Group A",
+      "type": "2",
+      "started_at": "2019-06-30 13:02:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Nat/State",
+    "attribute2": "Sponsor",
+    "attribute3": "Make",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Model/Engine",
+    "attribute7": "Tires",
+    "attribute8": "Email"
+  },
+  "racers": []
+}

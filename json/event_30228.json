@@ -1,0 +1,441 @@
+{
+  "id": 30228,
+  "name": "Elkhart Color Classic",
+  "started_at": "2021-10-09T13:20:00.000Z",
+  "ended_at": "2021-10-10T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "Chief of Timing & Scoring",
+    "Race Director",
+    "",
+    ""
+  ],
+  "timezone": "America/Winnipeg",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/elkhart-color-classic",
+  "created_at": "2021-10-09T15:51:01.554Z",
+  "updated_at": "2021-10-10T20:29:02.650Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 79,
+    "name": "Road America",
+    "address": "N7390 WI-67",
+    "address2": null,
+    "city": "Plymouth",
+    "region": "WI",
+    "postal_code": "53073",
+    "country": "US",
+    "website_url": "http://fdxcr.com",
+    "lat": 43.8001009296071,
+    "lng": -88.0000138123787,
+    "url": "http://fdxcr.com",
+    "html_url": "https://racehero.io/venues/79",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1402751552/ff5c2da4e3511ee50debf6b12e7a67d8.jpg",
+    "configuration": {
+      "id": 140,
+      "venue_id": 79,
+      "name": "Road America",
+      "length": 4,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 1292453,
+      "name": "GLTC ",
+      "runs": [
+        {
+          "id": 52181280,
+          "group_id": 1292453,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2021-10-10T20:00:00.000Z",
+          "ended_at": "2021-10-10T20:20:42.996Z",
+          "last_received_data_at": "2021-10-10T20:29:02.646Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742075"
+        },
+        {
+          "id": 52172184,
+          "group_id": 1292453,
+          "name": "Race 3 ",
+          "type": "2",
+          "started_at": "2021-10-10T16:30:00.000Z",
+          "ended_at": "2021-10-10T16:49:19.575Z",
+          "last_received_data_at": "2021-10-10T16:54:49.728Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742071"
+        },
+        {
+          "id": 52166317,
+          "group_id": 1292453,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2021-10-10T14:20:00.000Z",
+          "ended_at": "2021-10-10T14:48:17.951Z",
+          "last_received_data_at": "2021-10-10T14:48:51.526Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742067"
+        },
+        {
+          "id": 52132651,
+          "group_id": 1292453,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2021-10-09T22:30:00.000Z",
+          "ended_at": "2021-10-09T22:51:12.700Z",
+          "last_received_data_at": "2021-10-09T23:03:37.981Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742052"
+        },
+        {
+          "id": 52120450,
+          "group_id": 1292453,
+          "name": "Qualifying ",
+          "type": "1",
+          "started_at": "2021-10-09T16:20:00.000Z",
+          "ended_at": "2021-10-09T16:39:53.059Z",
+          "last_received_data_at": "2021-10-09T18:38:07.635Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742051"
+        },
+        {
+          "id": 52112115,
+          "group_id": 1292453,
+          "name": "Practice",
+          "type": "0",
+          "started_at": "2021-10-09T13:20:00.000Z",
+          "ended_at": "2021-10-09T13:33:51.279Z",
+          "last_received_data_at": "2021-10-09T16:05:07.876Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742050"
+        }
+      ]
+    },
+    {
+      "id": 1293265,
+      "name": "Time Attack Heat 6",
+      "runs": [
+        {
+          "id": 52180066,
+          "group_id": 1293265,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-10-10T19:05:00.000Z",
+          "ended_at": "2021-10-10T19:21:34.407Z",
+          "last_received_data_at": "2021-10-10T19:41:48.208Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742072"
+        },
+        {
+          "id": 52179236,
+          "group_id": 1293265,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-10-10T19:00:00.000Z",
+          "ended_at": "2021-10-10T19:18:18.309Z",
+          "last_received_data_at": "2021-10-10T19:25:06.152Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742073"
+        },
+        {
+          "id": 52177907,
+          "group_id": 1293265,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-10-10T18:40:00.000Z",
+          "ended_at": "2021-10-10T19:02:09.075Z",
+          "last_received_data_at": "2021-10-10T19:05:12.977Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742074"
+        }
+      ]
+    },
+    {
+      "id": 1293171,
+      "name": "Time Attack Heat 5",
+      "runs": [
+        {
+          "id": 52171156,
+          "group_id": 1293171,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-10-10T15:30:00.000Z",
+          "ended_at": "2021-10-10T15:53:41.145Z",
+          "last_received_data_at": "2021-10-10T16:28:22.040Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742070"
+        },
+        {
+          "id": 52170250,
+          "group_id": 1293171,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-10-10T15:30:00.000Z",
+          "ended_at": "2021-10-10T15:46:18.423Z",
+          "last_received_data_at": "2021-10-10T16:04:31.823Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742069"
+        },
+        {
+          "id": 52169383,
+          "group_id": 1293171,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-10-10T15:30:00.000Z",
+          "ended_at": "2021-10-10T15:44:59.438Z",
+          "last_received_data_at": "2021-10-10T15:46:01.418Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742068"
+        }
+      ]
+    },
+    {
+      "id": 1293109,
+      "name": "Time Attack Heat 4",
+      "runs": [
+        {
+          "id": 52181277,
+          "group_id": 1293109,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-10-10T13:20:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742063"
+        },
+        {
+          "id": 52181276,
+          "group_id": 1293109,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-10-10T13:20:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742064"
+        },
+        {
+          "id": 52164038,
+          "group_id": 1293109,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-10-10T13:20:00.000Z",
+          "ended_at": "2021-10-10T14:07:00.759Z",
+          "last_received_data_at": "2021-10-10T14:14:31.362Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742062"
+        }
+      ]
+    },
+    {
+      "id": 1293110,
+      "name": "Time Attack Heat 5",
+      "runs": [
+        {
+          "id": 52181279,
+          "group_id": 1293110,
+          "name": "New run",
+          "type": "2",
+          "started_at": "2021-10-10T14:20:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742066"
+        },
+        {
+          "id": 52181278,
+          "group_id": 1293110,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2021-10-10T14:20:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742065"
+        }
+      ]
+    },
+    {
+      "id": 1292456,
+      "name": "Time Attack Heat 3",
+      "runs": [
+        {
+          "id": 52132037,
+          "group_id": 1292456,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-10-09T21:30:00.000Z",
+          "ended_at": "2021-10-09T21:41:08.657Z",
+          "last_received_data_at": "2021-10-09T22:33:21.340Z",
+          "status": "PROVISIONAL",
+          "total_laps": 2,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742061"
+        },
+        {
+          "id": 52131650,
+          "group_id": 1292456,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-10-09T21:30:00.000Z",
+          "ended_at": "2021-10-09T21:43:37.193Z",
+          "last_received_data_at": "2021-10-09T22:22:06.343Z",
+          "status": "PROVISIONAL",
+          "total_laps": 2,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742060"
+        },
+        {
+          "id": 52130651,
+          "group_id": 1292456,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-10-09T21:30:00.000Z",
+          "ended_at": "2021-10-09T21:53:33.619Z",
+          "last_received_data_at": "2021-10-09T22:07:59.882Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742059"
+        }
+      ]
+    },
+    {
+      "id": 1292455,
+      "name": "Time Attack Heat 2",
+      "runs": [
+        {
+          "id": 52127843,
+          "group_id": 1292455,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-10-09T19:20:00.000Z",
+          "ended_at": "2021-10-09T19:41:25.634Z",
+          "last_received_data_at": "2021-10-09T21:08:05.467Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742058"
+        },
+        {
+          "id": 52126863,
+          "group_id": 1292455,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-10-09T19:20:00.000Z",
+          "ended_at": "2021-10-09T19:34:27.792Z",
+          "last_received_data_at": "2021-10-09T20:46:37.266Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742057"
+        },
+        {
+          "id": 52126124,
+          "group_id": 1292455,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-10-09T19:20:00.000Z",
+          "ended_at": "2021-10-09T19:31:54.115Z",
+          "last_received_data_at": "2021-10-09T20:28:53.972Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742056"
+        }
+      ]
+    },
+    {
+      "id": 1292454,
+      "name": "Time Attack Heat 1",
+      "runs": [
+        {
+          "id": 52114752,
+          "group_id": 1292454,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-10-09T13:45:00.000Z",
+          "ended_at": "2021-10-09T14:01:59.000Z",
+          "last_received_data_at": "2021-10-09T16:53:43.871Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742055"
+        },
+        {
+          "id": 52113687,
+          "group_id": 1292454,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-10-09T13:45:00.000Z",
+          "ended_at": "2021-10-09T14:00:53.782Z",
+          "last_received_data_at": "2021-10-09T16:36:38.143Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742054"
+        },
+        {
+          "id": 52112929,
+          "group_id": 1292454,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-10-09T13:45:00.000Z",
+          "ended_at": "2021-10-09T13:59:06.249Z",
+          "last_received_data_at": "2021-10-09T16:20:27.822Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/elkhart-color-classic/results/1073742053"
+        }
+      ]
+    }
+  ]
+}

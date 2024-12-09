@@ -1,0 +1,858 @@
+{
+  "group_id": 1857616,
+  "name": "TA",
+  "runs": [
+    {
+      "id": 87210043,
+      "group_id": 1857616,
+      "name": "Heat 7",
+      "type": "1",
+      "started_at": "2023-10-01 21:25:00 UTC",
+      "ended_at": "2023-10-01 22:01:57 UTC",
+      "last_received_data_at": "2023-10-01 22:06:18 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 6,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-street-special/results/1073741903"
+    },
+    {
+      "id": 87203206,
+      "group_id": 1857616,
+      "name": "Heat 6",
+      "type": "1",
+      "started_at": "2023-10-01 18:05:00 UTC",
+      "ended_at": "2023-10-01 18:47:36 UTC",
+      "last_received_data_at": "2023-10-01 18:47:37 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 8,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-street-special/results/1073741902"
+    },
+    {
+      "id": 87200197,
+      "group_id": 1857616,
+      "name": "Heat 5",
+      "type": "1",
+      "started_at": "2023-10-01 16:40:00 UTC",
+      "ended_at": "2023-10-01 17:18:29 UTC",
+      "last_received_data_at": "2023-10-01 17:19:31 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-street-special/results/1073741901"
+    },
+    {
+      "id": 87162749,
+      "group_id": 1857616,
+      "name": "Heat 4",
+      "type": "1",
+      "started_at": "2023-09-30 23:40:00 UTC",
+      "ended_at": "2023-10-01 00:21:53 UTC",
+      "last_received_data_at": "2023-10-01 00:22:37 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-street-special/results/1073741896"
+    },
+    {
+      "id": 87159649,
+      "group_id": 1857616,
+      "name": "Heat 3",
+      "type": "1",
+      "started_at": "2023-09-30 22:00:00 UTC",
+      "ended_at": "2023-09-30 22:39:58 UTC",
+      "last_received_data_at": "2023-09-30 22:40:20 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 8,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-street-special/results/1073741895"
+    },
+    {
+      "id": 87152344,
+      "group_id": 1857616,
+      "name": "Heat 2",
+      "type": "1",
+      "started_at": "2023-09-30 19:00:00 UTC",
+      "ended_at": "2023-09-30 19:41:03 UTC",
+      "last_received_data_at": "2023-09-30 19:41:11 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 8,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-street-special/results/1073741897"
+    },
+    {
+      "id": 87149099,
+      "group_id": 1857616,
+      "name": "Heat 1b",
+      "type": "1",
+      "started_at": "2023-09-30 17:40:00 UTC",
+      "ended_at": "2023-09-30 18:21:31 UTC",
+      "last_received_data_at": "2023-09-30 18:18:55 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 12,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-street-special/results/1073741894"
+    },
+    {
+      "id": 87148402,
+      "group_id": 1857616,
+      "name": "Heat 1",
+      "type": "1",
+      "started_at": "2023-09-30 17:20:00 UTC",
+      "ended_at": "2023-09-30 17:21:40 UTC",
+      "last_received_data_at": "2023-09-30 17:36:46 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-street-special/results/1073741890"
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Nat/State",
+    "attribute2": "Sponsor",
+    "attribute3": "Make",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Model/Engine",
+    "attribute7": "Tires",
+    "attribute8": "Email"
+  },
+  "racers": [
+    {
+      "name": "Craig Coker",
+      "number": "805",
+      "class": "UNLIMITED - AWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Morgan Higham",
+      "number": "267",
+      "class": "STREET GT - AWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Omar Kaayal",
+      "number": "489",
+      "class": "STREET - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Luke Lederman",
+      "number": "922",
+      "class": "STREET - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Adam Xia",
+      "number": "168",
+      "class": "STREET - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jonathan Lugod",
+      "number": "149",
+      "class": "STREET - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Christopher Rosales",
+      "number": "992",
+      "class": "STREET - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Rafael Guerrero",
+      "number": "792",
+      "class": "STREET - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Arnold Pamplona",
+      "number": "504",
+      "class": "STREET MOD - AWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Adam Santella",
+      "number": "568",
+      "class": "STREET MOD - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Tj Keon",
+      "number": "305",
+      "class": "STREET GT - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jakob Lim",
+      "number": "227",
+      "class": "TRACK MOD - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Richard Klein",
+      "number": "246",
+      "class": "STREET MOD - AWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Ricky Iturralde",
+      "number": "188",
+      "class": "SUNDAE CUP - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Victor Saldajeno",
+      "number": "885",
+      "class": "STREET - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Moises Mandujano",
+      "number": "701",
+      "class": "CLUB TR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Stephen Ellis",
+      "number": "556",
+      "class": "STREET - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Throtl Racing",
+      "number": "619",
+      "class": "STREET MOD - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Andrew Dekoning",
+      "number": "232",
+      "class": "TRACK MOD - AWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Brad Wintermantle",
+      "number": "303",
+      "class": "STREET GT - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Joey Cadavid",
+      "number": "769",
+      "class": "STREET - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Ger Xiong",
+      "number": "626",
+      "class": "CLUB TR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Carlos Valenzuela",
+      "number": "249",
+      "class": "CLUB TR - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Karla Pestotnik",
+      "number": "454",
+      "class": "CLUB TR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Steve Nguyen",
+      "number": "328",
+      "class": "STREET - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Young Tea",
+      "number": "535",
+      "class": "CLUB TR - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Victor Shakhverdyan",
+      "number": "387",
+      "class": "CLUB TR - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Matt Davis",
+      "number": "562",
+      "class": "STREET - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Peter Tuchenishki",
+      "number": "811",
+      "class": "STREET MOD - AWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Mike Reyes",
+      "number": "923",
+      "class": "TRACK MOD - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Tim Manzano",
+      "number": "815",
+      "class": "SUNDAE CUP - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Christopher Carlton",
+      "number": "444",
+      "class": "STREET GT - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jeffery Ting",
+      "number": "380",
+      "class": "STREET MOD - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Robin Shute",
+      "number": "491",
+      "class": "SUPER UNLIMITED - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Frank Pacheco",
+      "number": "105",
+      "class": "TRACK MOD - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Brian Chilldres",
+      "number": "833",
+      "class": "STREET GT - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "John Gonzales",
+      "number": "106",
+      "class": "TRACK MOD - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Emmanuel Vazquez",
+      "number": "440",
+      "class": "STREET MOD - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Luis Calderon",
+      "number": "508",
+      "class": "CLUB TR - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jason Davidson",
+      "number": "122",
+      "class": "SUNDAE CUP - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Taylour Wargo",
+      "number": "135",
+      "class": "SUNDAE CUP - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Larry Chen",
+      "number": "558",
+      "class": "STREET MOD - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jason Aguirre",
+      "number": "9",
+      "class": "CLUB TR - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Team Riaction",
+      "number": "817",
+      "class": "CLUB TR - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Lucas Urban",
+      "number": "369",
+      "class": "SUNDAE CUP - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Damon Fryer",
+      "number": "895",
+      "class": "UNLIMITED - AWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    }
+  ]
+}

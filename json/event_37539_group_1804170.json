@@ -1,0 +1,845 @@
+{
+  "group_id": 1804170,
+  "name": "GLTC",
+  "runs": [
+    {
+      "id": 84012375,
+      "group_id": 1804170,
+      "name": "Race 4",
+      "type": "2",
+      "started_at": "2023-07-29 16:15:00 UTC",
+      "ended_at": "2023-07-29 16:29:23 UTC",
+      "last_received_data_at": "2023-07-29 16:36:52 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 5,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-elkhart-special/results/1073741845"
+    },
+    {
+      "id": 84006654,
+      "group_id": 1804170,
+      "name": "Race 3",
+      "type": "2",
+      "started_at": "2023-07-29 14:00:00 UTC",
+      "ended_at": "2023-07-29 14:17:16 UTC",
+      "last_received_data_at": "2023-07-29 14:23:30 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 6,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-elkhart-special/results/1073741844"
+    },
+    {
+      "id": 83966305,
+      "group_id": 1804170,
+      "name": "Race 2",
+      "type": "2",
+      "started_at": "2023-07-28 19:00:00 UTC",
+      "ended_at": "2023-07-28 19:17:34 UTC",
+      "last_received_data_at": "2023-07-28 19:23:57 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 6,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-elkhart-special/results/1073741841"
+    },
+    {
+      "id": 83956545,
+      "group_id": 1804170,
+      "name": "Race 1",
+      "type": "2",
+      "started_at": "2023-07-28 15:00:00 UTC",
+      "ended_at": "2023-07-28 15:17:55 UTC",
+      "last_received_data_at": "2023-07-28 15:24:22 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 6,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-elkhart-special/results/1073741839"
+    },
+    {
+      "id": 83917276,
+      "group_id": 1804170,
+      "name": "Qualifying",
+      "type": "1",
+      "started_at": "2023-07-27 19:45:00 UTC",
+      "ended_at": "2023-07-27 20:14:43 UTC",
+      "last_received_data_at": "2023-07-27 20:15:40 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 9,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-elkhart-special/results/1073741836"
+    },
+    {
+      "id": 83912619,
+      "group_id": 1804170,
+      "name": "Practice 2",
+      "type": "0",
+      "started_at": "2023-07-27 17:30:00 UTC",
+      "ended_at": "2023-07-27 17:57:41 UTC",
+      "last_received_data_at": "2023-07-27 18:01:59 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 8,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-elkhart-special/results/1073741835"
+    },
+    {
+      "id": 83910094,
+      "group_id": 1804170,
+      "name": "Practice",
+      "type": "0",
+      "started_at": "2023-07-27 15:15:00 UTC",
+      "ended_at": "2023-07-27 15:33:13 UTC",
+      "last_received_data_at": "2023-07-27 16:35:28 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-elkhart-special/results/1073741833"
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Nat/State",
+    "attribute2": "Sponsor",
+    "attribute3": "Make",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Model/Engine",
+    "attribute7": "Tires",
+    "attribute8": "Email"
+  },
+  "racers": [
+    {
+      "name": "Jeremy Swenson",
+      "number": "3",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jackson Jensen",
+      "number": "527",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Matan Rosenberg",
+      "number": "484",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Colton Wade",
+      "number": "18",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Tony Marchev",
+      "number": "17",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Austin Hertel",
+      "number": "34",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Chris Adams",
+      "number": "187",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Chris Murray",
+      "number": "320",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Brian Tyson",
+      "number": "23",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Eric Jensen",
+      "number": "184",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Louis Chatroop",
+      "number": "26",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Ryan Upham",
+      "number": "13",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Emile Tabb",
+      "number": "374",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Gary Wimble",
+      "number": "1",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Luke Mcgrew",
+      "number": "7",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Hans Horpedahl",
+      "number": "77",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Joel Morrison",
+      "number": "71",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Adam Ulrich",
+      "number": "4",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jacob Price",
+      "number": "202",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Tyler Starr",
+      "number": "36",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Andy Smedegard",
+      "number": "94",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jeremy Boysen",
+      "number": "40",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Matt Waldbaum",
+      "number": "90",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Joe Tullo",
+      "number": "43",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Lena Chin",
+      "number": "917",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Bill Griffin",
+      "number": "146",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Wesley Penn",
+      "number": "113",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Adam Wood",
+      "number": "207",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Andy Sundeen",
+      "number": "546",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Robert Manouchehri",
+      "number": "325",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Micaiah Hackbarth",
+      "number": "447",
+      "class": "GLTC - AWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Zac Lovoy",
+      "number": "42",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "James Houghton",
+      "number": "41",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Aaron Leichty",
+      "number": "19",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Felipe Gonzalez",
+      "number": "12",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Robertson Racing",
+      "number": "213",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Austin Cobb",
+      "number": "136",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Thing 3 Racing",
+      "number": "33",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Karl Hertel",
+      "number": "504",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Robert Vierhout",
+      "number": "95",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Eric Kutil",
+      "number": "82",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Alex Moss",
+      "number": "150",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Erik Meadows",
+      "number": "2",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Carlos Mendez",
+      "number": "14",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Justin Lautz",
+      "number": "177",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jake Joraanstad",
+      "number": "132",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    }
+  ]
+}

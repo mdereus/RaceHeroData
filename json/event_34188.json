@@ -1,0 +1,629 @@
+{
+  "id": 34188,
+  "name": "Gridlife Finals",
+  "started_at": "2022-10-07T15:00:00.000Z",
+  "ended_at": "2022-10-09T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Winnipeg",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-finals",
+  "created_at": "2022-10-07T15:05:26.971Z",
+  "updated_at": "2022-10-09T19:16:11.381Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 2428,
+    "name": "Heartland motorsports park",
+    "address": null,
+    "address2": null,
+    "city": null,
+    "region": null,
+    "postal_code": null,
+    "country": null,
+    "website_url": null,
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "html_url": "https://racehero.io/venues/2428",
+    "avatar_url": "",
+    "configuration": {
+      "id": 4011,
+      "venue_id": 2428,
+      "name": "2.5AA",
+      "length": 2.5,
+      "units": "mi",
+      "direction": "ccw"
+    }
+  },
+  "groups": [
+    {
+      "id": 1573399,
+      "name": "TA Heat 7",
+      "runs": [
+        {
+          "id": 69730513,
+          "group_id": 1573399,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-10-09T16:05:00.000Z",
+          "ended_at": "2022-10-09T16:22:01.296Z",
+          "last_received_data_at": "2022-10-09T16:33:45.969Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742405"
+        },
+        {
+          "id": 69729515,
+          "group_id": 1573399,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-10-09T15:50:00.000Z",
+          "ended_at": "2022-10-09T16:09:35.632Z",
+          "last_received_data_at": "2022-10-09T16:16:20.821Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742404"
+        },
+        {
+          "id": 69727726,
+          "group_id": 1573399,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-10-09T15:25:00.000Z",
+          "ended_at": "2022-10-09T15:51:06.736Z",
+          "last_received_data_at": "2022-10-09T15:55:58.133Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742403"
+        },
+        {
+          "id": 69727007,
+          "group_id": 1573399,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-10-09T15:00:00.000Z",
+          "ended_at": "2022-10-09T15:17:55.236Z",
+          "last_received_data_at": "2022-10-09T15:21:22.469Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742402"
+        }
+      ]
+    },
+    {
+      "id": 1573400,
+      "name": "TA Heat 8",
+      "runs": [
+        {
+          "id": 69737667,
+          "group_id": 1573400,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-10-09T18:45:00.000Z",
+          "ended_at": "2022-10-09T19:00:26.476Z",
+          "last_received_data_at": "2022-10-09T19:16:11.376Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742409"
+        },
+        {
+          "id": 69736886,
+          "group_id": 1573400,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-10-09T18:30:00.000Z",
+          "ended_at": "2022-10-09T18:46:42.568Z",
+          "last_received_data_at": "2022-10-09T18:56:46.190Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742408"
+        },
+        {
+          "id": 69736057,
+          "group_id": 1573400,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-10-09T18:15:00.000Z",
+          "ended_at": "2022-10-09T18:33:01.618Z",
+          "last_received_data_at": "2022-10-09T18:39:16.161Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742407"
+        },
+        {
+          "id": 69735167,
+          "group_id": 1573400,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-10-09T18:00:00.000Z",
+          "ended_at": "2022-10-09T18:19:10.220Z",
+          "last_received_data_at": "2022-10-09T18:19:27.697Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742406"
+        }
+      ]
+    },
+    {
+      "id": 1572649,
+      "name": "TA Heat 6",
+      "runs": [
+        {
+          "id": 69689968,
+          "group_id": 1572649,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-10-08T22:40:00.000Z",
+          "ended_at": "2022-10-08T22:59:33.230Z",
+          "last_received_data_at": "2022-10-08T22:58:02.567Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742401"
+        },
+        {
+          "id": 69689560,
+          "group_id": 1572649,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-10-08T22:20:00.000Z",
+          "ended_at": "2022-10-08T22:35:52.142Z",
+          "last_received_data_at": "2022-10-08T22:37:06.265Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742400"
+        },
+        {
+          "id": 69688716,
+          "group_id": 1572649,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-10-08T22:00:00.000Z",
+          "ended_at": "2022-10-08T22:16:21.154Z",
+          "last_received_data_at": "2022-10-08T22:19:21.760Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742399"
+        },
+        {
+          "id": 69687844,
+          "group_id": 1572649,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-10-08T21:40:00.000Z",
+          "ended_at": "2022-10-08T21:58:19.858Z",
+          "last_received_data_at": "2022-10-08T22:01:51.388Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742398"
+        }
+      ]
+    },
+    {
+      "id": 1572648,
+      "name": "TA Heat 5",
+      "runs": [
+        {
+          "id": 69680646,
+          "group_id": 1572648,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-10-08T19:05:00.000Z",
+          "ended_at": "2022-10-08T19:22:27.173Z",
+          "last_received_data_at": "2022-10-08T19:26:59.075Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742397"
+        },
+        {
+          "id": 69680257,
+          "group_id": 1572648,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-10-08T18:50:00.000Z",
+          "ended_at": "2022-10-08T19:04:54.523Z",
+          "last_received_data_at": "2022-10-08T19:08:13.065Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742396"
+        },
+        {
+          "id": 69679419,
+          "group_id": 1572648,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-10-08T18:35:00.000Z",
+          "ended_at": "2022-10-08T18:49:29.427Z",
+          "last_received_data_at": "2022-10-08T18:52:19.417Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742395"
+        },
+        {
+          "id": 69678477,
+          "group_id": 1572648,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-10-08T18:20:00.000Z",
+          "ended_at": "2022-10-08T18:36:35.401Z",
+          "last_received_data_at": "2022-10-08T18:37:02.369Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742394"
+        }
+      ]
+    },
+    {
+      "id": 1572647,
+      "name": "TA Heat 4",
+      "runs": [
+        {
+          "id": 69672322,
+          "group_id": 1572647,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-10-08T16:00:00.000Z",
+          "ended_at": "2022-10-08T16:17:30.440Z",
+          "last_received_data_at": "2022-10-08T16:42:08.861Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742393"
+        },
+        {
+          "id": 69671455,
+          "group_id": 1572647,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-10-08T15:40:00.000Z",
+          "ended_at": "2022-10-08T15:55:14.247Z",
+          "last_received_data_at": "2022-10-08T16:21:57.238Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742392"
+        },
+        {
+          "id": 69670565,
+          "group_id": 1572647,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-10-08T15:20:00.000Z",
+          "ended_at": "2022-10-08T15:36:02.144Z",
+          "last_received_data_at": "2022-10-08T16:06:07.207Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742391"
+        },
+        {
+          "id": 69668397,
+          "group_id": 1572647,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-10-08T15:00:00.000Z",
+          "ended_at": "2022-10-08T15:17:02.832Z",
+          "last_received_data_at": "2022-10-08T15:48:09.172Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742390"
+        }
+      ]
+    },
+    {
+      "id": 1572102,
+      "name": "TA Heat 3",
+      "runs": [
+        {
+          "id": 69629130,
+          "group_id": 1572102,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-10-07T22:55:00.000Z",
+          "ended_at": "2022-10-07T23:11:56.275Z",
+          "last_received_data_at": "2022-10-07T22:58:19.720Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742385"
+        },
+        {
+          "id": 69628330,
+          "group_id": 1572102,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-10-07T22:30:00.000Z",
+          "ended_at": "2022-10-07T22:47:17.092Z",
+          "last_received_data_at": "2022-10-07T22:39:32.483Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742384"
+        },
+        {
+          "id": 69627503,
+          "group_id": 1572102,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-10-07T22:05:00.000Z",
+          "ended_at": "2022-10-07T22:25:18.487Z",
+          "last_received_data_at": "2022-10-07T22:21:50.060Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742383"
+        },
+        {
+          "id": 69625782,
+          "group_id": 1572102,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-10-07T21:40:00.000Z",
+          "ended_at": "2022-10-07T21:56:51.056Z",
+          "last_received_data_at": "2022-10-07T22:00:26.217Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742382"
+        }
+      ]
+    },
+    {
+      "id": 1571963,
+      "name": "TA Heat 2",
+      "runs": [
+        {
+          "id": 69619341,
+          "group_id": 1571963,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-10-07T19:05:00.000Z",
+          "ended_at": "2022-10-07T19:23:15.959Z",
+          "last_received_data_at": "2022-10-07T19:33:11.042Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742381"
+        },
+        {
+          "id": 69617411,
+          "group_id": 1571963,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-10-07T18:45:00.000Z",
+          "ended_at": "2022-10-07T19:14:33.648Z",
+          "last_received_data_at": "2022-10-07T19:13:07.281Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742380"
+        },
+        {
+          "id": 69616263,
+          "group_id": 1571963,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-10-07T18:25:00.000Z",
+          "ended_at": "2022-10-07T18:41:53.864Z",
+          "last_received_data_at": "2022-10-07T18:43:26.063Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742379"
+        },
+        {
+          "id": 69615185,
+          "group_id": 1571963,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-10-07T18:05:00.000Z",
+          "ended_at": "2022-10-07T18:22:36.188Z",
+          "last_received_data_at": "2022-10-07T18:23:01.734Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742378"
+        }
+      ]
+    },
+    {
+      "id": 1571870,
+      "name": "TA Heat 1",
+      "runs": [
+        {
+          "id": 69609223,
+          "group_id": 1571870,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-10-07T16:00:00.000Z",
+          "ended_at": "2022-10-07T16:16:13.273Z",
+          "last_received_data_at": "2022-10-07T16:19:35.955Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742374"
+        },
+        {
+          "id": 69608783,
+          "group_id": 1571870,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-10-07T15:40:00.000Z",
+          "ended_at": "2022-10-07T15:58:40.341Z",
+          "last_received_data_at": "2022-10-07T16:02:00.189Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742373"
+        },
+        {
+          "id": 69607847,
+          "group_id": 1571870,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-10-07T15:20:00.000Z",
+          "ended_at": "2022-10-07T15:39:20.756Z",
+          "last_received_data_at": "2022-10-07T15:42:48.006Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742372"
+        },
+        {
+          "id": 69606871,
+          "group_id": 1571870,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-10-07T15:00:00.000Z",
+          "ended_at": "2022-10-07T15:16:39.107Z",
+          "last_received_data_at": "2022-10-07T15:22:34.864Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742371"
+        }
+      ]
+    },
+    {
+      "id": 1571871,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 69731527,
+          "group_id": 1571871,
+          "name": "Party Race",
+          "type": "2",
+          "started_at": "2022-10-09T16:30:00.000Z",
+          "ended_at": "2022-10-09T16:42:07.276Z",
+          "last_received_data_at": "2022-10-09T16:53:04.446Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742410"
+        },
+        {
+          "id": 69691297,
+          "group_id": 1571871,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2022-10-08T23:00:00.000Z",
+          "ended_at": "2022-10-08T23:15:51.372Z",
+          "last_received_data_at": "2022-10-08T23:25:04.580Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742389"
+        },
+        {
+          "id": 69681629,
+          "group_id": 1571871,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2022-10-08T19:10:00.000Z",
+          "ended_at": "2022-10-08T19:25:41.821Z",
+          "last_received_data_at": "2022-10-08T19:48:25.065Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742388"
+        },
+        {
+          "id": 69674559,
+          "group_id": 1571871,
+          "name": "Top 10 Shootout",
+          "type": "2",
+          "started_at": "2022-10-08T16:45:00.000Z",
+          "ended_at": "2022-10-08T17:09:00.573Z",
+          "last_received_data_at": "2022-10-08T17:31:01.879Z",
+          "status": "PROVISIONAL",
+          "total_laps": 1,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742387"
+        },
+        {
+          "id": 69667089,
+          "group_id": 1571871,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2022-10-08T14:50:00.000Z",
+          "ended_at": "2022-10-08T15:06:16.474Z",
+          "last_received_data_at": "2022-10-08T15:15:56.345Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742386"
+        },
+        {
+          "id": 69629993,
+          "group_id": 1571871,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2022-10-07T23:00:00.000Z",
+          "ended_at": "2022-10-07T23:15:21.448Z",
+          "last_received_data_at": "2022-10-07T23:27:17.559Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742377"
+        },
+        {
+          "id": 69620822,
+          "group_id": 1571871,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2022-10-07T19:30:00.000Z",
+          "ended_at": "2022-10-07T20:00:06.944Z",
+          "last_received_data_at": "2022-10-07T20:13:33.344Z",
+          "status": "PROVISIONAL",
+          "total_laps": 14,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742376"
+        },
+        {
+          "id": 69610079,
+          "group_id": 1571871,
+          "name": "Practice",
+          "type": "0",
+          "started_at": "2022-10-07T16:20:00.000Z",
+          "ended_at": "2022-10-07T16:43:19.092Z",
+          "last_received_data_at": "2022-10-07T16:44:16.346Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-finals/results/1073742375"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": 43079,
+  "name": "Gridlife Pitt Race",
+  "started_at": "2024-10-18T12:30:00.000Z",
+  "ended_at": "2024-10-20T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Toronto",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-pitt-race",
+  "created_at": "2024-10-11T12:30:54.749Z",
+  "updated_at": "2024-10-13T14:31:50.369Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 71,
+    "name": "Pittsburgh International Race Compl",
+    "address": "201 Penndale Road",
+    "address2": null,
+    "city": "Wampum",
+    "region": "PA",
+    "postal_code": "16157",
+    "country": "US",
+    "website_url": "http://www.PittRace.com",
+    "lat": 40.8468500765729,
+    "lng": -80.3430097545167,
+    "url": "http://www.PittRace.com",
+    "html_url": "https://racehero.io/venues/71",
+    "avatar_url": "",
+    "configuration": {
+      "id": 502,
+      "venue_id": 71,
+      "name": "Full Course",
+      "length": 2.8,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 2162918,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 105756659,
+          "group_id": 2162918,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2024-10-20T14:00:00.000Z",
+          "ended_at": "2024-10-20T14:23:04.061Z",
+          "last_received_data_at": "2024-10-13T14:31:50.365Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742085"
+        },
+        {
+          "id": 105720031,
+          "group_id": 2162918,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2024-10-19T21:00:00.000Z",
+          "ended_at": "2024-10-19T21:16:22.703Z",
+          "last_received_data_at": "2024-10-12T21:24:52.374Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742084"
+        },
+        {
+          "id": 105711827,
+          "group_id": 2162918,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2024-10-19T18:30:00.000Z",
+          "ended_at": "2024-10-19T18:54:44.990Z",
+          "last_received_data_at": "2024-10-12T18:29:58.372Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742083"
+        },
+        {
+          "id": 105701008,
+          "group_id": 2162918,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2024-10-19T14:55:00.000Z",
+          "ended_at": "2024-10-19T15:12:07.930Z",
+          "last_received_data_at": "2024-10-12T14:56:37.587Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742082"
+        },
+        {
+          "id": 105660701,
+          "group_id": 2162918,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2024-10-18T21:00:00.000Z",
+          "ended_at": "2024-10-18T21:39:40.178Z",
+          "last_received_data_at": "2024-10-11T21:43:07.557Z",
+          "status": "PROVISIONAL",
+          "total_laps": 13,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742080"
+        },
+        {
+          "id": 105650092,
+          "group_id": 2162918,
+          "name": "Practice 2",
+          "type": "0",
+          "started_at": "2024-10-18T17:05:00.000Z",
+          "ended_at": "2024-10-18T17:29:42.092Z",
+          "last_received_data_at": "2024-10-11T17:29:50.922Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742079"
+        },
+        {
+          "id": 105641696,
+          "group_id": 2162918,
+          "name": "Practice 1",
+          "type": "0",
+          "started_at": "2024-10-18T13:45:00.000Z",
+          "ended_at": "2024-10-18T14:07:17.210Z",
+          "last_received_data_at": "2024-10-11T14:17:47.622Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742078"
+        }
+      ]
+    },
+    {
+      "id": 2162917,
+      "name": "TA",
+      "runs": [
+        {
+          "id": 105753368,
+          "group_id": 2162917,
+          "name": "Heat 7",
+          "type": "1",
+          "started_at": "2024-10-20T12:35:00.000Z",
+          "ended_at": "2024-10-20T14:04:02.296Z",
+          "last_received_data_at": "2024-10-13T13:59:27.698Z",
+          "status": "PROVISIONAL",
+          "total_laps": 12,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742089"
+        },
+        {
+          "id": 105716281,
+          "group_id": 2162917,
+          "name": "Heat 6",
+          "type": "1",
+          "started_at": "2024-10-19T20:00:00.000Z",
+          "ended_at": "2024-10-19T21:18:46.753Z",
+          "last_received_data_at": "2024-10-12T20:58:17.953Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742088"
+        },
+        {
+          "id": 105706768,
+          "group_id": 2162917,
+          "name": "Heat 5",
+          "type": "1",
+          "started_at": "2024-10-19T17:00:00.000Z",
+          "ended_at": "2024-10-19T18:29:47.039Z",
+          "last_received_data_at": "2024-10-12T18:00:46.730Z",
+          "status": "PROVISIONAL",
+          "total_laps": 12,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742087"
+        },
+        {
+          "id": 105697250,
+          "group_id": 2162917,
+          "name": "Heat 4",
+          "type": "1",
+          "started_at": "2024-10-19T13:35:00.000Z",
+          "ended_at": "2024-10-19T14:47:03.365Z",
+          "last_received_data_at": "2024-10-12T14:33:09.565Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742086"
+        },
+        {
+          "id": 105657065,
+          "group_id": 2162917,
+          "name": "Heat 3",
+          "type": "1",
+          "started_at": "2024-10-18T21:00:00.000Z",
+          "ended_at": "2024-10-18T22:11:06.947Z",
+          "last_received_data_at": "2024-10-11T20:57:34.591Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742081"
+        },
+        {
+          "id": 105651057,
+          "group_id": 2162917,
+          "name": "Heat 2",
+          "type": "1",
+          "started_at": "2024-10-18T17:30:00.000Z",
+          "ended_at": "2024-10-18T18:11:40.292Z",
+          "last_received_data_at": "2024-10-11T18:38:23.157Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742077"
+        },
+        {
+          "id": 105637901,
+          "group_id": 2162917,
+          "name": "Heat 1",
+          "type": "1",
+          "started_at": "2024-10-18T12:30:00.000Z",
+          "ended_at": "2024-10-18T13:54:49.239Z",
+          "last_received_data_at": "2024-10-11T13:55:16.399Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-pitt-race/results/1073742076"
+        }
+      ]
+    }
+  ]
+}

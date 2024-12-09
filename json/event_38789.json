@@ -1,0 +1,436 @@
+{
+  "id": 38789,
+  "name": "Gridlife Laguna Seca",
+  "started_at": "2023-10-20T17:40:00.000Z",
+  "ended_at": "2023-10-22T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Los_Angeles",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-laguna-seca",
+  "created_at": "2023-10-20T17:44:27.163Z",
+  "updated_at": "2023-10-22T18:18:54.984Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 44,
+    "name": "WeatherTech Raceway Laguna Seca",
+    "address": "1021 Monterey-Salinas Highway",
+    "address2": null,
+    "city": "Salinas",
+    "region": "CA",
+    "postal_code": "93908",
+    "country": "US",
+    "website_url": "http://www.laguna-seca.com",
+    "lat": 36.5832991485573,
+    "lng": -121.756400116951,
+    "url": "http://www.laguna-seca.com",
+    "html_url": "https://racehero.io/venues/44",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1569331073/5eef7e32b199a17e689cf7dc6fbdb768.jpg",
+    "configuration": {
+      "id": 5,
+      "venue_id": 44,
+      "name": "Full Course",
+      "length": 2.2,
+      "units": "mi",
+      "direction": "ccw"
+    }
+  },
+  "groups": [
+    {
+      "id": 1876696,
+      "name": "RUSH",
+      "runs": [
+        {
+          "id": 88245414,
+          "group_id": 1876696,
+          "name": "TT Heat 3",
+          "type": "1",
+          "started_at": "2023-10-22T18:00:00.000Z",
+          "ended_at": "2023-10-22T18:16:57.289Z",
+          "last_received_data_at": "2023-10-22T18:18:54.980Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741932"
+        },
+        {
+          "id": 88241997,
+          "group_id": 1876696,
+          "name": "TT Heat 2",
+          "type": "1",
+          "started_at": "2023-10-22T16:35:00.000Z",
+          "ended_at": "2023-10-22T16:47:39.266Z",
+          "last_received_data_at": "2023-10-22T16:49:45.751Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741931"
+        },
+        {
+          "id": 88238279,
+          "group_id": 1876696,
+          "name": "TT Heat 1",
+          "type": "1",
+          "started_at": "2023-10-22T15:00:00.000Z",
+          "ended_at": "2023-10-22T15:13:44.805Z",
+          "last_received_data_at": "2023-10-22T15:26:30.949Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741930"
+        },
+        {
+          "id": 88204786,
+          "group_id": 1876696,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2023-10-21T23:00:00.000Z",
+          "ended_at": "2023-10-21T23:13:00.509Z",
+          "last_received_data_at": "2023-10-21T23:33:21.216Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741923"
+        },
+        {
+          "id": 88190786,
+          "group_id": 1876696,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2023-10-21T17:45:00.000Z",
+          "ended_at": "2023-10-21T17:58:15.674Z",
+          "last_received_data_at": "2023-10-21T18:17:36.527Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741922"
+        },
+        {
+          "id": 88181769,
+          "group_id": 1876696,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2023-10-21T15:25:00.000Z",
+          "ended_at": "2023-10-21T15:40:06.763Z",
+          "last_received_data_at": "2023-10-21T15:46:53.740Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741921"
+        },
+        {
+          "id": 88145249,
+          "group_id": 1876696,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2023-10-20T23:15:00.000Z",
+          "ended_at": "2023-10-20T23:27:44.046Z",
+          "last_received_data_at": "2023-10-20T23:53:29.913Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741908"
+        },
+        {
+          "id": 88138212,
+          "group_id": 1876696,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2023-10-20T19:30:00.000Z",
+          "ended_at": "2023-10-20T19:45:09.216Z",
+          "last_received_data_at": "2023-10-20T20:15:56.453Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741907"
+        },
+        {
+          "id": 88132850,
+          "group_id": 1876696,
+          "name": "Practice",
+          "type": "0",
+          "started_at": "2023-10-20T17:40:00.000Z",
+          "ended_at": "2023-10-20T17:57:27.776Z",
+          "last_received_data_at": "2023-10-20T18:02:36.309Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741906"
+        }
+      ]
+    },
+    {
+      "id": 1876698,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 88206265,
+          "group_id": 1876698,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2023-10-21T23:40:00.000Z",
+          "ended_at": "2023-10-21T23:53:24.724Z",
+          "last_received_data_at": "2023-10-22T00:17:55.671Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741929"
+        },
+        {
+          "id": 88199653,
+          "group_id": 1876698,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2023-10-21T20:40:00.000Z",
+          "ended_at": "2023-10-21T20:59:53.553Z",
+          "last_received_data_at": "2023-10-21T21:24:52.505Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741928"
+        },
+        {
+          "id": 88191971,
+          "group_id": 1876698,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2023-10-21T18:10:00.000Z",
+          "ended_at": "2023-10-21T18:28:25.815Z",
+          "last_received_data_at": "2023-10-21T18:40:44.111Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741927"
+        },
+        {
+          "id": 88146343,
+          "group_id": 1876698,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2023-10-20T23:50:00.000Z",
+          "ended_at": "2023-10-21T00:00:34.049Z",
+          "last_received_data_at": "2023-10-21T00:29:58.601Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741916"
+        },
+        {
+          "id": 88143067,
+          "group_id": 1876698,
+          "name": "Qualifying",
+          "type": "0",
+          "started_at": "2023-10-20T22:15:00.000Z",
+          "ended_at": "2023-10-20T22:30:29.644Z",
+          "last_received_data_at": "2023-10-20T22:39:37.423Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741913"
+        },
+        {
+          "id": 88137383,
+          "group_id": 1876698,
+          "name": "Practice",
+          "type": "0",
+          "started_at": "2023-10-20T19:10:00.000Z",
+          "ended_at": "2023-10-20T19:28:49.410Z",
+          "last_received_data_at": "2023-10-20T19:50:54.023Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741912"
+        }
+      ]
+    },
+    {
+      "id": 1876695,
+      "name": "TA",
+      "runs": [
+        {
+          "id": 88239365,
+          "group_id": 1876695,
+          "name": "Last Dash",
+          "type": "1",
+          "started_at": "2023-10-22T15:15:00.000Z",
+          "ended_at": "2023-10-22T16:20:44.128Z",
+          "last_received_data_at": "2023-10-22T16:36:57.526Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741933"
+        },
+        {
+          "id": 88202572,
+          "group_id": 1876695,
+          "name": "Podium Sprint",
+          "type": "1",
+          "started_at": "2023-10-21T21:45:00.000Z",
+          "ended_at": "2023-10-21T22:43:56.338Z",
+          "last_received_data_at": "2023-10-21T23:10:57.773Z",
+          "status": "PROVISIONAL",
+          "total_laps": 2,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741926"
+        },
+        {
+          "id": 88193185,
+          "group_id": 1876695,
+          "name": "Qualifying 3",
+          "type": "1",
+          "started_at": "2023-10-21T18:35:00.000Z",
+          "ended_at": "2023-10-21T19:34:52.069Z",
+          "last_received_data_at": "2023-10-21T20:45:34.686Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741925"
+        },
+        {
+          "id": 88183580,
+          "group_id": 1876695,
+          "name": "Qualifying 2",
+          "type": "1",
+          "started_at": "2023-10-21T15:50:00.000Z",
+          "ended_at": "2023-10-21T16:59:28.082Z",
+          "last_received_data_at": "2023-10-21T17:26:52.597Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741924"
+        },
+        {
+          "id": 88143726,
+          "group_id": 1876695,
+          "name": "Qualifying 1",
+          "type": "1",
+          "started_at": "2023-10-20T22:30:00.000Z",
+          "ended_at": "2023-10-20T23:20:29.119Z",
+          "last_received_data_at": "2023-10-20T23:32:00.347Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741917"
+        },
+        {
+          "id": 88138931,
+          "group_id": 1876695,
+          "name": "Practice 2",
+          "type": "0",
+          "started_at": "2023-10-20T20:15:00.000Z",
+          "ended_at": "2023-10-20T21:06:08.739Z",
+          "last_received_data_at": "2023-10-20T21:07:48.833Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741915"
+        }
+      ]
+    },
+    {
+      "id": 1876697,
+      "name": "MODEL3",
+      "runs": [
+        {
+          "id": 88208124,
+          "group_id": 1876697,
+          "name": "Heat 4",
+          "type": "2",
+          "started_at": "2023-10-22T00:20:00.000Z",
+          "ended_at": "2023-10-22T00:28:13.543Z",
+          "last_received_data_at": "2023-10-22T01:13:09.442Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741920"
+        },
+        {
+          "id": 88201804,
+          "group_id": 1876697,
+          "name": "Heat 3",
+          "type": "2",
+          "started_at": "2023-10-21T21:25:00.000Z",
+          "ended_at": "2023-10-21T21:39:48.928Z",
+          "last_received_data_at": "2023-10-21T22:08:08.691Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741919"
+        },
+        {
+          "id": 88180727,
+          "group_id": 1876697,
+          "name": "Heat 2",
+          "type": "2",
+          "started_at": "2023-10-21T15:05:00.000Z",
+          "ended_at": "2023-10-21T15:13:12.296Z",
+          "last_received_data_at": "2023-10-21T15:18:24.059Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741918"
+        },
+        {
+          "id": 88147219,
+          "group_id": 1876697,
+          "name": "Heat 1",
+          "type": "2",
+          "started_at": "2023-10-21T00:15:00.000Z",
+          "ended_at": "2023-10-21T00:24:36.688Z",
+          "last_received_data_at": "2023-10-21T00:50:42.123Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741911"
+        },
+        {
+          "id": 88142377,
+          "group_id": 1876697,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2023-10-20T22:00:00.000Z",
+          "ended_at": "2023-10-20T22:16:17.757Z",
+          "last_received_data_at": "2023-10-20T22:23:08.573Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741910"
+        }
+      ]
+    },
+    {
+      "id": 1876699,
+      "name": "TA+MODEL3",
+      "runs": [
+        {
+          "id": 88133583,
+          "group_id": 1876699,
+          "name": "Practice",
+          "type": "0",
+          "started_at": "2023-10-20T17:55:00.000Z",
+          "ended_at": "2023-10-20T19:06:47.207Z",
+          "last_received_data_at": "2023-10-20T19:25:41.990Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-seca/results/1073741914"
+        }
+      ]
+    }
+  ]
+}

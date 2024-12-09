@@ -1,0 +1,694 @@
+{
+  "id": 29401,
+  "name": "Gridlife Mid-Summer Meet",
+  "started_at": "2021-08-06T15:20:00.000Z",
+  "ended_at": "2021-08-08T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Yellowknife",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-mid-summer-meet",
+  "created_at": "2021-08-06T14:00:45.084Z",
+  "updated_at": "2021-08-08T18:03:13.670Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 317,
+    "name": "Mid-Ohio Pro Course",
+    "address": null,
+    "address2": null,
+    "city": null,
+    "region": null,
+    "postal_code": null,
+    "country": null,
+    "website_url": null,
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "html_url": "https://racehero.io/venues/317",
+    "avatar_url": "",
+    "configuration": {
+      "id": 2202,
+      "venue_id": 317,
+      "name": "M-O 2.4",
+      "length": 2.3,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 1242394,
+      "name": "TA Heat 8",
+      "runs": [
+        {
+          "id": 49055103,
+          "group_id": 1242394,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2021-08-08T17:45:00.000Z",
+          "ended_at": "2021-08-08T17:59:01.417Z",
+          "last_received_data_at": "2021-08-08T18:00:33.247Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741977"
+        },
+        {
+          "id": 49054507,
+          "group_id": 1242394,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-08-08T17:30:00.000Z",
+          "ended_at": "2021-08-08T17:43:31.845Z",
+          "last_received_data_at": "2021-08-08T17:44:47.976Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741976"
+        },
+        {
+          "id": 49054103,
+          "group_id": 1242394,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-08-08T17:15:00.000Z",
+          "ended_at": "2021-08-08T17:27:34.230Z",
+          "last_received_data_at": "2021-08-08T17:28:54.717Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741975"
+        },
+        {
+          "id": 49053198,
+          "group_id": 1242394,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-08-08T17:00:00.000Z",
+          "ended_at": "2021-08-08T17:14:45.891Z",
+          "last_received_data_at": "2021-08-08T17:14:55.859Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741974"
+        }
+      ]
+    },
+    {
+      "id": 1240873,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 49048676,
+          "group_id": 1240873,
+          "name": "Expedition Race",
+          "type": "2",
+          "started_at": "2021-08-08T15:30:00.000Z",
+          "ended_at": "2021-08-08T15:48:17.693Z",
+          "last_received_data_at": "2021-08-08T15:50:03.970Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741969"
+        },
+        {
+          "id": 49013235,
+          "group_id": 1240873,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2021-08-07T22:00:00.000Z",
+          "ended_at": "2021-08-07T22:15:30.095Z",
+          "last_received_data_at": "2021-08-07T22:24:14.882Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741968"
+        },
+        {
+          "id": 49004300,
+          "group_id": 1240873,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2021-08-07T18:00:00.000Z",
+          "ended_at": "2021-08-07T18:15:24.648Z",
+          "last_received_data_at": "2021-08-07T18:26:52.751Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741967"
+        },
+        {
+          "id": 48998721,
+          "group_id": 1240873,
+          "name": "Shootout",
+          "type": "1",
+          "started_at": "2021-08-07T15:45:00.000Z",
+          "ended_at": "2021-08-07T16:10:17.539Z",
+          "last_received_data_at": "2021-08-07T16:13:24.948Z",
+          "status": "PROVISIONAL",
+          "total_laps": 2,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741953"
+        },
+        {
+          "id": 48993669,
+          "group_id": 1240873,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2021-08-07T13:40:00.000Z",
+          "ended_at": "2021-08-07T13:57:30.729Z",
+          "last_received_data_at": "2021-08-07T14:00:51.999Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741952"
+        },
+        {
+          "id": 48962399,
+          "group_id": 1240873,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2021-08-07T00:00:00.000Z",
+          "ended_at": "2021-08-07T00:20:55.670Z",
+          "last_received_data_at": "2021-08-06T22:22:36.420Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741940"
+        },
+        {
+          "id": 48957375,
+          "group_id": 1240873,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2021-08-06T19:25:00.000Z",
+          "ended_at": "2021-08-06T19:52:14.690Z",
+          "last_received_data_at": "2021-08-06T19:58:45.051Z",
+          "status": "PROVISIONAL",
+          "total_laps": 14,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741939"
+        },
+        {
+          "id": 48948647,
+          "group_id": 1240873,
+          "name": "Practice",
+          "type": "0",
+          "started_at": "2021-08-06T15:20:00.000Z",
+          "ended_at": "2021-08-06T17:38:22.503Z",
+          "last_received_data_at": "2021-08-06T15:45:58.847Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741938"
+        }
+      ]
+    },
+    {
+      "id": 1241802,
+      "name": "TA Heat 7",
+      "runs": [
+        {
+          "id": 49055102,
+          "group_id": 1241802,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-08-08T14:00:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741970"
+        },
+        {
+          "id": 49047744,
+          "group_id": 1241802,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2021-08-08T14:45:00.000Z",
+          "ended_at": "2021-08-08T15:04:17.420Z",
+          "last_received_data_at": "2021-08-08T15:20:10.778Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741973"
+        },
+        {
+          "id": 49047192,
+          "group_id": 1241802,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-08-08T14:30:00.000Z",
+          "ended_at": "2021-08-08T14:44:17.131Z",
+          "last_received_data_at": "2021-08-08T14:57:25.507Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741972"
+        },
+        {
+          "id": 49046950,
+          "group_id": 1241802,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-08-08T14:15:00.000Z",
+          "ended_at": "2021-08-08T14:37:05.138Z",
+          "last_received_data_at": "2021-08-08T14:42:55.279Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741971"
+        }
+      ]
+    },
+    {
+      "id": 1241622,
+      "name": "TA Heat 6",
+      "runs": [
+        {
+          "id": 49012939,
+          "group_id": 1241622,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2021-08-07T21:10:00.000Z",
+          "ended_at": "2021-08-07T21:24:51.720Z",
+          "last_received_data_at": "2021-08-07T21:53:46.995Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741966"
+        },
+        {
+          "id": 49012189,
+          "group_id": 1241622,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-08-07T20:55:00.000Z",
+          "ended_at": "2021-08-07T21:12:07.099Z",
+          "last_received_data_at": "2021-08-07T21:38:30.641Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741965"
+        },
+        {
+          "id": 49011384,
+          "group_id": 1241622,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-08-07T20:40:00.000Z",
+          "ended_at": "2021-08-07T20:57:27.878Z",
+          "last_received_data_at": "2021-08-07T21:17:15.291Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741964"
+        },
+        {
+          "id": 49010621,
+          "group_id": 1241622,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-08-07T20:25:00.000Z",
+          "ended_at": "2021-08-07T20:40:26.288Z",
+          "last_received_data_at": "2021-08-07T20:57:48.362Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741963"
+        }
+      ]
+    },
+    {
+      "id": 1241604,
+      "name": "TA Heat 5",
+      "runs": [
+        {
+          "id": 49003979,
+          "group_id": 1241604,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2021-08-07T17:45:00.000Z",
+          "ended_at": "2021-08-07T17:56:29.826Z",
+          "last_received_data_at": "2021-08-07T18:06:06.527Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741962"
+        },
+        {
+          "id": 49003089,
+          "group_id": 1241604,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-08-07T17:30:00.000Z",
+          "ended_at": "2021-08-07T17:43:34.816Z",
+          "last_received_data_at": "2021-08-07T17:54:26.458Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741961"
+        },
+        {
+          "id": 49002906,
+          "group_id": 1241604,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-08-07T17:15:00.000Z",
+          "ended_at": "2021-08-07T17:25:33.523Z",
+          "last_received_data_at": "2021-08-07T17:39:28.802Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741960"
+        },
+        {
+          "id": 49002114,
+          "group_id": 1241604,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-08-07T17:00:00.000Z",
+          "ended_at": "2021-08-07T17:10:18.226Z",
+          "last_received_data_at": "2021-08-07T17:26:49.774Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741959"
+        }
+      ]
+    },
+    {
+      "id": 1241540,
+      "name": "TA Heat 4",
+      "runs": [
+        {
+          "id": 49055104,
+          "group_id": 1241540,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2021-08-07T15:00:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741958"
+        },
+        {
+          "id": 48997058,
+          "group_id": 1241540,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2021-08-07T14:45:00.000Z",
+          "ended_at": "2021-08-07T15:06:55.877Z",
+          "last_received_data_at": "2021-08-07T15:27:36.534Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741957"
+        },
+        {
+          "id": 48996172,
+          "group_id": 1241540,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-08-07T14:30:00.000Z",
+          "ended_at": "2021-08-07T14:49:57.884Z",
+          "last_received_data_at": "2021-08-07T15:05:37.093Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741956"
+        },
+        {
+          "id": 48995388,
+          "group_id": 1241540,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-08-07T14:15:00.000Z",
+          "ended_at": "2021-08-07T14:31:46.494Z",
+          "last_received_data_at": "2021-08-07T14:42:44.891Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741955"
+        },
+        {
+          "id": 48994523,
+          "group_id": 1241540,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-08-07T14:00:00.000Z",
+          "ended_at": "2021-08-07T14:20:33.058Z",
+          "last_received_data_at": "2021-08-07T14:25:47.758Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741954"
+        }
+      ]
+    },
+    {
+      "id": 1240960,
+      "name": "TA Heat 3",
+      "runs": [
+        {
+          "id": 49055100,
+          "group_id": 1240960,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2021-08-06T21:30:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741951"
+        },
+        {
+          "id": 49055099,
+          "group_id": 1240960,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2021-08-06T21:30:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741950"
+        },
+        {
+          "id": 48961627,
+          "group_id": 1240960,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2021-08-06T21:15:00.000Z",
+          "ended_at": "2021-08-06T21:29:42.262Z",
+          "last_received_data_at": "2021-08-06T21:48:41.760Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741949"
+        },
+        {
+          "id": 48961134,
+          "group_id": 1240960,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-08-06T21:00:00.000Z",
+          "ended_at": "2021-08-06T21:13:39.092Z",
+          "last_received_data_at": "2021-08-06T21:32:12.906Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741948"
+        },
+        {
+          "id": 48960199,
+          "group_id": 1240960,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-08-06T20:45:00.000Z",
+          "ended_at": "2021-08-06T21:06:22.322Z",
+          "last_received_data_at": "2021-08-06T21:18:30.704Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741947"
+        },
+        {
+          "id": 48959746,
+          "group_id": 1240960,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-08-06T20:30:00.000Z",
+          "ended_at": "2021-08-06T20:46:08.598Z",
+          "last_received_data_at": "2021-08-06T20:55:58.056Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741946"
+        }
+      ]
+    },
+    {
+      "id": 1240959,
+      "name": "TA Heat 2",
+      "runs": [
+        {
+          "id": 49055101,
+          "group_id": 1240959,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2021-08-06T18:00:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741945"
+        },
+        {
+          "id": 48954470,
+          "group_id": 1240959,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2021-08-06T17:45:00.000Z",
+          "ended_at": "2021-08-06T17:59:43.994Z",
+          "last_received_data_at": "2021-08-06T18:28:38.045Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741944"
+        },
+        {
+          "id": 48953762,
+          "group_id": 1240959,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-08-06T17:30:00.000Z",
+          "ended_at": "2021-08-06T17:46:28.788Z",
+          "last_received_data_at": "2021-08-06T18:01:28.428Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741943"
+        },
+        {
+          "id": 48953011,
+          "group_id": 1240959,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-08-06T17:15:00.000Z",
+          "ended_at": "2021-08-06T17:29:14.305Z",
+          "last_received_data_at": "2021-08-06T17:42:51.626Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741942"
+        },
+        {
+          "id": 48952307,
+          "group_id": 1240959,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-08-06T17:00:00.000Z",
+          "ended_at": "2021-08-06T17:14:11.392Z",
+          "last_received_data_at": "2021-08-06T17:21:51.032Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741941"
+        }
+      ]
+    },
+    {
+      "id": 1240872,
+      "name": "TA Heat 1",
+      "runs": [
+        {
+          "id": 48948195,
+          "group_id": 1240872,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2021-08-06T17:00:00.000Z",
+          "ended_at": "2021-08-06T17:10:46.598Z",
+          "last_received_data_at": "2021-08-06T15:24:01.004Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741937"
+        },
+        {
+          "id": 48947940,
+          "group_id": 1240872,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2021-08-06T16:45:00.000Z",
+          "ended_at": "2021-08-06T16:59:15.769Z",
+          "last_received_data_at": "2021-08-06T15:06:11.391Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741936"
+        },
+        {
+          "id": 48947254,
+          "group_id": 1240872,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-08-06T16:30:00.000Z",
+          "ended_at": "2021-08-06T16:45:26.627Z",
+          "last_received_data_at": "2021-08-06T14:51:54.096Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741935"
+        },
+        {
+          "id": 48946555,
+          "group_id": 1240872,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-08-06T16:15:00.000Z",
+          "ended_at": "2021-08-06T16:29:36.563Z",
+          "last_received_data_at": "2021-08-06T14:33:46.166Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741934"
+        },
+        {
+          "id": 48945857,
+          "group_id": 1240872,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-08-06T16:00:00.000Z",
+          "ended_at": "2021-08-06T16:14:24.184Z",
+          "last_received_data_at": "2021-08-06T14:17:44.485Z",
+          "status": "PROVISIONAL",
+          "total_laps": 1,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet/results/1073741933"
+        }
+      ]
+    }
+  ]
+}

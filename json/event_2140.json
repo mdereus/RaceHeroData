@@ -1,0 +1,498 @@
+{
+  "id": 2140,
+  "name": "Gridlife South Festival Road Atlanta",
+  "started_at": "2017-08-25T13:30:00.000Z",
+  "ended_at": "2017-08-25T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "Chief of Timing & Scoring",
+    "Race Director",
+    "",
+    ""
+  ],
+  "timezone": "America/Winnipeg",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta",
+  "created_at": "2017-08-25T13:31:34.368Z",
+  "updated_at": "2017-08-27T16:53:02.234Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 80,
+    "name": "Road Atlanta",
+    "address": "5300 Winder Highway",
+    "address2": null,
+    "city": "Braselton",
+    "region": "GA",
+    "postal_code": "30517",
+    "country": "US",
+    "website_url": "http://www.roadatlanta.com",
+    "lat": 34.1483401250983,
+    "lng": -83.8143782673022,
+    "url": "http://www.roadatlanta.com",
+    "html_url": "https://racehero.io/venues/80",
+    "avatar_url": "",
+    "configuration": {
+      "id": 40,
+      "venue_id": 80,
+      "name": "Road Atlanta",
+      "length": 2.5,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 11124,
+      "name": "Practice 1",
+      "runs": [
+        {
+          "id": 529992,
+          "group_id": 11124,
+          "name": "Group A ",
+          "type": "1",
+          "started_at": "2017-08-25T13:30:00.000Z",
+          "ended_at": "2017-08-25T14:33:29.959Z",
+          "last_received_data_at": "2017-08-25T14:35:18.028Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741904"
+        },
+        {
+          "id": 533809,
+          "group_id": 11124,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-08-25T13:42:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741905"
+        }
+      ]
+    },
+    {
+      "id": 11129,
+      "name": "Qualifying ",
+      "runs": [
+        {
+          "id": 530112,
+          "group_id": 11129,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-08-25T18:00:00.000Z",
+          "ended_at": "2017-08-25T18:08:45.877Z",
+          "last_received_data_at": "2017-08-25T18:10:31.309Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741908"
+        },
+        {
+          "id": 530118,
+          "group_id": 11129,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-08-25T18:12:00.000Z",
+          "ended_at": "2017-08-25T18:25:22.743Z",
+          "last_received_data_at": "2017-08-25T18:23:57.752Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741909"
+        },
+        {
+          "id": 530189,
+          "group_id": 11129,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2017-08-25T18:36:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": "2017-08-25T18:45:44.770Z",
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741911"
+        },
+        {
+          "id": 530162,
+          "group_id": 11129,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-08-25T18:24:00.000Z",
+          "ended_at": "2017-08-25T18:43:20.813Z",
+          "last_received_data_at": "2017-08-25T18:43:33.497Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741910"
+        }
+      ]
+    },
+    {
+      "id": 11143,
+      "name": "Heat 1 ",
+      "runs": [
+        {
+          "id": 530387,
+          "group_id": 11143,
+          "name": "Group A ",
+          "type": "1",
+          "started_at": "2017-08-25T20:55:00.000Z",
+          "ended_at": "2017-08-25T21:03:19.930Z",
+          "last_received_data_at": "2017-08-25T21:22:37.105Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741912"
+        },
+        {
+          "id": 530394,
+          "group_id": 11143,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-08-25T21:07:00.000Z",
+          "ended_at": "2017-08-25T21:19:27.490Z",
+          "last_received_data_at": "2017-08-25T21:35:07.311Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741913"
+        },
+        {
+          "id": 530469,
+          "group_id": 11143,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-08-25T21:20:00.000Z",
+          "ended_at": "2017-08-25T21:31:48.773Z",
+          "last_received_data_at": "2017-08-25T21:46:59.225Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741914"
+        },
+        {
+          "id": 530482,
+          "group_id": 11143,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2017-08-25T21:32:00.000Z",
+          "ended_at": "2017-08-25T21:41:42.184Z",
+          "last_received_data_at": "2017-08-25T21:56:43.038Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741915"
+        }
+      ]
+    },
+    {
+      "id": 11188,
+      "name": "Heat 2",
+      "runs": [
+        {
+          "id": 531521,
+          "group_id": 11188,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-08-26T13:54:00.000Z",
+          "ended_at": "2017-08-26T14:07:08.542Z",
+          "last_received_data_at": "2017-08-26T14:23:41.535Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741918"
+        },
+        {
+          "id": 531575,
+          "group_id": 11188,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2017-08-26T14:06:00.000Z",
+          "ended_at": "2017-08-26T14:21:24.203Z",
+          "last_received_data_at": "2017-08-26T14:39:09.954Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741919"
+        },
+        {
+          "id": 531314,
+          "group_id": 11188,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-08-26T13:30:00.000Z",
+          "ended_at": "2017-08-26T13:39:31.456Z",
+          "last_received_data_at": "2017-08-26T13:40:40.163Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741916"
+        },
+        {
+          "id": 531380,
+          "group_id": 11188,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-08-26T13:42:00.000Z",
+          "ended_at": "2017-08-26T14:09:47.989Z",
+          "last_received_data_at": "2017-08-26T14:09:53.317Z",
+          "status": "PROVISIONAL",
+          "total_laps": 1,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741917"
+        }
+      ]
+    },
+    {
+      "id": 11198,
+      "name": "Heat 3",
+      "runs": [
+        {
+          "id": 531908,
+          "group_id": 11198,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-08-26T15:20:00.000Z",
+          "ended_at": "2017-08-26T15:29:29.657Z",
+          "last_received_data_at": "2017-08-26T15:48:45.658Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741920"
+        },
+        {
+          "id": 531952,
+          "group_id": 11198,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-08-26T15:32:00.000Z",
+          "ended_at": "2017-08-26T15:51:16.634Z",
+          "last_received_data_at": "2017-08-26T16:08:18.777Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741921"
+        },
+        {
+          "id": 532035,
+          "group_id": 11198,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-08-26T15:44:00.000Z",
+          "ended_at": "2017-08-26T15:55:55.111Z",
+          "last_received_data_at": "2017-08-26T16:20:18.988Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741922"
+        },
+        {
+          "id": 532111,
+          "group_id": 11198,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2017-08-26T15:46:00.000Z",
+          "ended_at": "2017-08-26T15:56:16.770Z",
+          "last_received_data_at": "2017-08-26T16:30:50.620Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741923"
+        }
+      ]
+    },
+    {
+      "id": 11200,
+      "name": "Heat 4 ",
+      "runs": []
+    },
+    {
+      "id": 11201,
+      "name": "Heat 4",
+      "runs": [
+        {
+          "id": 532853,
+          "group_id": 11201,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2017-08-26T22:12:00.000Z",
+          "ended_at": "2017-08-26T22:21:52.802Z",
+          "last_received_data_at": "2017-08-26T22:52:25.388Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741927"
+        },
+        {
+          "id": 532844,
+          "group_id": 11201,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-08-26T21:47:00.000Z",
+          "ended_at": "2017-08-26T21:56:55.020Z",
+          "last_received_data_at": "2017-08-26T22:33:04.357Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741925"
+        },
+        {
+          "id": 532848,
+          "group_id": 11201,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-08-26T22:00:00.000Z",
+          "ended_at": "2017-08-26T22:09:22.861Z",
+          "last_received_data_at": "2017-08-26T22:42:35.904Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741926"
+        },
+        {
+          "id": 532837,
+          "group_id": 11201,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-08-26T21:35:00.000Z",
+          "ended_at": "2017-08-26T21:42:42.694Z",
+          "last_received_data_at": "2017-08-26T22:23:01.572Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741924"
+        }
+      ]
+    },
+    {
+      "id": 11212,
+      "name": "Heat 5",
+      "runs": [
+        {
+          "id": 533182,
+          "group_id": 11212,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-08-27T13:00:00.000Z",
+          "ended_at": "2017-08-27T13:09:39.674Z",
+          "last_received_data_at": "2017-08-27T13:09:05.407Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741928"
+        },
+        {
+          "id": 533233,
+          "group_id": 11212,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2017-08-27T13:36:00.000Z",
+          "ended_at": "2017-08-27T13:47:48.602Z",
+          "last_received_data_at": "2017-08-27T13:53:09.584Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741931"
+        },
+        {
+          "id": 533205,
+          "group_id": 11212,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-08-27T13:12:00.000Z",
+          "ended_at": "2017-08-27T13:27:20.528Z",
+          "last_received_data_at": "2017-08-27T13:24:35.263Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741929"
+        },
+        {
+          "id": 533207,
+          "group_id": 11212,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-08-27T13:24:00.000Z",
+          "ended_at": "2017-08-27T13:39:39.555Z",
+          "last_received_data_at": "2017-08-27T13:41:15.845Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741930"
+        }
+      ]
+    },
+    {
+      "id": 11230,
+      "name": "Heat 6",
+      "runs": [
+        {
+          "id": 533736,
+          "group_id": 11230,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-08-27T16:00:00.000Z",
+          "ended_at": "2017-08-27T16:10:39.045Z",
+          "last_received_data_at": "2017-08-27T16:12:02.625Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741932"
+        },
+        {
+          "id": 533797,
+          "group_id": 11230,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-08-27T16:24:00.000Z",
+          "ended_at": "2017-08-27T16:34:51.868Z",
+          "last_received_data_at": "2017-08-27T16:34:54.236Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741934"
+        },
+        {
+          "id": 533810,
+          "group_id": 11230,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2017-08-27T16:36:00.000Z",
+          "ended_at": "2017-08-27T16:54:07.473Z",
+          "last_received_data_at": "2017-08-27T16:53:06.277Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741935"
+        },
+        {
+          "id": 533754,
+          "group_id": 11230,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-08-27T16:12:00.000Z",
+          "ended_at": "2017-08-27T16:22:05.342Z",
+          "last_received_data_at": "2017-08-27T16:22:11.126Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-south-festival-road-atlanta/results/1073741933"
+        }
+      ]
+    }
+  ]
+}

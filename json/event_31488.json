@@ -1,0 +1,409 @@
+{
+  "id": 31488,
+  "name": "Gridlife ATL",
+  "started_at": "2022-03-18T13:20:00.000Z",
+  "ended_at": "2022-03-19T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Toronto",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-atl",
+  "created_at": "2022-03-18T13:34:53.554Z",
+  "updated_at": "2022-03-19T21:30:55.889Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 4,
+    "name": "Atlanta Motorsports Park",
+    "address": "20 Duck Thurmond Road,",
+    "address2": null,
+    "city": "Dawsonville",
+    "region": "GA",
+    "postal_code": "30534",
+    "country": "US",
+    "website_url": "http://www.atlantamotorsportspark.net/",
+    "lat": 34.4211856918105,
+    "lng": -84.1187997985402,
+    "url": "http://www.atlantamotorsportspark.net/",
+    "html_url": "https://racehero.io/venues/4",
+    "avatar_url": "",
+    "configuration": {
+      "id": 426,
+      "venue_id": 4,
+      "name": "Main",
+      "length": 1.8,
+      "units": "mi",
+      "direction": "ccw"
+    }
+  },
+  "groups": [
+    {
+      "id": 1410231,
+      "name": "TA Heat 6",
+      "runs": [
+        {
+          "id": 59472520,
+          "group_id": 1410231,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-03-19T19:05:00.000Z",
+          "ended_at": "2022-03-19T19:20:38.349Z",
+          "last_received_data_at": "2022-03-19T19:30:35.695Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742098"
+        },
+        {
+          "id": 59471718,
+          "group_id": 1410231,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-03-19T18:45:00.000Z",
+          "ended_at": "2022-03-19T18:54:34.641Z",
+          "last_received_data_at": "2022-03-19T19:13:00.517Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742097"
+        },
+        {
+          "id": 59471109,
+          "group_id": 1410231,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-03-19T18:25:00.000Z",
+          "ended_at": "2022-03-19T18:38:42.773Z",
+          "last_received_data_at": "2022-03-19T18:57:53.467Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742096"
+        }
+      ]
+    },
+    {
+      "id": 1410129,
+      "name": "TA Heat 5",
+      "runs": [
+        {
+          "id": 59464139,
+          "group_id": 1410129,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-03-19T16:05:00.000Z",
+          "ended_at": "2022-03-19T16:17:33.319Z",
+          "last_received_data_at": "2022-03-19T16:26:04.573Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742094"
+        },
+        {
+          "id": 59462616,
+          "group_id": 1410129,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-03-19T15:45:00.000Z",
+          "ended_at": "2022-03-19T15:57:46.104Z",
+          "last_received_data_at": "2022-03-19T16:05:27.795Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742093"
+        },
+        {
+          "id": 59462269,
+          "group_id": 1410129,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-03-19T15:25:00.000Z",
+          "ended_at": "2022-03-19T15:40:22.059Z",
+          "last_received_data_at": "2022-03-19T15:40:14.748Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742092"
+        }
+      ]
+    },
+    {
+      "id": 1410066,
+      "name": "TA Heat 4",
+      "runs": [
+        {
+          "id": 59459771,
+          "group_id": 1410066,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-03-19T14:20:00.000Z",
+          "ended_at": "2022-03-19T14:37:31.822Z",
+          "last_received_data_at": "2022-03-19T14:46:14.755Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742091"
+        },
+        {
+          "id": 59458712,
+          "group_id": 1410066,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-03-19T14:00:00.000Z",
+          "ended_at": "2022-03-19T14:20:56.961Z",
+          "last_received_data_at": "2022-03-19T14:22:45.185Z",
+          "status": "PROVISIONAL",
+          "total_laps": 11,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742090"
+        },
+        {
+          "id": 59458326,
+          "group_id": 1410066,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-03-19T13:40:00.000Z",
+          "ended_at": "2022-03-19T13:56:40.967Z",
+          "last_received_data_at": "2022-03-19T13:59:59.615Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742089"
+        }
+      ]
+    },
+    {
+      "id": 1409385,
+      "name": "TA Heat 3",
+      "runs": [
+        {
+          "id": 59473266,
+          "group_id": 1409385,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-03-18T19:40:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742087"
+        },
+        {
+          "id": 59420837,
+          "group_id": 1409385,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-03-18T19:20:00.000Z",
+          "ended_at": "2022-03-18T19:33:45.040Z",
+          "last_received_data_at": "2022-03-18T20:09:43.328Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742086"
+        },
+        {
+          "id": 59420074,
+          "group_id": 1409385,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-03-18T19:00:00.000Z",
+          "ended_at": "2022-03-18T19:21:03.367Z",
+          "last_received_data_at": "2022-03-18T19:55:45.536Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742085"
+        }
+      ]
+    },
+    {
+      "id": 1409325,
+      "name": "TA Heat 1",
+      "runs": [
+        {
+          "id": 59408653,
+          "group_id": 1409325,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-03-18T14:20:00.000Z",
+          "ended_at": "2022-03-18T14:33:29.789Z",
+          "last_received_data_at": "2022-03-18T14:30:18.240Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742080"
+        },
+        {
+          "id": 59408339,
+          "group_id": 1409325,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-03-18T14:00:00.000Z",
+          "ended_at": "2022-03-18T14:14:14.256Z",
+          "last_received_data_at": "2022-03-18T14:15:50.605Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742079"
+        },
+        {
+          "id": 59407679,
+          "group_id": 1409325,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-03-18T13:40:00.000Z",
+          "ended_at": "2022-03-18T13:52:08.903Z",
+          "last_received_data_at": "2022-03-18T14:00:41.258Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742078"
+        }
+      ]
+    },
+    {
+      "id": 1409324,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 59473265,
+          "group_id": 1409324,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2022-03-19T19:39:23.628Z",
+          "ended_at": null,
+          "last_received_data_at": "2022-03-19T19:55:05.805Z",
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742099"
+        },
+        {
+          "id": 59465536,
+          "group_id": 1409324,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2022-03-19T16:15:00.000Z",
+          "ended_at": "2022-03-19T16:32:46.647Z",
+          "last_received_data_at": "2022-03-19T16:49:50.419Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742095"
+        },
+        {
+          "id": 59457618,
+          "group_id": 1409324,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2022-03-19T13:20:00.000Z",
+          "ended_at": "2022-03-19T13:36:02.398Z",
+          "last_received_data_at": "2022-03-19T13:39:51.087Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742088"
+        },
+        {
+          "id": 59418930,
+          "group_id": 1409324,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2022-03-18T18:30:00.000Z",
+          "ended_at": "2022-03-18T18:45:43.719Z",
+          "last_received_data_at": "2022-03-18T19:26:09.499Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742084"
+        },
+        {
+          "id": 59410607,
+          "group_id": 1409324,
+          "name": "GLTC Qualifying",
+          "type": "1",
+          "started_at": "2022-03-18T15:00:00.000Z",
+          "ended_at": "2022-03-18T15:16:01.095Z",
+          "last_received_data_at": "2022-03-18T15:27:41.882Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742076"
+        },
+        {
+          "id": 59407233,
+          "group_id": 1409324,
+          "name": "GLTC Practice",
+          "type": "0",
+          "started_at": "2022-03-18T13:20:00.000Z",
+          "ended_at": "2022-03-18T13:30:50.153Z",
+          "last_received_data_at": "2022-03-18T13:46:12.231Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742077"
+        }
+      ]
+    },
+    {
+      "id": 1409323,
+      "name": "TA Heat 2",
+      "runs": [
+        {
+          "id": 59473264,
+          "group_id": 1409323,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-03-18T16:30:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742083"
+        },
+        {
+          "id": 59417266,
+          "group_id": 1409323,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-03-18T16:10:00.000Z",
+          "ended_at": "2022-03-18T16:25:29.799Z",
+          "last_received_data_at": "2022-03-18T18:26:06.909Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742082"
+        },
+        {
+          "id": 59416579,
+          "group_id": 1409323,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-03-18T15:50:00.000Z",
+          "ended_at": "2022-03-18T16:07:14.444Z",
+          "last_received_data_at": "2022-03-18T18:10:18.957Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-atl/results/1073742081"
+        }
+      ]
+    }
+  ]
+}

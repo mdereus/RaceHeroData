@@ -1,0 +1,586 @@
+{
+  "id": 26020,
+  "name": "Gridlife Mid Summer Meet Mid Ohio",
+  "started_at": "2020-07-31T06:40:00.000Z",
+  "ended_at": "2020-08-02T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "Chief of Timing & Scoring",
+    "Race Director",
+    "",
+    ""
+  ],
+  "timezone": "America/Toronto",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio",
+  "created_at": "2020-07-31T14:06:30.557Z",
+  "updated_at": "2020-08-02T18:09:32.157Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 316,
+    "name": "Mid Ohio Club Course",
+    "address": null,
+    "address2": null,
+    "city": null,
+    "region": null,
+    "postal_code": null,
+    "country": null,
+    "website_url": null,
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "html_url": "https://racehero.io/venues/316",
+    "avatar_url": "",
+    "configuration": {
+      "id": 2256,
+      "venue_id": 316,
+      "name": "Pro Course",
+      "length": 2.3,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 966795,
+      "name": "Time Attack Heat 8",
+      "runs": [
+        {
+          "id": 32096888,
+          "group_id": 966795,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-08-02T17:40:00.000Z",
+          "ended_at": "2020-08-02T18:00:49.927Z",
+          "last_received_data_at": "2020-08-02T18:02:09.363Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741854"
+        },
+        {
+          "id": 32096083,
+          "group_id": 966795,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-08-02T17:20:00.000Z",
+          "ended_at": "2020-08-02T17:41:34.647Z",
+          "last_received_data_at": "2020-08-02T17:41:14.873Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741853"
+        },
+        {
+          "id": 32095277,
+          "group_id": 966795,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-08-02T17:00:00.000Z",
+          "ended_at": "2020-08-02T17:19:31.346Z",
+          "last_received_data_at": "2020-08-02T17:19:30.164Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741852"
+        }
+      ]
+    },
+    {
+      "id": 966794,
+      "name": "GLTC Race 4 ",
+      "runs": [
+        {
+          "id": 32091399,
+          "group_id": 966794,
+          "name": "GLTC Race 4",
+          "type": "2",
+          "started_at": "2020-08-02T15:30:00.000Z",
+          "ended_at": "2020-08-03T03:49:41.596Z",
+          "last_received_data_at": "2020-08-02T15:51:45.241Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741851"
+        }
+      ]
+    },
+    {
+      "id": 966796,
+      "name": "Time Attack Heat 7",
+      "runs": [
+        {
+          "id": 32090647,
+          "group_id": 966796,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-08-02T15:00:00.000Z",
+          "ended_at": "2020-08-02T15:15:23.621Z",
+          "last_received_data_at": "2020-08-02T15:22:05.177Z",
+          "status": "PROVISIONAL",
+          "total_laps": 2,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741857"
+        },
+        {
+          "id": 32089893,
+          "group_id": 966796,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-08-02T14:40:00.000Z",
+          "ended_at": "2020-08-02T14:58:52.618Z",
+          "last_received_data_at": "2020-08-02T15:06:36.963Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741856"
+        },
+        {
+          "id": 32089102,
+          "group_id": 966796,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-08-02T14:20:00.000Z",
+          "ended_at": "2020-08-02T14:38:51.282Z",
+          "last_received_data_at": "2020-08-02T14:47:40.814Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741855"
+        }
+      ]
+    },
+    {
+      "id": 966793,
+      "name": "GLTC Race 3",
+      "runs": [
+        {
+          "id": 32088132,
+          "group_id": 966793,
+          "name": "GLTC Race 3",
+          "type": "2",
+          "started_at": "2020-08-02T14:00:00.000Z",
+          "ended_at": "2020-08-02T14:22:46.724Z",
+          "last_received_data_at": "2020-08-02T14:28:44.461Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741850"
+        }
+      ]
+    },
+    {
+      "id": 966060,
+      "name": "GLTC Race 2",
+      "runs": [
+        {
+          "id": 32052608,
+          "group_id": 966060,
+          "name": "GLTC Race 2",
+          "type": "2",
+          "started_at": "2020-08-01T20:50:00.000Z",
+          "ended_at": "2020-08-01T21:14:23.176Z",
+          "last_received_data_at": "2020-08-01T21:25:14.773Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741849"
+        }
+      ]
+    },
+    {
+      "id": 966058,
+      "name": "Time Attack Heat 6",
+      "runs": [
+        {
+          "id": 32051835,
+          "group_id": 966058,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-08-01T20:30:00.000Z",
+          "ended_at": "2020-08-01T20:48:39.178Z",
+          "last_received_data_at": "2020-08-01T20:49:56.577Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741847"
+        },
+        {
+          "id": 32051111,
+          "group_id": 966058,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-08-01T20:10:00.000Z",
+          "ended_at": "2020-08-01T20:29:24.924Z",
+          "last_received_data_at": "2020-08-01T20:31:14.041Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741846"
+        },
+        {
+          "id": 32050358,
+          "group_id": 966058,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-08-01T19:50:00.000Z",
+          "ended_at": "2020-08-01T20:08:33.891Z",
+          "last_received_data_at": "2020-08-01T20:11:44.266Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741845"
+        }
+      ]
+    },
+    {
+      "id": 966059,
+      "name": "GLTC top 10 Pace Shootout ",
+      "runs": [
+        {
+          "id": 32047717,
+          "group_id": 966059,
+          "name": "GLTC Top 10",
+          "type": "1",
+          "started_at": "2020-08-01T18:40:00.000Z",
+          "ended_at": "2020-08-01T19:11:48.368Z",
+          "last_received_data_at": "2020-08-01T19:12:18.561Z",
+          "status": "PROVISIONAL",
+          "total_laps": 1,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741848"
+        }
+      ]
+    },
+    {
+      "id": 966057,
+      "name": "Time Attack Heat 5",
+      "runs": [
+        {
+          "id": 32044594,
+          "group_id": 966057,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-08-01T17:05:00.000Z",
+          "ended_at": "2020-08-01T17:16:38.391Z",
+          "last_received_data_at": "2020-08-01T17:19:30.220Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741844"
+        },
+        {
+          "id": 32044107,
+          "group_id": 966057,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-08-01T16:55:00.000Z",
+          "ended_at": "2020-08-01T17:06:40.910Z",
+          "last_received_data_at": "2020-08-01T17:07:45.615Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741843"
+        },
+        {
+          "id": 32043417,
+          "group_id": 966057,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-08-01T16:40:00.000Z",
+          "ended_at": "2020-08-01T16:56:05.497Z",
+          "last_received_data_at": "2020-08-01T16:55:39.437Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741842"
+        }
+      ]
+    },
+    {
+      "id": 966056,
+      "name": "GLTC Race 1",
+      "runs": [
+        {
+          "id": 32040237,
+          "group_id": 966056,
+          "name": "GLTC Race 1",
+          "type": "2",
+          "started_at": "2020-08-01T15:00:00.000Z",
+          "ended_at": "2020-08-01T15:19:08.911Z",
+          "last_received_data_at": "2020-08-01T15:23:19.318Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741841"
+        }
+      ]
+    },
+    {
+      "id": 966055,
+      "name": "Time Attack Heat 4",
+      "runs": [
+        {
+          "id": 32039515,
+          "group_id": 966055,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-08-01T14:40:00.000Z",
+          "ended_at": "2020-08-01T14:56:51.693Z",
+          "last_received_data_at": "2020-08-01T14:58:14.224Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741840"
+        },
+        {
+          "id": 32038853,
+          "group_id": 966055,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-08-01T14:20:00.000Z",
+          "ended_at": "2020-08-01T14:37:08.693Z",
+          "last_received_data_at": "2020-08-01T14:40:59.615Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741839"
+        },
+        {
+          "id": 32038115,
+          "group_id": 966055,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-08-01T14:00:00.000Z",
+          "ended_at": "2020-08-01T14:16:14.082Z",
+          "last_received_data_at": "2020-08-01T14:23:44.295Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741838"
+        }
+      ]
+    },
+    {
+      "id": 966054,
+      "name": "GLTC Practice Race 2 ",
+      "runs": [
+        {
+          "id": 32037423,
+          "group_id": 966054,
+          "name": "GLTC",
+          "type": "2",
+          "started_at": "2020-08-01T13:40:00.000Z",
+          "ended_at": "2020-08-01T13:59:21.352Z",
+          "last_received_data_at": "2020-08-01T14:07:30.066Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741837"
+        }
+      ]
+    },
+    {
+      "id": 965582,
+      "name": "GLTC Practice Race 1",
+      "runs": [
+        {
+          "id": 32005212,
+          "group_id": 965582,
+          "name": "GLTC",
+          "type": "2",
+          "started_at": "2020-07-31T21:10:00.000Z",
+          "ended_at": "2020-07-31T21:24:23.111Z",
+          "last_received_data_at": "2020-07-31T21:25:11.244Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741836"
+        }
+      ]
+    },
+    {
+      "id": 965499,
+      "name": "GLTC Qualifying ",
+      "runs": [
+        {
+          "id": 32001041,
+          "group_id": 965499,
+          "name": "Qualifying ",
+          "type": "1",
+          "started_at": "2020-07-31T06:40:00.000Z",
+          "ended_at": "2020-07-31T06:58:50.520Z",
+          "last_received_data_at": "2020-07-31T19:11:09.479Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741832"
+        }
+      ]
+    },
+    {
+      "id": 965554,
+      "name": "Time Attack Heat 3",
+      "runs": [
+        {
+          "id": 32004559,
+          "group_id": 965554,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-07-31T20:30:00.000Z",
+          "ended_at": "2020-07-31T20:49:11.390Z",
+          "last_received_data_at": "2020-07-31T20:49:31.850Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741835"
+        },
+        {
+          "id": 32003868,
+          "group_id": 965554,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-07-31T20:10:00.000Z",
+          "ended_at": "2020-07-31T20:27:45.621Z",
+          "last_received_data_at": "2020-07-31T20:29:14.885Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741834"
+        },
+        {
+          "id": 32003153,
+          "group_id": 965554,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-07-31T19:50:00.000Z",
+          "ended_at": "2020-07-31T20:08:40.940Z",
+          "last_received_data_at": "2020-07-31T20:11:27.327Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741833"
+        }
+      ]
+    },
+    {
+      "id": 965498,
+      "name": "Time Attack Heat 2",
+      "runs": [
+        {
+          "id": 31998240,
+          "group_id": 965498,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-07-31T17:15:00.000Z",
+          "ended_at": "2020-07-31T17:38:01.805Z",
+          "last_received_data_at": "2020-07-31T17:42:23.852Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741831"
+        },
+        {
+          "id": 31997524,
+          "group_id": 965498,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-07-31T16:55:00.000Z",
+          "ended_at": "2020-07-31T17:15:46.878Z",
+          "last_received_data_at": "2020-07-31T17:19:09.754Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741830"
+        },
+        {
+          "id": 31996867,
+          "group_id": 965498,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-07-31T16:40:00.000Z",
+          "ended_at": "2020-07-31T16:57:07.141Z",
+          "last_received_data_at": "2020-07-31T16:57:52.035Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741829"
+        }
+      ]
+    },
+    {
+      "id": 965451,
+      "name": "GLTC Practice",
+      "runs": [
+        {
+          "id": 31993458,
+          "group_id": 965451,
+          "name": "GLTC",
+          "type": "0",
+          "started_at": "2020-07-31T15:00:00.000Z",
+          "ended_at": "2020-07-31T15:25:56.403Z",
+          "last_received_data_at": "2020-07-31T15:32:21.093Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741828"
+        }
+      ]
+    },
+    {
+      "id": 965423,
+      "name": "Time Attack Heat 1 ",
+      "runs": [
+        {
+          "id": 31992748,
+          "group_id": 965423,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-07-31T14:30:00.000Z",
+          "ended_at": "2020-07-31T14:45:36.125Z",
+          "last_received_data_at": "2020-07-31T15:00:42.166Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741827"
+        },
+        {
+          "id": 31992036,
+          "group_id": 965423,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-07-31T14:15:00.000Z",
+          "ended_at": "2020-07-31T14:32:49.503Z",
+          "last_received_data_at": "2020-07-31T14:44:37.894Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741826"
+        },
+        {
+          "id": 31991573,
+          "group_id": 965423,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-07-31T14:00:00.000Z",
+          "ended_at": "2020-07-31T14:15:34.907Z",
+          "last_received_data_at": "2020-07-31T14:23:16.348Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-mid-summer-meet-mid-ohio/results/1073741825"
+        }
+      ]
+    }
+  ]
+}

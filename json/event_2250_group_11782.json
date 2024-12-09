@@ -1,0 +1,382 @@
+{
+  "group_id": 11782,
+  "name": "Street Mod Brackets",
+  "runs": [
+    {
+      "id": 575982,
+      "group_id": 11782,
+      "name": "Run 4",
+      "type": "1",
+      "started_at": "2017-10-01 13:33:00 UTC",
+      "ended_at": "2017-10-01 13:40:24 UTC",
+      "last_received_data_at": "2017-10-01 14:25:01 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 1,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741851"
+    },
+    {
+      "id": 576010,
+      "group_id": 11782,
+      "name": "Run 5",
+      "type": "1",
+      "started_at": "2017-10-01 13:34:00 UTC",
+      "ended_at": "2017-10-01 13:41:13 UTC",
+      "last_received_data_at": "2017-10-01 14:32:18 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 1,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741852"
+    },
+    {
+      "id": 576051,
+      "group_id": 11782,
+      "name": "Run 6 ",
+      "type": "1",
+      "started_at": "2017-10-01 13:35:00 UTC",
+      "ended_at": "2017-10-01 13:42:04 UTC",
+      "last_received_data_at": "2017-10-01 14:39:25 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 1,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741853"
+    },
+    {
+      "id": 576061,
+      "group_id": 11782,
+      "name": "Run 7",
+      "type": "1",
+      "started_at": "2017-10-01 13:36:00 UTC",
+      "ended_at": "2017-10-01 13:47:18 UTC",
+      "last_received_data_at": "2017-10-01 14:50:49 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 6,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741854"
+    },
+    {
+      "id": 576091,
+      "group_id": 11782,
+      "name": "Run 8",
+      "type": "1",
+      "started_at": "2017-10-01 13:37:00 UTC",
+      "ended_at": "2017-10-01 13:44:16 UTC",
+      "last_received_data_at": "2017-10-01 14:58:05 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741855"
+    },
+    {
+      "id": 576115,
+      "group_id": 11782,
+      "name": "Run 9",
+      "type": "1",
+      "started_at": "2017-10-01 13:38:00 UTC",
+      "ended_at": "2017-10-01 13:45:02 UTC",
+      "last_received_data_at": "2017-10-01 15:05:11 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741856"
+    },
+    {
+      "id": 576136,
+      "group_id": 11782,
+      "name": "Run 10",
+      "type": "1",
+      "started_at": "2017-10-01 13:39:00 UTC",
+      "ended_at": "2017-10-01 13:47:27 UTC",
+      "last_received_data_at": "2017-10-01 15:13:40 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 1,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741857"
+    },
+    {
+      "id": 576146,
+      "group_id": 11782,
+      "name": "Run 11",
+      "type": "1",
+      "started_at": "2017-10-01 13:41:00 UTC",
+      "ended_at": "2017-10-01 13:56:25 UTC",
+      "last_received_data_at": "2017-10-01 15:29:07 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 1,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741859"
+    },
+    {
+      "id": 576191,
+      "group_id": 11782,
+      "name": "Run 12",
+      "type": "1",
+      "started_at": "2017-10-01 13:42:00 UTC",
+      "ended_at": "2017-10-01 13:50:51 UTC",
+      "last_received_data_at": "2017-10-01 15:38:02 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741860"
+    },
+    {
+      "id": 575870,
+      "group_id": 11782,
+      "name": "Run 1",
+      "type": "1",
+      "started_at": "2017-10-01 13:30:00 UTC",
+      "ended_at": "2017-10-01 13:43:23 UTC",
+      "last_received_data_at": "2017-10-01 13:59:56 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 1,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741848"
+    },
+    {
+      "id": 575908,
+      "group_id": 11782,
+      "name": "Run 2",
+      "type": "1",
+      "started_at": "2017-10-01 13:31:00 UTC",
+      "ended_at": "2017-10-01 13:41:08 UTC",
+      "last_received_data_at": "2017-10-01 14:10:09 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 1,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741849"
+    },
+    {
+      "id": 575946,
+      "group_id": 11782,
+      "name": "Run 3",
+      "type": "1",
+      "started_at": "2017-10-01 13:32:00 UTC",
+      "ended_at": "2017-10-01 13:39:23 UTC",
+      "last_received_data_at": "2017-10-01 14:17:34 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 1,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speed-ring/results/1073741850"
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Make ",
+    "attribute2": "Model",
+    "attribute3": "Race Class",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Time Attack",
+    "attribute7": "PDS",
+    "attribute8": "Cup Race"
+  },
+  "racers": [
+    {
+      "name": "Eric Naumann",
+      "number": "186",
+      "class": null,
+      "attributes": {
+        "attribute0": "Ford",
+        "attribute1": "Mustang",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Jiyuan Ding",
+      "number": "86",
+      "class": null,
+      "attributes": {
+        "attribute0": "Honda",
+        "attribute1": "S2000",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Matt Thompson",
+      "number": "343",
+      "class": null,
+      "attributes": {
+        "attribute0": "Honda",
+        "attribute1": "Civic",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Brad Yonkers",
+      "number": "122",
+      "class": null,
+      "attributes": {
+        "attribute0": "BMW",
+        "attribute1": "M3",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Aaron Byram",
+      "number": "921",
+      "class": null,
+      "attributes": {
+        "attribute0": "Lotus",
+        "attribute1": "Exige",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Martin Musial",
+      "number": "20",
+      "class": null,
+      "attributes": {
+        "attribute0": "Volkswagon",
+        "attribute1": "Golf R",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Christopher Bickford",
+      "number": "123",
+      "class": null,
+      "attributes": {
+        "attribute0": "Mitsubishi",
+        "attribute1": "Evo X",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Christopher Richardson",
+      "number": "13",
+      "class": null,
+      "attributes": {
+        "attribute0": "Subaru",
+        "attribute1": "STi",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Chad Slagg",
+      "number": "14",
+      "class": null,
+      "attributes": {
+        "attribute0": "acura",
+        "attribute1": "Type ARRRR",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Michael Pagano",
+      "number": "69",
+      "class": null,
+      "attributes": {
+        "attribute0": "BMW",
+        "attribute1": "330ci",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Shawn Krebsbach",
+      "number": "140",
+      "class": null,
+      "attributes": {
+        "attribute0": "Mitsubishi",
+        "attribute1": "Evo",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Chad McCurdy",
+      "number": "718",
+      "class": null,
+      "attributes": {
+        "attribute0": "Mitsubishi",
+        "attribute1": "Evolution IX MR",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Matt DeReus",
+      "number": "21",
+      "class": null,
+      "attributes": {
+        "attribute0": "BMW",
+        "attribute1": "M3",
+        "attribute2": "",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    }
+  ]
+}

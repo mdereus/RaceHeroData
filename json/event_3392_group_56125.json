@@ -1,0 +1,224 @@
+{
+  "group_id": 56125,
+  "name": "Track Mod Semi Finals",
+  "runs": [
+    {
+      "id": 3711701,
+      "group_id": 56125,
+      "name": "Luke McGrew vs Scott Shadbolt",
+      "type": "1",
+      "started_at": "2018-09-23 17:30:00 UTC",
+      "ended_at": "2018-09-23 17:37:40 UTC",
+      "last_received_data_at": "2018-09-23 18:17:30 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speedring-m1-concourse/results/1073741862"
+    },
+    {
+      "id": 3711933,
+      "group_id": 56125,
+      "name": "Will Au-yeung vs Jason Harding",
+      "type": "1",
+      "started_at": "2018-09-23 17:30:00 UTC",
+      "ended_at": "2018-09-23 17:37:33 UTC",
+      "last_received_data_at": "2018-09-23 18:25:10 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speedring-m1-concourse/results/1073741863"
+    },
+    {
+      "id": 3712390,
+      "group_id": 56125,
+      "name": "Chris Boersma vs Kenneth Smith ",
+      "type": "1",
+      "started_at": "2018-09-23 17:30:00 UTC",
+      "ended_at": "2018-09-23 17:34:46 UTC",
+      "last_received_data_at": "2018-09-23 18:32:33 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speedring-m1-concourse/results/1073741864"
+    },
+    {
+      "id": 3712410,
+      "group_id": 56125,
+      "name": "Michael Puglisi vs Jeremy Swenson",
+      "type": "1",
+      "started_at": "2018-09-23 17:30:00 UTC",
+      "ended_at": "2018-09-23 17:40:09 UTC",
+      "last_received_data_at": "2018-09-23 18:44:13 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speedring-m1-concourse/results/1073741865"
+    },
+    {
+      "id": 3715105,
+      "group_id": 56125,
+      "name": "Luke McGrew vs Will Au-yeung",
+      "type": "1",
+      "started_at": "2018-09-23 18:54:00 UTC",
+      "ended_at": "2018-09-23 19:00:42 UTC",
+      "last_received_data_at": "2018-09-23 19:57:46 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speedring-m1-concourse/results/1073741871"
+    },
+    {
+      "id": 3715115,
+      "group_id": 56125,
+      "name": "Chris Boersma vs Jeremy Swenson",
+      "type": "1",
+      "started_at": "2018-09-23 18:54:00 UTC",
+      "ended_at": "2018-09-23 18:58:53 UTC",
+      "last_received_data_at": "2018-09-23 20:05:13 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/speedring-m1-concourse/results/1073741872"
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Nat/State",
+    "attribute2": "Sponsor",
+    "attribute3": "Make",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Model/Engine",
+    "attribute7": "Tires",
+    "attribute8": "Email"
+  },
+  "racers": [
+    {
+      "name": "Chris Boersma",
+      "number": "33",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Luke McGrew",
+      "number": "14",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Michael Puglisi",
+      "number": "414",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jason Harding",
+      "number": "22",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "William Au-Yeung",
+      "number": "13",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jeremy Swenson",
+      "number": "30",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Scott Shadbolt",
+      "number": "121",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Kenneth Smith",
+      "number": "487",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    }
+  ]
+}

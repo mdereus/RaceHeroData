@@ -1,0 +1,662 @@
+{
+  "group_id": 15304,
+  "name": "Bracket Battle Quarter Finals",
+  "runs": [
+    {
+      "id": 794571,
+      "group_id": 15304,
+      "name": "Dewitt - Spear",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "2018-06-09 19:32:43 UTC",
+      "last_received_data_at": "2018-06-09 17:17:01 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-midwest-round-2-2018/results/1073741881"
+    },
+    {
+      "id": 794647,
+      "group_id": 15304,
+      "name": "Evolve Auto - Devlov",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "2018-06-09 19:39:45 UTC",
+      "last_received_data_at": "2018-06-09 17:34:20 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 5,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-midwest-round-2-2018/results/1073741882"
+    },
+    {
+      "id": 794726,
+      "group_id": 15304,
+      "name": "Lewis - pagano",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "2018-06-09 17:36:46 UTC",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 794764,
+      "group_id": 15304,
+      "name": "Mcnulty - Aumick",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "2018-06-09 19:41:54 UTC",
+      "last_received_data_at": "2018-06-09 17:53:31 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-midwest-round-2-2018/results/1073741884"
+    },
+    {
+      "id": 794893,
+      "group_id": 15304,
+      "name": "Anis - Krebsbach",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "2018-06-09 19:35:50 UTC",
+      "last_received_data_at": "2018-06-09 18:05:39 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 5,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-midwest-round-2-2018/results/1073741885"
+    },
+    {
+      "id": 794953,
+      "group_id": 15304,
+      "name": "Swenson - Boysen",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "2018-06-09 19:47:30 UTC",
+      "last_received_data_at": "2018-06-09 18:30:00 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 5,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-midwest-round-2-2018/results/1073741886"
+    },
+    {
+      "id": 795458,
+      "group_id": 15304,
+      "name": "Puglisi - Moeding",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 795459,
+      "group_id": 15304,
+      "name": "Lee - Boersma",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 795460,
+      "group_id": 15304,
+      "name": "Aurich - Bryant",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 795461,
+      "group_id": 15304,
+      "name": "Samuel - Little",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 795462,
+      "group_id": 15304,
+      "name": "Maloy - Houghton",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 795463,
+      "group_id": 15304,
+      "name": "",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 795464,
+      "group_id": 15304,
+      "name": "Fuentes - Grossi",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 794547,
+      "group_id": 15304,
+      "name": "Hertel - Beek",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "2018-06-09 17:07:31 UTC",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 794380,
+      "group_id": 15304,
+      "name": "Orr - Neuman",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "2018-06-09 19:31:15 UTC",
+      "last_received_data_at": "2018-06-09 16:51:05 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-midwest-round-2-2018/results/1073741878"
+    },
+    {
+      "id": 794469,
+      "group_id": 15304,
+      "name": "Ding - Miller",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "2018-06-09 19:33:09 UTC",
+      "last_received_data_at": "2018-06-09 17:02:17 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-midwest-round-2-2018/results/1073741879"
+    },
+    {
+      "id": 795079,
+      "group_id": 15304,
+      "name": "Au-yeung - Dice",
+      "type": "1",
+      "started_at": "2018-06-09 19:24:00 UTC",
+      "ended_at": "2018-06-09 20:16:29 UTC",
+      "last_received_data_at": "2018-06-09 19:22:49 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-midwest-round-2-2018/results/1073741890"
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Nat/State",
+    "attribute2": "Sponsor",
+    "attribute3": "Make",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Model/Engine",
+    "attribute7": "Tires",
+    "attribute8": "Email"
+  },
+  "racers": [
+    {
+      "name": "Charles Miller",
+      "number": "55",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Eric DeWitt",
+      "number": "70",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Sasha Anis",
+      "number": "112",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Tim Beek",
+      "number": "119",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Chris Neuman",
+      "number": "74",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Shawn Krebsbach",
+      "number": "23",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Chris Boersma",
+      "number": "40",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Joshua Orr",
+      "number": "51",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Sasha Anis",
+      "number": "148",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jackie Ding",
+      "number": "86",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "austin hertel",
+      "number": "34",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Ron Spear",
+      "number": "3",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "micheal aumick",
+      "number": "6",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Brad/Matt Yonkers/DeReus",
+      "number": "122",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Nikolai Delov",
+      "number": "46",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Sally McNulty",
+      "number": "412",
+      "class": "STREET MODIFIED - AWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Subaru",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "WRX",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Jeremy Swenson",
+      "number": "30",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jeremy Boysen",
+      "number": "22",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Michael Puglisi",
+      "number": "314",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jess Moeding",
+      "number": "283",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Mike Lee",
+      "number": "127",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Robert Dice",
+      "number": "17",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "William Au-Yeung",
+      "number": "13",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Kendall Samuel",
+      "number": "197",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Savanna Little",
+      "number": "916",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "James Houghton",
+      "number": "41",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jordan Bryant",
+      "number": "233",
+      "class": null,
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    }
+  ]
+}

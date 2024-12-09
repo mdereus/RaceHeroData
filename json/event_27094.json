@@ -1,0 +1,331 @@
+{
+  "id": 27094,
+  "name": "Gridlife Bayou Bash",
+  "started_at": "2020-11-07T15:20:00.000Z",
+  "ended_at": "2020-11-08T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "NOLA Motorsports Park",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Winnipeg",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-bayou-bash",
+  "created_at": "2020-11-07T18:22:17.181Z",
+  "updated_at": "2020-11-08T21:03:07.721Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 61,
+    "name": "NOLA Motorsports Park",
+    "address": "11075 Nicolle Boulevard",
+    "address2": null,
+    "city": "Avondale",
+    "region": "LA",
+    "postal_code": "70094",
+    "country": "US",
+    "website_url": "http://www.nolamotor.com",
+    "lat": 29.9045523494416,
+    "lng": -90.1682300431475,
+    "url": "http://www.nolamotor.com",
+    "html_url": "https://racehero.io/venues/61",
+    "avatar_url": "",
+    "configuration": {
+      "id": 380,
+      "venue_id": 61,
+      "name": "NOLA Club Track",
+      "length": 2.8,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 1038044,
+      "name": "TA - Heat 6",
+      "runs": [
+        {
+          "id": 36263120,
+          "group_id": 1038044,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-11-08T20:40:00.000Z",
+          "ended_at": "2020-11-08T20:58:11.954Z",
+          "last_received_data_at": "2020-11-08T21:03:07.717Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741980"
+        },
+        {
+          "id": 36262447,
+          "group_id": 1038044,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-11-08T20:20:00.000Z",
+          "ended_at": "2020-11-08T20:37:17.528Z",
+          "last_received_data_at": "2020-11-08T20:42:07.584Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741979"
+        }
+      ]
+    },
+    {
+      "id": 1038043,
+      "name": "TA - Heat 5",
+      "runs": [
+        {
+          "id": 36258937,
+          "group_id": 1038043,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-11-08T18:40:00.000Z",
+          "ended_at": "2020-11-08T18:57:35.782Z",
+          "last_received_data_at": "2020-11-08T19:01:01.640Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741977"
+        },
+        {
+          "id": 36258217,
+          "group_id": 1038043,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-11-08T18:20:00.000Z",
+          "ended_at": "2020-11-08T18:37:47.085Z",
+          "last_received_data_at": "2020-11-08T18:41:21.277Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741976"
+        }
+      ]
+    },
+    {
+      "id": 1038042,
+      "name": "TA - Heat 4",
+      "runs": [
+        {
+          "id": 36251740,
+          "group_id": 1038042,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-11-08T15:20:00.000Z",
+          "ended_at": "2020-11-08T15:36:29.178Z",
+          "last_received_data_at": "2020-11-08T15:39:13.773Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741974"
+        },
+        {
+          "id": 36250996,
+          "group_id": 1038042,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-11-08T15:00:00.000Z",
+          "ended_at": "2020-11-08T15:18:04.328Z",
+          "last_received_data_at": "2020-11-08T15:21:26.911Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741973"
+        }
+      ]
+    },
+    {
+      "id": 1037544,
+      "name": "TA - Heat 3",
+      "runs": [
+        {
+          "id": 36213942,
+          "group_id": 1037544,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-11-07T21:40:00.000Z",
+          "ended_at": "2020-11-07T21:59:29.111Z",
+          "last_received_data_at": "2020-11-07T22:01:20.303Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741972"
+        },
+        {
+          "id": 36213157,
+          "group_id": 1037544,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-11-07T21:20:00.000Z",
+          "ended_at": "2020-11-07T21:37:02.983Z",
+          "last_received_data_at": "2020-11-07T21:39:16.135Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741971"
+        }
+      ]
+    },
+    {
+      "id": 1037460,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 36263119,
+          "group_id": 1037460,
+          "name": "Practice",
+          "type": "0",
+          "started_at": "2020-11-07T15:20:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741963"
+        },
+        {
+          "id": 36259857,
+          "group_id": 1037460,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2020-11-08T19:00:00.000Z",
+          "ended_at": "2020-11-08T19:16:49.984Z",
+          "last_received_data_at": "2020-11-08T19:23:42.932Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741978"
+        },
+        {
+          "id": 36253007,
+          "group_id": 1037460,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2020-11-08T15:40:00.000Z",
+          "ended_at": "2020-11-08T15:56:15.842Z",
+          "last_received_data_at": "2020-11-08T16:04:18.899Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741975"
+        },
+        {
+          "id": 36214757,
+          "group_id": 1037460,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2020-11-07T22:00:00.000Z",
+          "ended_at": "2020-11-07T22:16:54.983Z",
+          "last_received_data_at": "2020-11-07T22:22:14.301Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741968"
+        },
+        {
+          "id": 36209853,
+          "group_id": 1037460,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2020-11-07T19:50:00.000Z",
+          "ended_at": "2020-11-07T20:05:17.167Z",
+          "last_received_data_at": "2020-11-07T20:11:02.370Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741967"
+        },
+        {
+          "id": 36205914,
+          "group_id": 1037460,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2020-11-07T18:20:00.000Z",
+          "ended_at": "2020-11-07T18:35:38.187Z",
+          "last_received_data_at": "2020-11-07T18:37:07.833Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741964"
+        }
+      ]
+    },
+    {
+      "id": 1037461,
+      "name": "TA - Heat 1",
+      "runs": [
+        {
+          "id": 36207568,
+          "group_id": 1037461,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-11-07T19:00:00.000Z",
+          "ended_at": "2020-11-07T19:18:32.634Z",
+          "last_received_data_at": "2020-11-07T19:23:15.256Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741966"
+        },
+        {
+          "id": 36206681,
+          "group_id": 1037461,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-11-07T18:40:00.000Z",
+          "ended_at": "2020-11-07T18:54:23.780Z",
+          "last_received_data_at": "2020-11-07T19:03:44.819Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741965"
+        }
+      ]
+    },
+    {
+      "id": 1037462,
+      "name": "TA - Heat 2",
+      "runs": [
+        {
+          "id": 36210755,
+          "group_id": 1037462,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-11-07T20:10:00.000Z",
+          "ended_at": "2020-11-07T21:38:33.138Z",
+          "last_received_data_at": "2020-11-07T20:38:03.414Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741969"
+        },
+        {
+          "id": 36211590,
+          "group_id": 1037462,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-11-07T20:30:00.000Z",
+          "ended_at": "2020-11-07T21:59:15.578Z",
+          "last_received_data_at": "2020-11-07T20:57:46.810Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-bayou-bash/results/1073741970"
+        }
+      ]
+    }
+  ]
+}

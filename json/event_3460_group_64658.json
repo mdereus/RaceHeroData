@@ -1,0 +1,77 @@
+{
+  "group_id": 64658,
+  "name": "Heat 3",
+  "runs": [
+    {
+      "id": 4380386,
+      "group_id": 64658,
+      "name": "Group A",
+      "type": "1",
+      "started_at": "2018-10-07 00:20:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 4380387,
+      "group_id": 64658,
+      "name": "Group B",
+      "type": "1",
+      "started_at": "2018-10-07 00:40:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 4380388,
+      "group_id": 64658,
+      "name": "Group C",
+      "type": "1",
+      "started_at": "2018-10-07 01:00:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 4380389,
+      "group_id": 64658,
+      "name": "Group D",
+      "type": "1",
+      "started_at": "2018-10-07 01:20:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    },
+    {
+      "id": 4380390,
+      "group_id": 64658,
+      "name": "Group E",
+      "type": "1",
+      "started_at": "2018-10-07 01:40:00 UTC",
+      "ended_at": "",
+      "last_received_data_at": "",
+      "status": null,
+      "total_laps": 0,
+      "has_results": false
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Nat/State",
+    "attribute2": "Sponsor",
+    "attribute3": "Make",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Model/Engine",
+    "attribute7": "Tires",
+    "attribute8": "Email"
+  },
+  "racers": []
+}

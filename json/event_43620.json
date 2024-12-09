@@ -1,0 +1,281 @@
+{
+  "id": 43620,
+  "name": "Gridlife Thunderhill",
+  "started_at": "2024-11-16T17:00:00.000Z",
+  "ended_at": "2024-11-18T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Los_Angeles",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-thunderhill",
+  "created_at": "2024-11-16T17:52:53.255Z",
+  "updated_at": "2024-11-18T00:33:58.617Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 98,
+    "name": "Thunderhill Raceway Park",
+    "address": "5250 Hwy 162",
+    "address2": null,
+    "city": "Willows",
+    "region": "CA",
+    "postal_code": "95988",
+    "country": "US",
+    "website_url": "http://www.thunderhill.com/",
+    "lat": 39.5364953600781,
+    "lng": -122.333359856388,
+    "url": "http://www.thunderhill.com/",
+    "html_url": "https://racehero.io/venues/98",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1397155435/4477da08b9fba56728426bfa0d9e12df.jpg",
+    "configuration": {
+      "id": 4381,
+      "venue_id": 98,
+      "name": "Thunderhill Raceway Park 3 mi",
+      "length": 3,
+      "units": "mi",
+      "direction": "ccw"
+    }
+  },
+  "groups": [
+    {
+      "id": 2193956,
+      "name": "TA",
+      "runs": [
+        {
+          "id": 107500934,
+          "group_id": 2193956,
+          "name": "Heat 1",
+          "type": "1",
+          "started_at": "2024-11-16T17:00:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742090"
+        },
+        {
+          "id": 107496981,
+          "group_id": 2193956,
+          "name": "Heat 6",
+          "type": "1",
+          "started_at": "2024-11-17T22:05:00.000Z",
+          "ended_at": "2024-11-17T23:01:38.542Z",
+          "last_received_data_at": "2024-11-17T23:05:07.196Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742103"
+        },
+        {
+          "id": 107491642,
+          "group_id": 2193956,
+          "name": "Heat 5",
+          "type": "1",
+          "started_at": "2024-11-17T19:00:00.000Z",
+          "ended_at": "2024-11-17T19:54:26.677Z",
+          "last_received_data_at": "2024-11-17T20:03:01.777Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742102"
+        },
+        {
+          "id": 107488273,
+          "group_id": 2193956,
+          "name": "Heat 4",
+          "type": "1",
+          "started_at": "2024-11-17T17:25:00.000Z",
+          "ended_at": "2024-11-17T18:28:26.799Z",
+          "last_received_data_at": "2024-11-17T18:27:09.080Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742101"
+        },
+        {
+          "id": 107451396,
+          "group_id": 2193956,
+          "name": "Heat 3",
+          "type": "1",
+          "started_at": "2024-11-16T23:05:00.000Z",
+          "ended_at": "2024-11-17T00:03:11.359Z",
+          "last_received_data_at": "2024-11-17T00:17:40.137Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742092"
+        },
+        {
+          "id": 107444870,
+          "group_id": 2193956,
+          "name": "Heat 2",
+          "type": "1",
+          "started_at": "2024-11-16T20:20:00.000Z",
+          "ended_at": "2024-11-16T21:21:27.003Z",
+          "last_received_data_at": "2024-11-16T21:24:36.389Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742091"
+        }
+      ]
+    },
+    {
+      "id": 2193958,
+      "name": "Model 3",
+      "runs": [
+        {
+          "id": 107500933,
+          "group_id": 2193958,
+          "name": "Heat 2",
+          "type": "2",
+          "started_at": "2024-11-18T00:10:00.000Z",
+          "ended_at": "2024-11-18T00:27:45.828Z",
+          "last_received_data_at": "2024-11-18T00:33:58.612Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742105"
+        },
+        {
+          "id": 107494984,
+          "group_id": 2193958,
+          "name": "Heat 1",
+          "type": "2",
+          "started_at": "2024-11-17T21:00:00.000Z",
+          "ended_at": "2024-11-17T21:16:04.177Z",
+          "last_received_data_at": "2024-11-17T21:21:20.560Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742104"
+        },
+        {
+          "id": 107449296,
+          "group_id": 2193958,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2024-11-16T22:25:00.000Z",
+          "ended_at": "2024-11-16T22:43:32.556Z",
+          "last_received_data_at": "2024-11-16T22:42:46.824Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742097"
+        }
+      ]
+    },
+    {
+      "id": 2193957,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 107499623,
+          "group_id": 2193957,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2024-11-17T23:25:00.000Z",
+          "ended_at": "2024-11-17T23:41:29.926Z",
+          "last_received_data_at": "2024-11-17T23:53:54.890Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742100"
+        },
+        {
+          "id": 107495646,
+          "group_id": 2193957,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2024-11-17T21:20:00.000Z",
+          "ended_at": "2024-11-17T21:35:30.341Z",
+          "last_received_data_at": "2024-11-17T21:42:10.436Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742099"
+        },
+        {
+          "id": 107487561,
+          "group_id": 2193957,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2024-11-17T17:00:00.000Z",
+          "ended_at": "2024-11-17T17:16:06.780Z",
+          "last_received_data_at": "2024-11-17T17:22:03.151Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742098"
+        },
+        {
+          "id": 107453751,
+          "group_id": 2193957,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2024-11-17T00:35:00.000Z",
+          "ended_at": "2024-11-17T00:55:28.503Z",
+          "last_received_data_at": "2024-11-17T01:03:15.661Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742096"
+        },
+        {
+          "id": 107448547,
+          "group_id": 2193957,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2024-11-16T22:05:00.000Z",
+          "ended_at": "2024-11-16T22:29:41.631Z",
+          "last_received_data_at": "2024-11-16T22:24:12.298Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742095"
+        },
+        {
+          "id": 107441351,
+          "group_id": 2193957,
+          "name": "Practice 2",
+          "type": "0",
+          "started_at": "2024-11-16T18:45:00.000Z",
+          "ended_at": "2024-11-16T20:14:03.596Z",
+          "last_received_data_at": "2024-11-16T20:18:33.436Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742094"
+        },
+        {
+          "id": 107439244,
+          "group_id": 2193957,
+          "name": "Practice 1",
+          "type": "0",
+          "started_at": "2024-11-16T17:50:00.000Z",
+          "ended_at": "2024-11-16T18:06:44.253Z",
+          "last_received_data_at": "2024-11-16T18:08:27.972Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-thunderhill/results/1073742093"
+        }
+      ]
+    }
+  ]
+}

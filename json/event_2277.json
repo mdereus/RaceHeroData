@@ -1,0 +1,299 @@
+{
+  "id": 2277,
+  "name": "GridLife Track battle round 5",
+  "started_at": "2017-10-07T14:20:00.000Z",
+  "ended_at": "2017-10-08T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "Chief of Timing & Scoring",
+    "Race Director",
+    "",
+    ""
+  ],
+  "timezone": "America/Winnipeg",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-track-battle-round-5",
+  "created_at": "2017-10-07T14:24:00.343Z",
+  "updated_at": "2017-10-08T19:00:56.025Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 25,
+    "name": "GingerMan Raceway",
+    "address": "61414 Phoenix Road",
+    "address2": null,
+    "city": "South Haven",
+    "region": "MI",
+    "postal_code": "49090",
+    "country": "US",
+    "website_url": "http://www.gingermanraceway.com",
+    "lat": 42.4114824905255,
+    "lng": -86.1419154906144,
+    "url": "http://www.gingermanraceway.com",
+    "html_url": "https://racehero.io/venues/25",
+    "avatar_url": "",
+    "configuration": {
+      "id": 640,
+      "venue_id": 25,
+      "name": "long track",
+      "length": 2.1,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 11881,
+      "name": "Qualifying ",
+      "runs": [
+        {
+          "id": 579716,
+          "group_id": 11881,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-10-07T14:20:00.000Z",
+          "ended_at": "2017-10-07T15:05:33.092Z",
+          "last_received_data_at": "2017-10-07T15:09:59.996Z",
+          "status": "PROVISIONAL",
+          "total_laps": 17,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741885"
+        }
+      ]
+    },
+    {
+      "id": 11891,
+      "name": "Heat 1",
+      "runs": [
+        {
+          "id": 580222,
+          "group_id": 11891,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-10-07T17:00:00.000Z",
+          "ended_at": "2017-10-07T17:17:02.934Z",
+          "last_received_data_at": "2017-10-07T17:20:02.564Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741888"
+        },
+        {
+          "id": 580278,
+          "group_id": 11891,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-10-07T17:01:00.000Z",
+          "ended_at": "2017-10-07T17:16:10.515Z",
+          "last_received_data_at": "2017-10-07T17:35:59.051Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741889"
+        },
+        {
+          "id": 580337,
+          "group_id": 11891,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-10-07T17:02:00.000Z",
+          "ended_at": "2017-10-07T17:14:09.161Z",
+          "last_received_data_at": "2017-10-07T17:48:01.643Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741890"
+        }
+      ]
+    },
+    {
+      "id": 11903,
+      "name": "Heat 2 ",
+      "runs": [
+        {
+          "id": 580625,
+          "group_id": 11903,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-10-07T19:10:00.000Z",
+          "ended_at": "2017-10-07T19:26:06.693Z",
+          "last_received_data_at": "2017-10-07T19:26:53.093Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741891"
+        },
+        {
+          "id": 580745,
+          "group_id": 11903,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-10-07T19:11:00.000Z",
+          "ended_at": "2017-10-07T19:25:18.206Z",
+          "last_received_data_at": "2017-10-07T19:47:09.753Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741892"
+        },
+        {
+          "id": 580840,
+          "group_id": 11903,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-10-07T19:12:00.000Z",
+          "ended_at": "2017-10-07T19:22:15.801Z",
+          "last_received_data_at": "2017-10-07T19:59:26.237Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741893"
+        }
+      ]
+    },
+    {
+      "id": 11914,
+      "name": "Heat 3 ",
+      "runs": [
+        {
+          "id": 582584,
+          "group_id": 11914,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-10-08T12:42:00.000Z",
+          "ended_at": "2017-10-08T13:03:54.062Z",
+          "last_received_data_at": "2017-10-08T13:42:04.871Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741896"
+        },
+        {
+          "id": 582441,
+          "group_id": 11914,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-10-08T12:40:00.000Z",
+          "ended_at": "2017-10-08T12:54:46.263Z",
+          "last_received_data_at": "2017-10-08T12:57:17.396Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741894"
+        },
+        {
+          "id": 582482,
+          "group_id": 11914,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-10-08T12:41:00.000Z",
+          "ended_at": "2017-10-08T13:03:09.638Z",
+          "last_received_data_at": "2017-10-08T13:19:51.765Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741895"
+        }
+      ]
+    },
+    {
+      "id": 11923,
+      "name": "Heat 4",
+      "runs": [
+        {
+          "id": 583138,
+          "group_id": 11923,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-10-08T16:02:00.000Z",
+          "ended_at": "2017-10-08T16:14:54.177Z",
+          "last_received_data_at": "2017-10-08T16:52:21.161Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741899"
+        },
+        {
+          "id": 582899,
+          "group_id": 11923,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-10-08T16:00:00.000Z",
+          "ended_at": "2017-10-08T16:16:11.144Z",
+          "last_received_data_at": "2017-10-08T16:18:42.976Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741897"
+        },
+        {
+          "id": 583020,
+          "group_id": 11923,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-10-08T16:01:00.000Z",
+          "ended_at": "2017-10-08T16:21:13.436Z",
+          "last_received_data_at": "2017-10-08T16:38:57.287Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741898"
+        }
+      ]
+    },
+    {
+      "id": 11928,
+      "name": "Heat 5",
+      "runs": [
+        {
+          "id": 583827,
+          "group_id": 11928,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2017-10-08T18:10:00.000Z",
+          "ended_at": "2017-10-08T18:24:29.282Z",
+          "last_received_data_at": "2017-10-08T18:33:19.090Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741900"
+        },
+        {
+          "id": 583868,
+          "group_id": 11928,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2017-10-08T18:11:00.000Z",
+          "ended_at": "2017-10-08T18:22:33.676Z",
+          "last_received_data_at": "2017-10-08T18:44:44.443Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741901"
+        },
+        {
+          "id": 583897,
+          "group_id": 11928,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2017-10-08T18:12:00.000Z",
+          "ended_at": "2017-10-08T18:26:39.496Z",
+          "last_received_data_at": "2017-10-08T19:01:08.113Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-round-5/results/1073741902"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "id": 36917,
+  "name": "Jzilla TrackBattle Barber",
+  "started_at": "2023-06-10T14:00:00.000Z",
+  "ended_at": "2023-06-11T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Winnipeg",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/jzilla-trackbattle-barber",
+  "created_at": "2023-06-10T15:58:50.473Z",
+  "updated_at": "2023-06-11T20:53:49.417Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 7,
+    "name": "Barber Motorsports Park",
+    "address": "6040 Barber Motorsports Pkwy",
+    "address2": null,
+    "city": "Leeds",
+    "region": "AL",
+    "postal_code": "35094",
+    "country": "US",
+    "website_url": "http://wera.com",
+    "lat": 33.5322399866309,
+    "lng": -86.6209029966196,
+    "url": "http://wera.com",
+    "html_url": "https://racehero.io/venues/7",
+    "avatar_url": "",
+    "configuration": {
+      "id": 216,
+      "venue_id": 7,
+      "name": "Barber Motorsports Park",
+      "length": 2.4,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 1766852,
+      "name": "TA",
+      "runs": [
+        {
+          "id": 81641434,
+          "group_id": 1766852,
+          "name": "Heat 6",
+          "type": "1",
+          "started_at": "2023-06-11T20:00:00.000Z",
+          "ended_at": "2023-06-11T20:53:22.187Z",
+          "last_received_data_at": "2023-06-11T20:53:49.412Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/jzilla-trackbattle-barber/results/1073741923"
+        },
+        {
+          "id": 81636668,
+          "group_id": 1766852,
+          "name": "Heat 5",
+          "type": "1",
+          "started_at": "2023-06-11T18:00:00.000Z",
+          "ended_at": "2023-06-11T18:53:27.023Z",
+          "last_received_data_at": "2023-06-11T18:56:41.266Z",
+          "status": "PROVISIONAL",
+          "total_laps": 11,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/jzilla-trackbattle-barber/results/1073741922"
+        },
+        {
+          "id": 81630495,
+          "group_id": 1766852,
+          "name": "Heat 4",
+          "type": "1",
+          "started_at": "2023-06-11T15:00:00.000Z",
+          "ended_at": "2023-06-11T15:57:12.752Z",
+          "last_received_data_at": "2023-06-11T16:00:11.662Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/jzilla-trackbattle-barber/results/1073741921"
+        },
+        {
+          "id": 81587182,
+          "group_id": 1766852,
+          "name": "Heat 3",
+          "type": "1",
+          "started_at": "2023-06-10T20:00:00.000Z",
+          "ended_at": "2023-06-10T21:03:06.746Z",
+          "last_received_data_at": "2023-06-10T21:03:26.023Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/jzilla-trackbattle-barber/results/1073741920"
+        },
+        {
+          "id": 81581718,
+          "group_id": 1766852,
+          "name": "Heat 2",
+          "type": "1",
+          "started_at": "2023-06-10T18:00:00.000Z",
+          "ended_at": "2023-06-10T18:45:46.697Z",
+          "last_received_data_at": "2023-06-10T18:53:09.301Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/jzilla-trackbattle-barber/results/1073741919"
+        },
+        {
+          "id": 81575813,
+          "group_id": 1766852,
+          "name": "Heat 1",
+          "type": "1",
+          "started_at": "2023-06-10T14:00:00.000Z",
+          "ended_at": "2023-06-10T14:47:02.657Z",
+          "last_received_data_at": "2023-06-10T16:00:42.136Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/jzilla-trackbattle-barber/results/1073741918"
+        }
+      ]
+    }
+  ]
+}

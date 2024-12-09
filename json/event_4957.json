@@ -1,0 +1,503 @@
+{
+  "id": 4957,
+  "name": "Gridlife TrackBattle Road America ",
+  "started_at": "2019-09-06T14:20:00.000Z",
+  "ended_at": "2019-09-08T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "Chief of Timing & Scoring",
+    "Race Director",
+    "",
+    ""
+  ],
+  "timezone": "America/Winnipeg",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-trackbattle-road-america",
+  "created_at": "2019-09-06T14:49:57.751Z",
+  "updated_at": "2019-09-08T18:24:40.405Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 79,
+    "name": "Road America",
+    "address": "N7390 WI-67",
+    "address2": null,
+    "city": "Plymouth",
+    "region": "WI",
+    "postal_code": "53073",
+    "country": "US",
+    "website_url": "http://fdxcr.com",
+    "lat": 43.8001009296071,
+    "lng": -88.0000138123787,
+    "url": "http://fdxcr.com",
+    "html_url": "https://racehero.io/venues/79",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1402751552/ff5c2da4e3511ee50debf6b12e7a67d8.jpg",
+    "configuration": {
+      "id": 140,
+      "venue_id": 79,
+      "name": "Road America",
+      "length": 4,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 272729,
+      "name": "Time Attack Heat 1",
+      "runs": [
+        {
+          "id": 19379659,
+          "group_id": 272729,
+          "name": "Group A ",
+          "type": "1",
+          "started_at": "2019-09-06T14:20:00.000Z",
+          "ended_at": "2019-09-06T14:53:29.075Z",
+          "last_received_data_at": "2019-09-06T14:59:43.800Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741989"
+        },
+        {
+          "id": 19380130,
+          "group_id": 272729,
+          "name": "Group B ",
+          "type": "1",
+          "started_at": "2019-09-06T14:20:00.000Z",
+          "ended_at": "2019-09-06T14:48:49.148Z",
+          "last_received_data_at": "2019-09-06T15:29:45.788Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741990"
+        },
+        {
+          "id": 19380828,
+          "group_id": 272729,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-09-06T14:20:00.000Z",
+          "ended_at": "2019-09-06T15:08:46.786Z",
+          "last_received_data_at": "2019-09-06T16:20:00.365Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741991"
+        },
+        {
+          "id": 19492542,
+          "group_id": 272729,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2019-09-06T14:20:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741992"
+        },
+        {
+          "id": 19492543,
+          "group_id": 272729,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2019-09-06T14:20:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741993"
+        }
+      ]
+    },
+    {
+      "id": 272793,
+      "name": "GLTC Practice",
+      "runs": [
+        {
+          "id": 19384195,
+          "group_id": 272793,
+          "name": "GLTC Practice ",
+          "type": "0",
+          "started_at": "2019-09-06T17:00:00.000Z",
+          "ended_at": "2019-09-06T18:11:01.630Z",
+          "last_received_data_at": "2019-09-06T18:25:28.682Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741994"
+        }
+      ]
+    },
+    {
+      "id": 273407,
+      "name": "GLTC Qualifying 2",
+      "runs": [
+        {
+          "id": 19428632,
+          "group_id": 273407,
+          "name": "GLTC Qualifying",
+          "type": "1",
+          "started_at": "2019-09-07T13:16:00.000Z",
+          "ended_at": "2019-09-07T13:36:07.255Z",
+          "last_received_data_at": "2019-09-07T14:01:22.631Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742002"
+        }
+      ]
+    },
+    {
+      "id": 272849,
+      "name": "Time Attack Heat 2",
+      "runs": [
+        {
+          "id": 19388869,
+          "group_id": 272849,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-09-06T19:00:00.000Z",
+          "ended_at": "2019-09-06T19:18:30.651Z",
+          "last_received_data_at": "2019-09-06T19:53:08.045Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741996"
+        },
+        {
+          "id": 19389546,
+          "group_id": 272849,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-09-06T19:00:00.000Z",
+          "ended_at": "2019-09-06T19:21:17.131Z",
+          "last_received_data_at": "2019-09-06T20:14:33.409Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741997"
+        },
+        {
+          "id": 19388155,
+          "group_id": 272849,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-09-06T19:00:00.000Z",
+          "ended_at": "2019-09-06T19:21:33.352Z",
+          "last_received_data_at": "2019-09-06T19:34:36.725Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741995"
+        }
+      ]
+    },
+    {
+      "id": 273434,
+      "name": "Time Attack Heat 4",
+      "runs": [
+        {
+          "id": 19429493,
+          "group_id": 273434,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-09-07T13:01:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": "2019-09-07T14:28:49.931Z",
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742003"
+        },
+        {
+          "id": 19430277,
+          "group_id": 273434,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-09-07T13:01:00.000Z",
+          "ended_at": "2019-09-07T13:20:35.709Z",
+          "last_received_data_at": "2019-09-07T14:53:44.623Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742004"
+        },
+        {
+          "id": 19431245,
+          "group_id": 273434,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-09-07T13:01:00.000Z",
+          "ended_at": "2019-09-07T13:20:53.868Z",
+          "last_received_data_at": "2019-09-07T15:13:36.057Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742005"
+        }
+      ]
+    },
+    {
+      "id": 272898,
+      "name": "GLTC Qualifying 1",
+      "runs": [
+        {
+          "id": 19391726,
+          "group_id": 272898,
+          "name": "GLTC Qualifying 1",
+          "type": "1",
+          "started_at": "2019-09-06T20:40:00.000Z",
+          "ended_at": "2019-09-06T21:02:25.723Z",
+          "last_received_data_at": "2019-09-06T21:21:40.685Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741998"
+        }
+      ]
+    },
+    {
+      "id": 272926,
+      "name": "Time Attack Heat 3",
+      "runs": [
+        {
+          "id": 19393817,
+          "group_id": 272926,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-09-06T22:00:00.000Z",
+          "ended_at": "2019-09-06T22:18:32.269Z",
+          "last_received_data_at": "2019-09-06T22:38:50.987Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073741999"
+        },
+        {
+          "id": 19492544,
+          "group_id": 272926,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-09-06T22:00:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742001"
+        },
+        {
+          "id": 19395210,
+          "group_id": 272926,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-09-06T22:00:00.000Z",
+          "ended_at": "2019-09-06T22:19:57.415Z",
+          "last_received_data_at": "2019-09-06T22:58:55.520Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742000"
+        }
+      ]
+    },
+    {
+      "id": 274107,
+      "name": "GLTC Race 4",
+      "runs": [
+        {
+          "id": 19492541,
+          "group_id": 274107,
+          "name": "GLTC Race 4",
+          "type": "2",
+          "started_at": "2019-09-08T18:00:00.000Z",
+          "ended_at": "2019-09-08T18:16:35.743Z",
+          "last_received_data_at": "2019-09-08T18:24:40.398Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742016"
+        }
+      ]
+    },
+    {
+      "id": 274105,
+      "name": "GLTC warmup ",
+      "runs": [
+        {
+          "id": 19483704,
+          "group_id": 274105,
+          "name": "GLTC Warmup",
+          "type": "1",
+          "started_at": "2019-09-08T14:00:00.000Z",
+          "ended_at": "2019-09-08T14:32:48.194Z",
+          "last_received_data_at": "2019-09-08T14:34:53.894Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742014"
+        }
+      ]
+    },
+    {
+      "id": 274106,
+      "name": "GLTC Race 3",
+      "runs": [
+        {
+          "id": 19489929,
+          "group_id": 274106,
+          "name": "GLTC Race 3",
+          "type": "2",
+          "started_at": "2019-09-08T15:40:00.000Z",
+          "ended_at": "2019-09-08T15:58:56.868Z",
+          "last_received_data_at": "2019-09-08T17:06:13.773Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742015"
+        }
+      ]
+    },
+    {
+      "id": 273511,
+      "name": "Time Attack Heat 5",
+      "runs": [
+        {
+          "id": 19435316,
+          "group_id": 273511,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-09-07T16:00:00.000Z",
+          "ended_at": "2019-09-07T16:20:28.660Z",
+          "last_received_data_at": "2019-09-07T16:44:35.467Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742006"
+        },
+        {
+          "id": 19436135,
+          "group_id": 273511,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-09-07T16:00:00.000Z",
+          "ended_at": "2019-09-07T16:19:27.417Z",
+          "last_received_data_at": "2019-09-07T17:05:39.793Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742007"
+        },
+        {
+          "id": 19436974,
+          "group_id": 273511,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-09-07T16:00:00.000Z",
+          "ended_at": "2019-09-07T16:17:36.101Z",
+          "last_received_data_at": "2019-09-07T17:22:55.087Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742008"
+        }
+      ]
+    },
+    {
+      "id": 273585,
+      "name": "GLTC Race 1",
+      "runs": [
+        {
+          "id": 19443085,
+          "group_id": 273585,
+          "name": "GLTC Race 1",
+          "type": "2",
+          "started_at": "2019-09-07T19:20:00.000Z",
+          "ended_at": "2019-09-07T19:40:31.183Z",
+          "last_received_data_at": "2019-09-07T19:48:05.010Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742009"
+        }
+      ]
+    },
+    {
+      "id": 273642,
+      "name": "Time Attack Heat 6",
+      "runs": [
+        {
+          "id": 19448971,
+          "group_id": 273642,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-09-07T21:40:00.000Z",
+          "ended_at": "2019-09-07T21:53:53.440Z",
+          "last_received_data_at": "2019-09-07T23:01:58.685Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742011"
+        },
+        {
+          "id": 19449569,
+          "group_id": 273642,
+          "name": "Group B ",
+          "type": "1",
+          "started_at": "2019-09-07T21:40:00.000Z",
+          "ended_at": "2019-09-07T21:56:36.894Z",
+          "last_received_data_at": "2019-09-07T22:32:11.785Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742012"
+        },
+        {
+          "id": 19450342,
+          "group_id": 273642,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-09-07T21:40:00.000Z",
+          "ended_at": "2019-09-07T21:56:59.661Z",
+          "last_received_data_at": "2019-09-07T22:49:13.223Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742013"
+        }
+      ]
+    },
+    {
+      "id": 273641,
+      "name": "GLTC Race 2",
+      "runs": [
+        {
+          "id": 19447905,
+          "group_id": 273641,
+          "name": "GLTC Race 2 ",
+          "type": "2",
+          "started_at": "2019-09-07T21:40:00.000Z",
+          "ended_at": "2019-09-07T22:01:34.660Z",
+          "last_received_data_at": "2019-09-07T21:57:18.213Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-trackbattle-road-america/results/1073742010"
+        }
+      ]
+    }
+  ]
+}

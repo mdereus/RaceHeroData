@@ -1,0 +1,359 @@
+{
+  "id": 41932,
+  "name": "Gridlife Summer Apex Festival",
+  "started_at": "2024-07-26T13:00:00.000Z",
+  "ended_at": "2024-07-28T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Winnipeg",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-summer-apex-festival",
+  "created_at": "2024-07-26T13:00:35.773Z",
+  "updated_at": "2024-07-28T14:59:55.101Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 79,
+    "name": "Road America",
+    "address": "N7390 WI-67",
+    "address2": null,
+    "city": "Plymouth",
+    "region": "WI",
+    "postal_code": "53073",
+    "country": "US",
+    "website_url": "http://fdxcr.com",
+    "lat": 43.8001009296071,
+    "lng": -88.0000138123787,
+    "url": "http://fdxcr.com",
+    "html_url": "https://racehero.io/venues/79",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1402751552/ff5c2da4e3511ee50debf6b12e7a67d8.jpg",
+    "configuration": {
+      "id": 140,
+      "venue_id": 79,
+      "name": "Road America",
+      "length": 4,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 2097381,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 101843047,
+          "group_id": 2097381,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2024-07-27T22:35:00.000Z",
+          "ended_at": "2024-07-27T22:47:49.480Z",
+          "last_received_data_at": "2024-07-27T23:08:09.235Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742006"
+        },
+        {
+          "id": 101833664,
+          "group_id": 2097381,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2024-07-27T19:00:00.000Z",
+          "ended_at": "2024-07-27T19:22:50.798Z",
+          "last_received_data_at": "2024-07-27T22:26:39.589Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742005"
+        },
+        {
+          "id": 101822719,
+          "group_id": 2097381,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2024-07-27T15:35:00.000Z",
+          "ended_at": "2024-07-27T15:49:24.069Z",
+          "last_received_data_at": "2024-07-27T23:45:22.648Z",
+          "status": "PROVISIONAL",
+          "total_laps": 2,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742004"
+        },
+        {
+          "id": 101773045,
+          "group_id": 2097381,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2024-07-26T19:20:00.000Z",
+          "ended_at": "2024-07-26T19:49:57.358Z",
+          "last_received_data_at": "2024-07-27T00:29:39.415Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741996"
+        },
+        {
+          "id": 101780777,
+          "group_id": 2097381,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2024-07-26T22:25:00.000Z",
+          "ended_at": "2024-07-26T22:48:01.033Z",
+          "last_received_data_at": "2024-07-27T00:05:09.133Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741999"
+        },
+        {
+          "id": 101758668,
+          "group_id": 2097381,
+          "name": "Practice",
+          "type": "0",
+          "started_at": "2024-07-26T14:15:00.000Z",
+          "ended_at": "2024-07-26T14:39:45.334Z",
+          "last_received_data_at": "2024-07-26T14:49:06.197Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741990"
+        }
+      ]
+    },
+    {
+      "id": 2097353,
+      "name": "RUSH SR",
+      "runs": [
+        {
+          "id": 101842338,
+          "group_id": 2097353,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2024-07-27T22:10:00.000Z",
+          "ended_at": "2024-07-27T22:21:57.706Z",
+          "last_received_data_at": "2024-07-27T22:46:33.037Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742003"
+        },
+        {
+          "id": 101824061,
+          "group_id": 2097353,
+          "name": "Qualifying 2",
+          "type": "1",
+          "started_at": "2024-07-27T16:00:00.000Z",
+          "ended_at": "2024-07-27T16:13:41.578Z",
+          "last_received_data_at": "2024-07-27T22:04:55.442Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742001"
+        },
+        {
+          "id": 101835793,
+          "group_id": 2097353,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2024-07-27T19:30:00.000Z",
+          "ended_at": "2024-07-27T19:52:24.852Z",
+          "last_received_data_at": "2024-07-27T23:02:13.775Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742002"
+        },
+        {
+          "id": 101815230,
+          "group_id": 2097353,
+          "name": "Practice 2",
+          "type": "0",
+          "started_at": "2024-07-27T13:40:00.000Z",
+          "ended_at": "2024-07-27T14:00:00.694Z",
+          "last_received_data_at": "2024-07-27T14:09:04.562Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742000"
+        },
+        {
+          "id": 101774629,
+          "group_id": 2097353,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2024-07-26T19:50:00.000Z",
+          "ended_at": "2024-07-26T20:10:07.440Z",
+          "last_received_data_at": "2024-07-27T00:11:18.650Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741997"
+        },
+        {
+          "id": 101779440,
+          "group_id": 2097353,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2024-07-26T21:55:00.000Z",
+          "ended_at": "2024-07-26T22:15:10.921Z",
+          "last_received_data_at": "2024-07-27T00:09:44.207Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741998"
+        },
+        {
+          "id": 101765248,
+          "group_id": 2097353,
+          "name": "Qualifying 1",
+          "type": "1",
+          "started_at": "2024-07-26T16:30:00.000Z",
+          "ended_at": "2024-07-26T16:46:14.865Z",
+          "last_received_data_at": "2024-07-26T16:50:02.461Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741993"
+        },
+        {
+          "id": 101757714,
+          "group_id": 2097353,
+          "name": "Practice 2",
+          "type": "0",
+          "started_at": "2024-07-26T14:00:00.000Z",
+          "ended_at": "2024-07-26T14:15:52.799Z",
+          "last_received_data_at": "2024-07-26T14:23:17.337Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741991"
+        },
+        {
+          "id": 101755043,
+          "group_id": 2097353,
+          "name": "Practice 1",
+          "type": "0",
+          "started_at": "2024-07-26T13:00:00.000Z",
+          "ended_at": "2024-07-26T13:20:51.698Z",
+          "last_received_data_at": "2024-07-26T13:21:06.644Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741989"
+        }
+      ]
+    },
+    {
+      "id": 2097382,
+      "name": "TA",
+      "runs": [
+        {
+          "id": 101877791,
+          "group_id": 2097382,
+          "name": "Last Dash",
+          "type": "1",
+          "started_at": "2024-07-28T14:00:00.000Z",
+          "ended_at": "2024-07-28T15:00:06.730Z",
+          "last_received_data_at": "2024-07-28T14:59:55.095Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742010"
+        },
+        {
+          "id": 101839208,
+          "group_id": 2097382,
+          "name": "Podium Sprint",
+          "type": "1",
+          "started_at": "2024-07-27T20:55:00.000Z",
+          "ended_at": "2024-07-27T22:12:15.286Z",
+          "last_received_data_at": "2024-07-27T22:26:25.461Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742009"
+        },
+        {
+          "id": 101829598,
+          "group_id": 2097382,
+          "name": "Qualifying 3",
+          "type": "1",
+          "started_at": "2024-07-27T17:40:00.000Z",
+          "ended_at": "2024-07-27T18:54:31.395Z",
+          "last_received_data_at": "2024-07-27T22:00:48.354Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742008"
+        },
+        {
+          "id": 101816379,
+          "group_id": 2097382,
+          "name": "Qualifying 2",
+          "type": "1",
+          "started_at": "2024-07-27T14:05:00.000Z",
+          "ended_at": "2024-07-27T15:26:53.812Z",
+          "last_received_data_at": "2024-07-27T22:13:38.957Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073742007"
+        },
+        {
+          "id": 101776547,
+          "group_id": 2097382,
+          "name": "Qualifying 1",
+          "type": "1",
+          "started_at": "2024-07-26T20:35:00.000Z",
+          "ended_at": "2024-07-26T21:43:13.706Z",
+          "last_received_data_at": "2024-07-27T00:01:26.797Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741995"
+        },
+        {
+          "id": 101769803,
+          "group_id": 2097382,
+          "name": "Practice 2",
+          "type": "1",
+          "started_at": "2024-07-26T18:10:00.000Z",
+          "ended_at": "2024-07-26T19:16:28.438Z",
+          "last_received_data_at": "2024-07-27T00:06:17.020Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741994"
+        },
+        {
+          "id": 101759842,
+          "group_id": 2097382,
+          "name": "Practice 1",
+          "type": "1",
+          "started_at": "2024-07-26T14:40:00.000Z",
+          "ended_at": "2024-07-26T15:46:53.016Z",
+          "last_received_data_at": "2024-07-26T15:56:16.238Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-summer-apex-festival/results/1073741992"
+        }
+      ]
+    }
+  ]
+}

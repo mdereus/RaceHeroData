@@ -1,0 +1,713 @@
+{
+  "id": 32462,
+  "name": "Gridlife Midwest",
+  "started_at": "2022-06-02T18:10:00.000Z",
+  "ended_at": "2022-06-04T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Toronto",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-midwest-2022",
+  "created_at": "2022-06-02T19:58:01.891Z",
+  "updated_at": "2022-06-04T23:37:10.981Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 25,
+    "name": "GingerMan Raceway",
+    "address": "61414 Phoenix Road",
+    "address2": null,
+    "city": "South Haven",
+    "region": "MI",
+    "postal_code": "49090",
+    "country": "US",
+    "website_url": "http://www.gingermanraceway.com",
+    "lat": 42.4114824905255,
+    "lng": -86.1419154906144,
+    "url": "http://www.gingermanraceway.com",
+    "html_url": "https://racehero.io/venues/25",
+    "avatar_url": "",
+    "configuration": {
+      "id": 43,
+      "venue_id": 25,
+      "name": "GingerMan Raceway",
+      "length": 2.2,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 1470796,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 63327177,
+          "group_id": 1470796,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2022-06-02T18:10:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742162"
+        },
+        {
+          "id": 63323403,
+          "group_id": 1470796,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2022-06-04T21:25:00.000Z",
+          "ended_at": "2022-06-04T21:44:42.266Z",
+          "last_received_data_at": "2022-06-04T22:21:20.289Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742192"
+        },
+        {
+          "id": 63316883,
+          "group_id": 1470796,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2022-06-04T18:50:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": "2022-06-04T20:25:48.824Z",
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742191"
+        },
+        {
+          "id": 63307942,
+          "group_id": 1470796,
+          "name": "Top 10 Shootout",
+          "type": "1",
+          "started_at": "2022-06-04T16:40:00.000Z",
+          "ended_at": "2022-06-04T17:11:01.460Z",
+          "last_received_data_at": "2022-06-04T17:12:03.381Z",
+          "status": "PROVISIONAL",
+          "total_laps": 2,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742186"
+        },
+        {
+          "id": 63262876,
+          "group_id": 1470796,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2022-06-03T23:15:00.000Z",
+          "ended_at": "2022-06-03T23:45:58.992Z",
+          "last_received_data_at": "2022-06-04T00:05:59.500Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742173"
+        },
+        {
+          "id": 63256428,
+          "group_id": 1470796,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2022-06-03T20:55:00.000Z",
+          "ended_at": "2022-06-03T21:10:28.576Z",
+          "last_received_data_at": "2022-06-03T22:06:14.226Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742172"
+        },
+        {
+          "id": 63247596,
+          "group_id": 1470796,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2022-06-03T18:10:00.000Z",
+          "ended_at": "2022-06-03T18:42:32.188Z",
+          "last_received_data_at": "2022-06-03T18:48:54.986Z",
+          "status": "PROVISIONAL",
+          "total_laps": 13,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742171"
+        },
+        {
+          "id": 63242910,
+          "group_id": 1470796,
+          "name": "Practice 3",
+          "type": "2",
+          "started_at": "2022-06-03T16:00:00.000Z",
+          "ended_at": "2022-06-03T16:21:56.900Z",
+          "last_received_data_at": "2022-06-03T16:23:22.098Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742161"
+        },
+        {
+          "id": 63207259,
+          "group_id": 1470796,
+          "name": "Practice 2",
+          "type": "0",
+          "started_at": "2022-06-02T23:00:00.000Z",
+          "ended_at": "2022-06-02T23:19:02.335Z",
+          "last_received_data_at": "2022-06-02T23:37:40.341Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742160"
+        },
+        {
+          "id": 63204187,
+          "group_id": 1470796,
+          "name": "Practice 1",
+          "type": "0",
+          "started_at": "2022-06-02T21:20:00.000Z",
+          "ended_at": "2022-06-02T21:41:48.897Z",
+          "last_received_data_at": "2022-06-02T21:43:37.127Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742155"
+        }
+      ]
+    },
+    {
+      "id": 1472057,
+      "name": "TA Heat 8",
+      "runs": [
+        {
+          "id": 63313791,
+          "group_id": 1472057,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-06-04T18:25:00.000Z",
+          "ended_at": "2022-06-04T18:48:21.766Z",
+          "last_received_data_at": "2022-06-04T18:57:13.809Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742190"
+        },
+        {
+          "id": 63313032,
+          "group_id": 1472057,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-06-04T18:05:00.000Z",
+          "ended_at": "2022-06-04T18:17:57.769Z",
+          "last_received_data_at": "2022-06-04T18:30:33.165Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742189"
+        },
+        {
+          "id": 63311946,
+          "group_id": 1472057,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-06-04T17:45:00.000Z",
+          "ended_at": "2022-06-04T18:02:46.072Z",
+          "last_received_data_at": "2022-06-04T18:17:09.622Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742188"
+        },
+        {
+          "id": 63310862,
+          "group_id": 1472057,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-06-04T17:25:00.000Z",
+          "ended_at": "2022-06-04T17:41:25.664Z",
+          "last_received_data_at": "2022-06-04T17:57:51.211Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742187"
+        }
+      ]
+    },
+    {
+      "id": 1472059,
+      "name": "TA Heat 7",
+      "runs": [
+        {
+          "id": 63299700,
+          "group_id": 1472059,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-06-04T14:40:00.000Z",
+          "ended_at": "2022-06-04T15:05:50.403Z",
+          "last_received_data_at": "2022-06-04T15:08:16.941Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742185"
+        },
+        {
+          "id": 63298285,
+          "group_id": 1472059,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-06-04T14:20:00.000Z",
+          "ended_at": "2022-06-04T14:40:02.444Z",
+          "last_received_data_at": "2022-06-04T14:38:56.141Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742184"
+        },
+        {
+          "id": 63296952,
+          "group_id": 1472059,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-06-04T14:00:00.000Z",
+          "ended_at": "2022-06-04T14:18:09.262Z",
+          "last_received_data_at": "2022-06-04T14:18:14.244Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742183"
+        },
+        {
+          "id": 63295977,
+          "group_id": 1472059,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-06-04T13:40:00.000Z",
+          "ended_at": "2022-06-04T13:57:21.459Z",
+          "last_received_data_at": "2022-06-04T13:58:18.633Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742182"
+        }
+      ]
+    },
+    {
+      "id": 1472058,
+      "name": "TA Heat 9",
+      "runs": [
+        {
+          "id": 63327176,
+          "group_id": 1472058,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-06-04T23:35:00.000Z",
+          "ended_at": "2022-06-04T23:44:21.467Z",
+          "last_received_data_at": "2022-06-04T23:37:10.978Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742196"
+        },
+        {
+          "id": 63326920,
+          "group_id": 1472058,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-06-04T23:15:00.000Z",
+          "ended_at": "2022-06-04T23:25:19.091Z",
+          "last_received_data_at": "2022-06-04T23:27:35.983Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742195"
+        },
+        {
+          "id": 63326197,
+          "group_id": 1472058,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-06-04T22:55:00.000Z",
+          "ended_at": "2022-06-04T23:07:59.338Z",
+          "last_received_data_at": "2022-06-04T23:16:23.474Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742194"
+        },
+        {
+          "id": 63325525,
+          "group_id": 1472058,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-06-04T22:35:00.000Z",
+          "ended_at": "2022-06-04T22:48:21.081Z",
+          "last_received_data_at": "2022-06-04T23:03:21.234Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742193"
+        }
+      ]
+    },
+    {
+      "id": 1471358,
+      "name": "TA Heat 5",
+      "runs": [
+        {
+          "id": 63254699,
+          "group_id": 1471358,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-06-03T20:10:00.000Z",
+          "ended_at": "2022-06-03T20:27:54.260Z",
+          "last_received_data_at": "2022-06-03T20:30:48.887Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742177"
+        },
+        {
+          "id": 63253700,
+          "group_id": 1471358,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-06-03T19:50:00.000Z",
+          "ended_at": "2022-06-03T20:12:10.463Z",
+          "last_received_data_at": "2022-06-03T20:10:45.945Z",
+          "status": "PROVISIONAL",
+          "total_laps": 11,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742176"
+        },
+        {
+          "id": 63252816,
+          "group_id": 1471358,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-06-03T19:30:00.000Z",
+          "ended_at": "2022-06-03T19:44:34.321Z",
+          "last_received_data_at": "2022-06-03T19:47:08.176Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742175"
+        },
+        {
+          "id": 63251006,
+          "group_id": 1471358,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-06-03T19:10:00.000Z",
+          "ended_at": "2022-06-03T19:23:07.479Z",
+          "last_received_data_at": "2022-06-03T19:29:59.427Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742174"
+        }
+      ]
+    },
+    {
+      "id": 1471359,
+      "name": "TA Heat 6",
+      "runs": [
+        {
+          "id": 63262113,
+          "group_id": 1471359,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-06-03T23:05:00.000Z",
+          "ended_at": "2022-06-03T23:17:35.138Z",
+          "last_received_data_at": "2022-06-03T23:25:44.256Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742181"
+        },
+        {
+          "id": 63260739,
+          "group_id": 1471359,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-06-03T22:45:00.000Z",
+          "ended_at": "2022-06-03T23:05:56.903Z",
+          "last_received_data_at": "2022-06-03T23:08:14.178Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742180"
+        },
+        {
+          "id": 63260664,
+          "group_id": 1471359,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-06-03T22:25:00.000Z",
+          "ended_at": "2022-06-03T22:34:52.387Z",
+          "last_received_data_at": "2022-06-03T22:40:11.685Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742179"
+        },
+        {
+          "id": 63259360,
+          "group_id": 1471359,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-06-03T22:05:00.000Z",
+          "ended_at": "2022-06-03T22:21:54.661Z",
+          "last_received_data_at": "2022-06-03T22:30:14.161Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742178"
+        }
+      ]
+    },
+    {
+      "id": 1471357,
+      "name": "TA Heat 4",
+      "runs": [
+        {
+          "id": 63246731,
+          "group_id": 1471357,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-06-03T17:25:00.000Z",
+          "ended_at": "2022-06-03T17:36:13.674Z",
+          "last_received_data_at": "2022-06-03T17:37:58.994Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742170"
+        },
+        {
+          "id": 63245893,
+          "group_id": 1471357,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-06-03T17:05:00.000Z",
+          "ended_at": "2022-06-03T17:14:51.252Z",
+          "last_received_data_at": "2022-06-03T17:17:57.706Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742169"
+        },
+        {
+          "id": 63245074,
+          "group_id": 1471357,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-06-03T16:45:00.000Z",
+          "ended_at": "2022-06-03T17:03:13.880Z",
+          "last_received_data_at": "2022-06-03T17:07:01.589Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742168"
+        },
+        {
+          "id": 63244025,
+          "group_id": 1471357,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-06-03T16:25:00.000Z",
+          "ended_at": "2022-06-03T16:41:48.411Z",
+          "last_received_data_at": "2022-06-03T16:47:03.698Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742167"
+        }
+      ]
+    },
+    {
+      "id": 1470862,
+      "name": "TA Heat 3",
+      "runs": [
+        {
+          "id": 63210564,
+          "group_id": 1470862,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-06-03T00:35:00.000Z",
+          "ended_at": "2022-06-03T00:47:23.292Z",
+          "last_received_data_at": "2022-06-03T00:49:58.656Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742166"
+        },
+        {
+          "id": 63210123,
+          "group_id": 1470862,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-06-03T00:15:00.000Z",
+          "ended_at": "2022-06-03T00:22:54.492Z",
+          "last_received_data_at": "2022-06-03T00:36:13.588Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742165"
+        },
+        {
+          "id": 63209464,
+          "group_id": 1470862,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-06-02T23:55:00.000Z",
+          "ended_at": "2022-06-03T00:10:17.936Z",
+          "last_received_data_at": "2022-06-03T00:27:06.082Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742164"
+        },
+        {
+          "id": 63208587,
+          "group_id": 1470862,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-06-02T23:35:00.000Z",
+          "ended_at": "2022-06-02T23:55:47.490Z",
+          "last_received_data_at": "2022-06-03T00:01:50.221Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742163"
+        }
+      ]
+    },
+    {
+      "id": 1470815,
+      "name": "TA Heat 2",
+      "runs": [
+        {
+          "id": 63206713,
+          "group_id": 1470815,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-06-02T22:40:00.000Z",
+          "ended_at": "2022-06-02T22:57:48.926Z",
+          "last_received_data_at": "2022-06-02T22:58:57.313Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742159"
+        },
+        {
+          "id": 63206161,
+          "group_id": 1470815,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-06-02T22:20:00.000Z",
+          "ended_at": "2022-06-02T22:37:54.844Z",
+          "last_received_data_at": "2022-06-02T22:39:06.233Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742158"
+        },
+        {
+          "id": 63205502,
+          "group_id": 1470815,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-06-02T22:00:00.000Z",
+          "ended_at": "2022-06-02T22:12:46.065Z",
+          "last_received_data_at": "2022-06-02T22:19:04.580Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742157"
+        },
+        {
+          "id": 63205172,
+          "group_id": 1470815,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-06-02T21:40:00.000Z",
+          "ended_at": "2022-06-02T21:52:59.091Z",
+          "last_received_data_at": "2022-06-02T22:02:43.959Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742156"
+        }
+      ]
+    },
+    {
+      "id": 1470759,
+      "name": "TA Heat 1",
+      "runs": [
+        {
+          "id": 63203532,
+          "group_id": 1470759,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2022-06-02T21:00:00.000Z",
+          "ended_at": "2022-06-02T21:18:12.191Z",
+          "last_received_data_at": "2022-06-02T21:19:20.698Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742153"
+        },
+        {
+          "id": 63202872,
+          "group_id": 1470759,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2022-06-02T20:40:00.000Z",
+          "ended_at": "2022-06-02T21:01:40.260Z",
+          "last_received_data_at": "2022-06-02T21:00:48.399Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742152"
+        },
+        {
+          "id": 63201994,
+          "group_id": 1470759,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2022-06-02T20:20:00.000Z",
+          "ended_at": "2022-06-02T20:35:14.361Z",
+          "last_received_data_at": "2022-06-02T20:39:02.967Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742151"
+        },
+        {
+          "id": 63201479,
+          "group_id": 1470759,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2022-06-02T20:00:00.000Z",
+          "ended_at": "2022-06-02T20:14:10.124Z",
+          "last_received_data_at": "2022-06-02T20:14:04.999Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest-2022/results/1073742150"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": 40603,
+  "name": "Gridlife Willow Springs (Big Willow)",
+  "started_at": "2024-04-27T16:00:00.000Z",
+  "ended_at": "2024-04-28T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Los_Angeles",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-willow-springs-big-willow",
+  "created_at": "2024-04-27T17:05:46.030Z",
+  "updated_at": "2024-04-28T22:13:55.650Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 2903,
+    "name": "WSIR Big Willow",
+    "address": null,
+    "address2": null,
+    "city": null,
+    "region": null,
+    "postal_code": null,
+    "country": null,
+    "website_url": null,
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "html_url": "https://racehero.io/venues/2903",
+    "avatar_url": "",
+    "configuration": {
+      "id": 3837,
+      "venue_id": 2903,
+      "name": "Big Willow",
+      "length": 2.5,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 2021294,
+      "name": "TA",
+      "runs": [
+        {
+          "id": 97276604,
+          "group_id": 2021294,
+          "name": "Heat 6",
+          "type": "1",
+          "started_at": "2024-04-28T21:30:00.000Z",
+          "ended_at": "2024-04-28T22:10:43.641Z",
+          "last_received_data_at": "2024-04-28T22:13:50.768Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741936"
+        },
+        {
+          "id": 97276605,
+          "group_id": 2021294,
+          "name": "Heat 1",
+          "type": "1",
+          "started_at": "2024-04-27T16:00:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741927"
+        },
+        {
+          "id": 97271930,
+          "group_id": 2021294,
+          "name": "Heat 5",
+          "type": "1",
+          "started_at": "2024-04-28T19:15:00.000Z",
+          "ended_at": "2024-04-28T20:04:58.423Z",
+          "last_received_data_at": "2024-04-28T20:06:02.705Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741935"
+        },
+        {
+          "id": 97264598,
+          "group_id": 2021294,
+          "name": "Heat 4",
+          "type": "1",
+          "started_at": "2024-04-28T16:00:00.000Z",
+          "ended_at": "2024-04-28T16:50:07.216Z",
+          "last_received_data_at": "2024-04-28T16:50:37.480Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741934"
+        },
+        {
+          "id": 97225949,
+          "group_id": 2021294,
+          "name": "Heat 3",
+          "type": "1",
+          "started_at": "2024-04-27T22:40:00.000Z",
+          "ended_at": "2024-04-27T23:31:04.081Z",
+          "last_received_data_at": "2024-04-27T23:31:38.661Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741930"
+        },
+        {
+          "id": 97221025,
+          "group_id": 2021294,
+          "name": "Heat 2",
+          "type": "1",
+          "started_at": "2024-04-27T20:25:00.000Z",
+          "ended_at": "2024-04-27T21:12:57.186Z",
+          "last_received_data_at": "2024-04-27T21:13:09.534Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741929"
+        }
+      ]
+    },
+    {
+      "id": 2021295,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 97273851,
+          "group_id": 2021295,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2024-04-28T20:05:00.000Z",
+          "ended_at": "2024-04-28T20:19:57.976Z",
+          "last_received_data_at": "2024-04-28T20:24:09.490Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741938"
+        },
+        {
+          "id": 97269237,
+          "group_id": 2021295,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2024-04-28T17:50:00.000Z",
+          "ended_at": "2024-04-28T18:06:08.766Z",
+          "last_received_data_at": "2024-04-28T18:15:51.250Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741937"
+        },
+        {
+          "id": 97228064,
+          "group_id": 2021295,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2024-04-27T23:35:00.000Z",
+          "ended_at": "2024-04-27T23:51:32.114Z",
+          "last_received_data_at": "2024-04-27T23:58:18.456Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741933"
+        },
+        {
+          "id": 97222998,
+          "group_id": 2021295,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2024-04-27T21:15:00.000Z",
+          "ended_at": "2024-04-27T21:30:05.158Z",
+          "last_received_data_at": "2024-04-27T21:35:13.055Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741932"
+        },
+        {
+          "id": 97218800,
+          "group_id": 2021295,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2024-04-27T19:20:00.000Z",
+          "ended_at": "2024-04-27T19:43:58.302Z",
+          "last_received_data_at": "2024-04-27T19:48:42.482Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741931"
+        },
+        {
+          "id": 97212797,
+          "group_id": 2021295,
+          "name": "Practice",
+          "type": "0",
+          "started_at": "2024-04-27T16:45:00.000Z",
+          "ended_at": "2024-04-27T17:00:58.302Z",
+          "last_received_data_at": "2024-04-27T17:13:44.100Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-willow-springs-big-willow/results/1073741928"
+        }
+      ]
+    }
+  ]
+}

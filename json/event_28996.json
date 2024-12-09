@@ -1,0 +1,409 @@
+{
+  "id": 28996,
+  "name": "Gridlife Chicago",
+  "started_at": "2021-06-26T14:00:00.000Z",
+  "ended_at": "2021-06-28T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Winnipeg",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-chicago",
+  "created_at": "2021-06-26T13:58:33.822Z",
+  "updated_at": "2021-06-27T21:01:16.531Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 518,
+    "name": "Autobahn Country Club - South 2.1",
+    "address": null,
+    "address2": null,
+    "city": null,
+    "region": null,
+    "postal_code": null,
+    "country": null,
+    "website_url": null,
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "html_url": "https://racehero.io/venues/518",
+    "avatar_url": "",
+    "configuration": {
+      "id": 722,
+      "venue_id": 518,
+      "name": "Autobahn Country Club - South 2.1 mi",
+      "length": 2.1,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 1210186,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 47022273,
+          "group_id": 1210186,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2021-06-27T20:35:00.000Z",
+          "ended_at": "2021-06-27T20:55:28.743Z",
+          "last_received_data_at": "2021-06-27T21:01:16.527Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741892"
+        },
+        {
+          "id": 47022274,
+          "group_id": 1210186,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2021-06-27T20:35:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741893"
+        },
+        {
+          "id": 47015372,
+          "group_id": 1210186,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2021-06-27T17:40:00.000Z",
+          "ended_at": "2021-06-27T17:58:02.595Z",
+          "last_received_data_at": "2021-06-27T18:04:08.725Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741891"
+        },
+        {
+          "id": 47006606,
+          "group_id": 1210186,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2021-06-27T14:15:00.000Z",
+          "ended_at": "2021-06-27T14:29:46.529Z",
+          "last_received_data_at": "2021-06-27T14:33:01.167Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741890"
+        },
+        {
+          "id": 46955550,
+          "group_id": 1210186,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2021-06-26T15:20:00.000Z",
+          "ended_at": "2021-06-26T15:43:40.377Z",
+          "last_received_data_at": "2021-06-26T15:46:16.740Z",
+          "status": "PROVISIONAL",
+          "total_laps": 11,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741880"
+        },
+        {
+          "id": 46951335,
+          "group_id": 1210186,
+          "name": "Practice",
+          "type": "0",
+          "started_at": "2021-06-26T14:00:00.000Z",
+          "ended_at": "2021-06-26T14:21:20.931Z",
+          "last_received_data_at": "2021-06-26T14:23:16.218Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741879"
+        }
+      ]
+    },
+    {
+      "id": 1210276,
+      "name": "TA Heat 4",
+      "runs": [
+        {
+          "id": 47022265,
+          "group_id": 1210276,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-06-27T20:25:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741902"
+        },
+        {
+          "id": 47021495,
+          "group_id": 1210276,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-06-27T20:05:00.000Z",
+          "ended_at": "2021-06-27T20:23:21.780Z",
+          "last_received_data_at": "2021-06-27T20:30:50.989Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741901"
+        },
+        {
+          "id": 47020750,
+          "group_id": 1210276,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-06-27T19:45:00.000Z",
+          "ended_at": "2021-06-27T20:06:50.780Z",
+          "last_received_data_at": "2021-06-27T20:10:18.623Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741900"
+        }
+      ]
+    },
+    {
+      "id": 1210275,
+      "name": "TA Heat 3",
+      "runs": [
+        {
+          "id": 47022275,
+          "group_id": 1210275,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-06-27T18:45:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741899"
+        },
+        {
+          "id": 47018390,
+          "group_id": 1210275,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-06-27T18:25:00.000Z",
+          "ended_at": "2021-06-27T18:44:49.586Z",
+          "last_received_data_at": "2021-06-27T19:05:19.525Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741898"
+        },
+        {
+          "id": 47016755,
+          "group_id": 1210275,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-06-27T18:05:00.000Z",
+          "ended_at": "2021-06-27T18:26:09.819Z",
+          "last_received_data_at": "2021-06-27T18:44:32.176Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741897"
+        }
+      ]
+    },
+    {
+      "id": 1210274,
+      "name": "TA Heat 2",
+      "runs": [
+        {
+          "id": 47022266,
+          "group_id": 1210274,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-06-27T14:20:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741896"
+        },
+        {
+          "id": 47005809,
+          "group_id": 1210274,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-06-27T14:00:00.000Z",
+          "ended_at": "2021-06-27T14:21:28.762Z",
+          "last_received_data_at": "2021-06-27T14:14:08.489Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741895"
+        },
+        {
+          "id": 47005071,
+          "group_id": 1210274,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-06-27T13:40:00.000Z",
+          "ended_at": "2021-06-27T14:01:43.529Z",
+          "last_received_data_at": "2021-06-27T13:52:31.277Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741894"
+        }
+      ]
+    },
+    {
+      "id": 1210272,
+      "name": "TA Heat 2",
+      "runs": [
+        {
+          "id": 47022272,
+          "group_id": 1210272,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-06-26T21:45:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741886"
+        },
+        {
+          "id": 47022271,
+          "group_id": 1210272,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-06-26T21:25:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741885"
+        },
+        {
+          "id": 47022270,
+          "group_id": 1210272,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-06-26T21:05:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741884"
+        }
+      ]
+    },
+    {
+      "id": 1210273,
+      "name": "TA Heat 3",
+      "runs": [
+        {
+          "id": 47022269,
+          "group_id": 1210273,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-06-27T00:00:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741887"
+        },
+        {
+          "id": 47022268,
+          "group_id": 1210273,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-06-27T00:40:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741889"
+        },
+        {
+          "id": 47022267,
+          "group_id": 1210273,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-06-27T00:20:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741888"
+        }
+      ]
+    },
+    {
+      "id": 1210271,
+      "name": "TA Heat 1",
+      "runs": [
+        {
+          "id": 46958441,
+          "group_id": 1210271,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2021-06-26T16:25:00.000Z",
+          "ended_at": "2021-06-26T16:43:45.523Z",
+          "last_received_data_at": "2021-06-26T16:49:41.100Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741883"
+        },
+        {
+          "id": 46957526,
+          "group_id": 1210271,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2021-06-26T16:05:00.000Z",
+          "ended_at": "2021-06-26T16:24:10.601Z",
+          "last_received_data_at": "2021-06-26T16:26:00.138Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741882"
+        },
+        {
+          "id": 46956593,
+          "group_id": 1210271,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2021-06-26T15:45:00.000Z",
+          "ended_at": "2021-06-26T16:00:16.509Z",
+          "last_received_data_at": "2021-06-26T16:04:35.512Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-chicago/results/1073741881"
+        }
+      ]
+    }
+  ]
+}

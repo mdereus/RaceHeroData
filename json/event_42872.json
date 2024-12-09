@@ -1,0 +1,359 @@
+{
+  "id": 42872,
+  "name": "Gridlife Laguna Festival",
+  "started_at": "2024-09-27T16:00:00.000Z",
+  "ended_at": "2024-09-29T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Los_Angeles",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-laguna-festival",
+  "created_at": "2024-09-27T16:00:21.811Z",
+  "updated_at": "2024-09-29T16:54:48.848Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 44,
+    "name": "WeatherTech Raceway Laguna Seca",
+    "address": "1021 Monterey-Salinas Highway",
+    "address2": null,
+    "city": "Salinas",
+    "region": "CA",
+    "postal_code": "93908",
+    "country": "US",
+    "website_url": "http://www.laguna-seca.com",
+    "lat": 36.5832991485573,
+    "lng": -121.756400116951,
+    "url": "http://www.laguna-seca.com",
+    "html_url": "https://racehero.io/venues/44",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1569331073/5eef7e32b199a17e689cf7dc6fbdb768.jpg",
+    "configuration": {
+      "id": 5,
+      "venue_id": 44,
+      "name": "Full Course",
+      "length": 2.2,
+      "units": "mi",
+      "direction": "ccw"
+    }
+  },
+  "groups": [
+    {
+      "id": 2151289,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 105025245,
+          "group_id": 2151289,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2024-09-29T00:15:00.000Z",
+          "ended_at": "2024-09-29T00:30:01.414Z",
+          "last_received_data_at": "2024-09-29T00:44:06.278Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742071"
+        },
+        {
+          "id": 105020200,
+          "group_id": 2151289,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2024-09-28T22:15:00.000Z",
+          "ended_at": "2024-09-28T22:36:17.930Z",
+          "last_received_data_at": "2024-09-28T22:42:48.160Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742070"
+        },
+        {
+          "id": 105009726,
+          "group_id": 2151289,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2024-09-28T18:40:00.000Z",
+          "ended_at": "2024-09-28T18:56:49.000Z",
+          "last_received_data_at": "2024-09-28T19:04:11.606Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742069"
+        },
+        {
+          "id": 104955234,
+          "group_id": 2151289,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2024-09-27T23:00:00.000Z",
+          "ended_at": "2024-09-27T23:17:16.605Z",
+          "last_received_data_at": "2024-09-27T23:41:09.377Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742058"
+        },
+        {
+          "id": 104951942,
+          "group_id": 2151289,
+          "name": "Qualifying",
+          "type": "1",
+          "started_at": "2024-09-27T21:05:00.000Z",
+          "ended_at": "2024-09-27T21:24:55.243Z",
+          "last_received_data_at": "2024-09-27T21:55:52.478Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742057"
+        },
+        {
+          "id": 104944049,
+          "group_id": 2151289,
+          "name": "Practice 1",
+          "type": "0",
+          "started_at": "2024-09-27T17:20:00.000Z",
+          "ended_at": "2024-09-27T17:38:47.573Z",
+          "last_received_data_at": "2024-09-27T17:49:04.913Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742055"
+        }
+      ]
+    },
+    {
+      "id": 2151290,
+      "name": "RUSH SR",
+      "runs": [
+        {
+          "id": 105024091,
+          "group_id": 2151290,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2024-09-28T23:50:00.000Z",
+          "ended_at": "2024-09-29T00:05:36.377Z",
+          "last_received_data_at": "2024-09-29T00:22:24.468Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742068"
+        },
+        {
+          "id": 105018922,
+          "group_id": 2151290,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2024-09-28T21:50:00.000Z",
+          "ended_at": "2024-09-28T22:08:12.407Z",
+          "last_received_data_at": "2024-09-28T22:14:20.859Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742067"
+        },
+        {
+          "id": 105010752,
+          "group_id": 2151290,
+          "name": "Qualifying 2",
+          "type": "1",
+          "started_at": "2024-09-28T19:05:00.000Z",
+          "ended_at": "2024-09-28T19:28:00.875Z",
+          "last_received_data_at": "2024-09-28T19:29:45.863Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742066"
+        },
+        {
+          "id": 105005676,
+          "group_id": 2151290,
+          "name": "Practice 3",
+          "type": "0",
+          "started_at": "2024-09-28T17:15:00.000Z",
+          "ended_at": "2024-09-28T17:30:20.651Z",
+          "last_received_data_at": "2024-09-28T17:30:23.926Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742065"
+        },
+        {
+          "id": 104954580,
+          "group_id": 2151290,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2024-09-27T22:35:00.000Z",
+          "ended_at": "2024-09-27T22:50:22.069Z",
+          "last_received_data_at": "2024-09-27T23:19:30.488Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742061"
+        },
+        {
+          "id": 104949527,
+          "group_id": 2151290,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2024-09-27T20:20:00.000Z",
+          "ended_at": "2024-09-27T20:42:41.996Z",
+          "last_received_data_at": "2024-09-27T20:49:01.030Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742060"
+        },
+        {
+          "id": 104946890,
+          "group_id": 2151290,
+          "name": "Qualifying 1",
+          "type": "1",
+          "started_at": "2024-09-27T19:00:00.000Z",
+          "ended_at": "2024-09-27T19:18:00.417Z",
+          "last_received_data_at": "2024-09-27T19:21:11.078Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742064"
+        },
+        {
+          "id": 104944705,
+          "group_id": 2151290,
+          "name": "Practice 2",
+          "type": "0",
+          "started_at": "2024-09-27T17:45:00.000Z",
+          "ended_at": "2024-09-27T17:56:50.385Z",
+          "last_received_data_at": "2024-09-27T18:04:36.522Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742059"
+        },
+        {
+          "id": 104941418,
+          "group_id": 2151290,
+          "name": "Practice 1",
+          "type": "0",
+          "started_at": "2024-09-27T16:00:00.000Z",
+          "ended_at": "2024-09-27T16:14:41.480Z",
+          "last_received_data_at": "2024-09-27T16:16:24.853Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742056"
+        }
+      ]
+    },
+    {
+      "id": 2151288,
+      "name": "TA",
+      "runs": [
+        {
+          "id": 105062366,
+          "group_id": 2151288,
+          "name": "Last Dash",
+          "type": "1",
+          "started_at": "2024-09-29T16:00:00.000Z",
+          "ended_at": "2024-09-29T16:50:04.417Z",
+          "last_received_data_at": "2024-09-29T16:53:51.515Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742075"
+        },
+        {
+          "id": 105022411,
+          "group_id": 2151288,
+          "name": "Podium Sprint",
+          "type": "1",
+          "started_at": "2024-09-28T23:00:00.000Z",
+          "ended_at": "2024-09-28T23:56:13.450Z",
+          "last_received_data_at": "2024-09-29T00:01:32.763Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742074"
+        },
+        {
+          "id": 105016009,
+          "group_id": 2151288,
+          "name": "Qualifying 3",
+          "type": "1",
+          "started_at": "2024-09-28T20:45:00.000Z",
+          "ended_at": "2024-09-28T21:50:22.167Z",
+          "last_received_data_at": "2024-09-28T21:50:36.681Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742073"
+        },
+        {
+          "id": 105006227,
+          "group_id": 2151288,
+          "name": "Qualifying 2",
+          "type": "1",
+          "started_at": "2024-09-28T17:30:00.000Z",
+          "ended_at": "2024-09-28T18:42:22.480Z",
+          "last_received_data_at": "2024-09-28T18:42:53.791Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742072"
+        },
+        {
+          "id": 104952598,
+          "group_id": 2151288,
+          "name": "Qualifying 1",
+          "type": "1",
+          "started_at": "2024-09-27T21:35:00.000Z",
+          "ended_at": "2024-09-27T22:37:06.990Z",
+          "last_received_data_at": "2024-09-27T23:00:28.774Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742063"
+        },
+        {
+          "id": 104945366,
+          "group_id": 2151288,
+          "name": "Practice 2",
+          "type": "1",
+          "started_at": "2024-09-27T18:00:00.000Z",
+          "ended_at": "2024-09-27T18:52:44.644Z",
+          "last_received_data_at": "2024-09-27T18:58:30.614Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742062"
+        },
+        {
+          "id": 104941644,
+          "group_id": 2151288,
+          "name": "Practice 1",
+          "type": "1",
+          "started_at": "2024-09-27T16:15:00.000Z",
+          "ended_at": "2024-09-27T17:21:33.361Z",
+          "last_received_data_at": "2024-09-27T17:24:44.572Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-laguna-festival/results/1073742054"
+        }
+      ]
+    }
+  ]
+}

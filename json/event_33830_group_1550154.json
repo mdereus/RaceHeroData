@@ -1,0 +1,128 @@
+{
+  "group_id": 1550154,
+  "name": "Ebay Fits",
+  "runs": [
+    {
+      "id": 68272929,
+      "group_id": 1550154,
+      "name": "Ebay 6",
+      "type": "1",
+      "started_at": "2022-09-10 19:15:00 UTC",
+      "ended_at": "2022-09-10 19:29:46 UTC",
+      "last_received_data_at": "2022-09-10 19:30:51 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 5,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-alpine-horizon-festival/results/1073742367"
+    },
+    {
+      "id": 68271927,
+      "group_id": 1550154,
+      "name": "Ebay 5",
+      "type": "1",
+      "started_at": "2022-09-10 18:50:00 UTC",
+      "ended_at": "2022-09-10 19:09:44 UTC",
+      "last_received_data_at": "2022-09-10 19:09:22 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 4,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-alpine-horizon-festival/results/1073742366"
+    },
+    {
+      "id": 68270386,
+      "group_id": 1550154,
+      "name": "Ebay 4",
+      "type": "1",
+      "started_at": "2022-09-10 18:20:00 UTC",
+      "ended_at": "2022-09-10 18:46:05 UTC",
+      "last_received_data_at": "2022-09-10 18:46:30 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-alpine-horizon-festival/results/1073742364"
+    },
+    {
+      "id": 68224933,
+      "group_id": 1550154,
+      "name": "Ebay 3",
+      "type": "1",
+      "started_at": "2022-09-10 00:50:00 UTC",
+      "ended_at": "2022-09-10 01:10:06 UTC",
+      "last_received_data_at": "2022-09-10 01:17:15 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 6,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-alpine-horizon-festival/results/1073742363"
+    },
+    {
+      "id": 68222300,
+      "group_id": 1550154,
+      "name": "Ebay 2",
+      "type": "1",
+      "started_at": "2022-09-09 23:35:00 UTC",
+      "ended_at": "2022-09-09 23:57:02 UTC",
+      "last_received_data_at": "2022-09-10 00:05:35 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 5,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-alpine-horizon-festival/results/1073742362"
+    },
+    {
+      "id": 68209293,
+      "group_id": 1550154,
+      "name": "Ebay 1",
+      "type": "1",
+      "started_at": "2022-09-09 18:40:00 UTC",
+      "ended_at": "2022-09-09 19:06:25 UTC",
+      "last_received_data_at": "2022-09-09 19:14:53 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 3,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-alpine-horizon-festival/results/1073742360"
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Nat/State",
+    "attribute2": "Sponsor",
+    "attribute3": "Make",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Model/Engine",
+    "attribute7": "Tires",
+    "attribute8": "Email"
+  },
+  "racers": [
+    {
+      "name": "Blue Fit",
+      "number": "2",
+      "class": "SUNDAE CUP - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Silver Fit",
+      "number": "1",
+      "class": "SUNDAE CUP - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    }
+  ]
+}

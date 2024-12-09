@@ -1,0 +1,356 @@
+{
+  "id": 4176,
+  "name": "GridLife Track Battle R2 Summit Point",
+  "started_at": "2019-04-27T15:00:00.000Z",
+  "ended_at": "2019-04-28T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "Shenandoah Circuit",
+    "",
+    "",
+    ""
+  ],
+  "timezone": "America/Toronto",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point",
+  "created_at": "2019-04-27T14:51:08.293Z",
+  "updated_at": "2019-04-28T18:50:17.152Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 1038,
+    "name": "Summit Point - Shenandoah",
+    "address": null,
+    "address2": null,
+    "city": null,
+    "region": null,
+    "postal_code": null,
+    "country": null,
+    "website_url": null,
+    "lat": null,
+    "lng": null,
+    "url": null,
+    "html_url": "https://racehero.io/venues/1038",
+    "avatar_url": "",
+    "configuration": {
+      "id": 1459,
+      "venue_id": 1038,
+      "name": "Default",
+      "length": 2.2,
+      "units": "mi",
+      "direction": "ccw"
+    }
+  },
+  "groups": [
+    {
+      "id": 186249,
+      "name": "Heat 7",
+      "runs": [
+        {
+          "id": 13185296,
+          "group_id": 186249,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-04-28T17:00:00.000Z",
+          "ended_at": "2019-04-28T17:19:17.976Z",
+          "last_received_data_at": "2019-04-28T17:19:26.081Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741871"
+        },
+        {
+          "id": 13186076,
+          "group_id": 186249,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-04-28T17:20:00.000Z",
+          "ended_at": "2019-04-28T17:40:12.398Z",
+          "last_received_data_at": "2019-04-28T17:39:40.573Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741872"
+        }
+      ]
+    },
+    {
+      "id": 186250,
+      "name": "Heat 2",
+      "runs": [
+        {
+          "id": 13138288,
+          "group_id": 186250,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-04-27T18:00:00.000Z",
+          "ended_at": "2019-04-27T18:20:31.509Z",
+          "last_received_data_at": "2019-04-27T18:20:43.635Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741873"
+        },
+        {
+          "id": 13139122,
+          "group_id": 186250,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-04-27T18:10:00.000Z",
+          "ended_at": "2019-04-27T18:29:39.871Z",
+          "last_received_data_at": "2019-04-27T18:40:54.497Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741874"
+        }
+      ]
+    },
+    {
+      "id": 186248,
+      "name": "Heat 5",
+      "runs": [
+        {
+          "id": 13178634,
+          "group_id": 186248,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-04-28T14:00:00.000Z",
+          "ended_at": "2019-04-28T14:20:59.688Z",
+          "last_received_data_at": "2019-04-28T14:20:12.229Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741869"
+        },
+        {
+          "id": 13179378,
+          "group_id": 186248,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-04-28T14:20:00.000Z",
+          "ended_at": "2019-04-28T14:40:50.349Z",
+          "last_received_data_at": "2019-04-28T14:41:14.010Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741870"
+        }
+      ]
+    },
+    {
+      "id": 186245,
+      "name": "Heat 3",
+      "runs": [
+        {
+          "id": 13144031,
+          "group_id": 186245,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-04-27T20:40:00.000Z",
+          "ended_at": "2019-04-27T20:57:20.019Z",
+          "last_received_data_at": "2019-04-27T21:01:36.175Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741864"
+        },
+        {
+          "id": 13143471,
+          "group_id": 186245,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-04-27T20:20:00.000Z",
+          "ended_at": "2019-04-27T20:36:39.177Z",
+          "last_received_data_at": "2019-04-27T20:39:23.188Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741863"
+        }
+      ]
+    },
+    {
+      "id": 186246,
+      "name": "Heat 6",
+      "runs": [
+        {
+          "id": 13183070,
+          "group_id": 186246,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-04-28T16:00:00.000Z",
+          "ended_at": "2019-04-28T16:18:39.730Z",
+          "last_received_data_at": "2019-04-28T16:19:02.871Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741865"
+        },
+        {
+          "id": 13183774,
+          "group_id": 186246,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-04-28T16:20:00.000Z",
+          "ended_at": "2019-04-28T16:40:51.276Z",
+          "last_received_data_at": "2019-04-28T16:39:57.381Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741866"
+        }
+      ]
+    },
+    {
+      "id": 186251,
+      "name": "Heat 1",
+      "runs": [
+        {
+          "id": 13130691,
+          "group_id": 186251,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-04-27T15:00:00.000Z",
+          "ended_at": "2019-04-27T15:20:44.805Z",
+          "last_received_data_at": "2019-04-27T15:20:27.084Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741856"
+        },
+        {
+          "id": 13131554,
+          "group_id": 186251,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-04-27T15:20:00.000Z",
+          "ended_at": "2019-04-27T15:37:40.572Z",
+          "last_received_data_at": "2019-04-27T15:40:35.156Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741857"
+        }
+      ]
+    },
+    {
+      "id": 186247,
+      "name": "Heat 4",
+      "runs": [
+        {
+          "id": 13147150,
+          "group_id": 186247,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-04-27T22:00:00.000Z",
+          "ended_at": "2019-04-27T22:18:51.065Z",
+          "last_received_data_at": "2019-04-27T22:20:34.179Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741867"
+        },
+        {
+          "id": 13147904,
+          "group_id": 186247,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-04-27T22:20:00.000Z",
+          "ended_at": "2019-04-27T22:37:38.323Z",
+          "last_received_data_at": "2019-04-27T22:38:27.847Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741868"
+        }
+      ]
+    },
+    {
+      "id": 186252,
+      "name": "Heat 6",
+      "runs": [
+        {
+          "id": 13188634,
+          "group_id": 186252,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-04-28T17:00:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741858"
+        },
+        {
+          "id": 13188635,
+          "group_id": 186252,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-04-28T17:15:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741859"
+        },
+        {
+          "id": 13188636,
+          "group_id": 186252,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-04-28T17:30:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741860"
+        }
+      ]
+    },
+    {
+      "id": 186253,
+      "name": "Heat 8",
+      "runs": [
+        {
+          "id": 13187871,
+          "group_id": 186253,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-04-28T18:20:00.000Z",
+          "ended_at": "2019-04-28T18:35:24.099Z",
+          "last_received_data_at": "2019-04-28T18:35:00.025Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741861"
+        },
+        {
+          "id": 13188637,
+          "group_id": 186253,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-04-28T18:40:00.000Z",
+          "ended_at": "2019-04-28T18:54:13.098Z",
+          "last_received_data_at": "2019-04-28T18:50:17.144Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-r2-summit-point/results/1073741862"
+        }
+      ]
+    }
+  ]
+}

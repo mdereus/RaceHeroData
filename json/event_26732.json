@@ -1,0 +1,538 @@
+{
+  "id": 26732,
+  "name": "Gridlife Midwest",
+  "started_at": "2020-10-01T19:09:00.000Z",
+  "ended_at": "2020-10-03T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "Chief of Timing & Scoring",
+    "Race Director",
+    "",
+    ""
+  ],
+  "timezone": "America/Toronto",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-midwest",
+  "created_at": "2020-10-02T21:28:43.772Z",
+  "updated_at": "2020-10-04T00:16:00.939Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 25,
+    "name": "GingerMan Raceway",
+    "address": "61414 Phoenix Road",
+    "address2": null,
+    "city": "South Haven",
+    "region": "MI",
+    "postal_code": "49090",
+    "country": "US",
+    "website_url": "http://www.gingermanraceway.com",
+    "lat": 42.4114824905255,
+    "lng": -86.1419154906144,
+    "url": "http://www.gingermanraceway.com",
+    "html_url": "https://racehero.io/venues/25",
+    "avatar_url": "",
+    "configuration": {
+      "id": 43,
+      "venue_id": 25,
+      "name": "GingerMan Raceway",
+      "length": 2.2,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 1008718,
+      "name": "Time Attack Heat 8",
+      "runs": [
+        {
+          "id": 34561536,
+          "group_id": 1008718,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-10-02T23:50:00.000Z",
+          "ended_at": "2020-10-03T00:00:14.984Z",
+          "last_received_data_at": "2020-10-04T00:16:00.935Z",
+          "status": "PROVISIONAL",
+          "total_laps": 2,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741962"
+        },
+        {
+          "id": 34561071,
+          "group_id": 1008718,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-10-02T23:40:00.000Z",
+          "ended_at": "2020-10-02T23:55:25.487Z",
+          "last_received_data_at": "2020-10-04T00:05:42.074Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741961"
+        },
+        {
+          "id": 34560820,
+          "group_id": 1008718,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-10-02T23:30:00.000Z",
+          "ended_at": "2020-10-02T23:42:27.115Z",
+          "last_received_data_at": "2020-10-03T23:50:30.602Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741960"
+        }
+      ]
+    },
+    {
+      "id": 1008692,
+      "name": "GLTC",
+      "runs": [
+        {
+          "id": 34561539,
+          "group_id": 1008692,
+          "name": "New run",
+          "type": "1",
+          "started_at": "2020-10-02T23:30:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741950"
+        },
+        {
+          "id": 34561538,
+          "group_id": 1008692,
+          "name": "Practice 2",
+          "type": "0",
+          "started_at": "2020-10-01T23:18:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741933"
+        },
+        {
+          "id": 34561537,
+          "group_id": 1008692,
+          "name": "Practice 1",
+          "type": "0",
+          "started_at": "2020-10-01T20:39:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741931"
+        },
+        {
+          "id": 34559440,
+          "group_id": 1008692,
+          "name": "Race 4",
+          "type": "2",
+          "started_at": "2020-10-03T23:00:00.000Z",
+          "ended_at": "2020-10-03T23:16:58.405Z",
+          "last_received_data_at": "2020-10-03T23:27:40.839Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741953"
+        },
+        {
+          "id": 34555357,
+          "group_id": 1008692,
+          "name": "Race 3",
+          "type": "2",
+          "started_at": "2020-10-03T21:20:00.000Z",
+          "ended_at": "2020-10-03T21:39:22.740Z",
+          "last_received_data_at": "2020-10-03T21:31:15.287Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741952"
+        },
+        {
+          "id": 34552095,
+          "group_id": 1008692,
+          "name": "Top ten Shootout",
+          "type": "1",
+          "started_at": "2020-10-03T19:20:00.000Z",
+          "ended_at": "2020-10-03T19:47:38.698Z",
+          "last_received_data_at": "2020-10-03T20:10:14.117Z",
+          "status": "PROVISIONAL",
+          "total_laps": 2,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741951"
+        },
+        {
+          "id": 34505834,
+          "group_id": 1008692,
+          "name": "Race 2",
+          "type": "2",
+          "started_at": "2020-10-02T23:30:00.000Z",
+          "ended_at": "2020-10-02T23:52:56.367Z",
+          "last_received_data_at": "2020-10-02T23:56:30.779Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741949"
+        },
+        {
+          "id": 34501681,
+          "group_id": 1008692,
+          "name": "Practice 3",
+          "type": "0",
+          "started_at": "2020-10-02T16:00:00.000Z",
+          "ended_at": "2020-10-02T16:20:20.918Z",
+          "last_received_data_at": "2020-10-02T21:36:43.595Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741934"
+        },
+        {
+          "id": 34501657,
+          "group_id": 1008692,
+          "name": "Qualifying ",
+          "type": "1",
+          "started_at": "2020-10-02T18:10:00.000Z",
+          "ended_at": "2020-10-02T18:33:55.397Z",
+          "last_received_data_at": "2020-10-02T21:36:38.054Z",
+          "status": "PROVISIONAL",
+          "total_laps": 12,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741939"
+        },
+        {
+          "id": 34501638,
+          "group_id": 1008692,
+          "name": "Race 1",
+          "type": "2",
+          "started_at": "2020-10-02T20:40:00.000Z",
+          "ended_at": "2020-10-02T21:04:40.461Z",
+          "last_received_data_at": "2020-10-02T21:35:51.563Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741948"
+        }
+      ]
+    },
+    {
+      "id": 1008717,
+      "name": "Time Attack Heat 7",
+      "runs": [
+        {
+          "id": 34561540,
+          "group_id": 1008717,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-10-03T20:15:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741958"
+        },
+        {
+          "id": 34554976,
+          "group_id": 1008717,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-10-03T20:35:00.000Z",
+          "ended_at": "2020-10-03T20:46:49.614Z",
+          "last_received_data_at": "2020-10-03T21:04:19.459Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741959"
+        },
+        {
+          "id": 34553431,
+          "group_id": 1008717,
+          "name": "Group A + B",
+          "type": "1",
+          "started_at": "2020-10-03T19:55:00.000Z",
+          "ended_at": "2020-10-03T20:27:45.996Z",
+          "last_received_data_at": "2020-10-03T20:49:50.463Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741957"
+        }
+      ]
+    },
+    {
+      "id": 1008716,
+      "name": "Time Attach Heat 6",
+      "runs": [
+        {
+          "id": 34543480,
+          "group_id": 1008716,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-10-03T16:10:00.000Z",
+          "ended_at": "2020-10-03T16:35:46.055Z",
+          "last_received_data_at": "2020-10-03T16:36:33.520Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741956"
+        },
+        {
+          "id": 34542455,
+          "group_id": 1008716,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-10-03T15:45:00.000Z",
+          "ended_at": "2020-10-03T16:09:47.713Z",
+          "last_received_data_at": "2020-10-03T16:10:07.893Z",
+          "status": "PROVISIONAL",
+          "total_laps": 12,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741955"
+        },
+        {
+          "id": 34541613,
+          "group_id": 1008716,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-10-03T15:20:00.000Z",
+          "ended_at": "2020-10-03T15:40:43.210Z",
+          "last_received_data_at": "2020-10-03T15:43:23.002Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741954"
+        }
+      ]
+    },
+    {
+      "id": 1008695,
+      "name": "Time Attack Heat 4",
+      "runs": [
+        {
+          "id": 34561541,
+          "group_id": 1008695,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2020-10-02T19:25:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741943"
+        },
+        {
+          "id": 34502018,
+          "group_id": 1008695,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-10-02T19:10:00.000Z",
+          "ended_at": "2020-10-02T19:33:23.947Z",
+          "last_received_data_at": "2020-10-02T21:39:18.431Z",
+          "status": "PROVISIONAL",
+          "total_laps": 10,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741942"
+        },
+        {
+          "id": 34502001,
+          "group_id": 1008695,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-10-02T18:55:00.000Z",
+          "ended_at": "2020-10-02T19:22:49.763Z",
+          "last_received_data_at": "2020-10-02T21:39:02.531Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741941"
+        },
+        {
+          "id": 34501983,
+          "group_id": 1008695,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-10-02T18:40:00.000Z",
+          "ended_at": "2020-10-02T18:58:59.394Z",
+          "last_received_data_at": "2020-10-02T21:38:49.103Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741940"
+        }
+      ]
+    },
+    {
+      "id": 1008694,
+      "name": "Time Attack Heat 3",
+      "runs": [
+        {
+          "id": 34561542,
+          "group_id": 1008694,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2020-10-02T17:20:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741938"
+        },
+        {
+          "id": 34501977,
+          "group_id": 1008694,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-10-02T17:00:00.000Z",
+          "ended_at": "2020-10-02T17:22:33.414Z",
+          "last_received_data_at": "2020-10-02T21:38:33.885Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741937"
+        },
+        {
+          "id": 34501954,
+          "group_id": 1008694,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-10-02T16:40:00.000Z",
+          "ended_at": "2020-10-02T16:55:26.299Z",
+          "last_received_data_at": "2020-10-02T21:38:26.559Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741936"
+        },
+        {
+          "id": 34501945,
+          "group_id": 1008694,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-10-02T16:20:00.000Z",
+          "ended_at": "2020-10-02T16:37:51.927Z",
+          "last_received_data_at": "2020-10-02T21:38:17.403Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741935"
+        }
+      ]
+    },
+    {
+      "id": 1008696,
+      "name": "Time Attack Heat 5",
+      "runs": [
+        {
+          "id": 34561543,
+          "group_id": 1008696,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2020-10-02T22:45:00.000Z",
+          "ended_at": null,
+          "last_received_data_at": null,
+          "status": null,
+          "total_laps": 0,
+          "has_results": false,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741947"
+        },
+        {
+          "id": 34504054,
+          "group_id": 1008696,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2020-10-02T22:30:00.000Z",
+          "ended_at": "2020-10-02T22:51:45.740Z",
+          "last_received_data_at": "2020-10-02T23:03:29.415Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741946"
+        },
+        {
+          "id": 34503361,
+          "group_id": 1008696,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2020-10-02T22:15:00.000Z",
+          "ended_at": "2020-10-02T22:31:49.721Z",
+          "last_received_data_at": "2020-10-02T22:40:42.795Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741945"
+        },
+        {
+          "id": 34503114,
+          "group_id": 1008696,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-10-02T22:00:00.000Z",
+          "ended_at": "2020-10-02T22:16:05.275Z",
+          "last_received_data_at": "2020-10-02T22:22:46.375Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741944"
+        }
+      ]
+    },
+    {
+      "id": 1008691,
+      "name": "Time Attack Heat 1",
+      "runs": [
+        {
+          "id": 34501696,
+          "group_id": 1008691,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-10-01T19:09:00.000Z",
+          "ended_at": "2020-10-01T20:38:32.174Z",
+          "last_received_data_at": "2020-10-02T21:37:29.221Z",
+          "status": "PROVISIONAL",
+          "total_laps": 19,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741930"
+        }
+      ]
+    },
+    {
+      "id": 1008693,
+      "name": "Time Attack Heat 2 ",
+      "runs": [
+        {
+          "id": 34501713,
+          "group_id": 1008693,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2020-10-01T21:40:00.000Z",
+          "ended_at": "2020-10-01T22:55:39.700Z",
+          "last_received_data_at": "2020-10-02T21:37:44.493Z",
+          "status": "PROVISIONAL",
+          "total_laps": 19,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-midwest/results/1073741932"
+        }
+      ]
+    }
+  ]
+}

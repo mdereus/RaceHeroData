@@ -1,0 +1,381 @@
+{
+  "group_id": 2193957,
+  "name": "GLTC",
+  "runs": [
+    {
+      "id": 107499623,
+      "group_id": 2193957,
+      "name": "Race 4",
+      "type": "2",
+      "started_at": "2024-11-17 23:25:00 UTC",
+      "ended_at": "2024-11-17 23:41:29 UTC",
+      "last_received_data_at": "2024-11-17 23:53:54 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-thunderhill/results/1073742100"
+    },
+    {
+      "id": 107495646,
+      "group_id": 2193957,
+      "name": "Race 3",
+      "type": "2",
+      "started_at": "2024-11-17 21:20:00 UTC",
+      "ended_at": "2024-11-17 21:35:30 UTC",
+      "last_received_data_at": "2024-11-17 21:42:10 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-thunderhill/results/1073742099"
+    },
+    {
+      "id": 107487561,
+      "group_id": 2193957,
+      "name": "Race 2",
+      "type": "2",
+      "started_at": "2024-11-17 17:00:00 UTC",
+      "ended_at": "2024-11-17 17:16:06 UTC",
+      "last_received_data_at": "2024-11-17 17:22:03 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-thunderhill/results/1073742098"
+    },
+    {
+      "id": 107453751,
+      "group_id": 2193957,
+      "name": "Race 1",
+      "type": "2",
+      "started_at": "2024-11-17 00:35:00 UTC",
+      "ended_at": "2024-11-17 00:55:28 UTC",
+      "last_received_data_at": "2024-11-17 01:03:15 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 8,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-thunderhill/results/1073742096"
+    },
+    {
+      "id": 107448547,
+      "group_id": 2193957,
+      "name": "Qualifying",
+      "type": "1",
+      "started_at": "2024-11-16 22:05:00 UTC",
+      "ended_at": "2024-11-16 22:29:41 UTC",
+      "last_received_data_at": "2024-11-16 22:24:12 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 10,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-thunderhill/results/1073742095"
+    },
+    {
+      "id": 107441351,
+      "group_id": 2193957,
+      "name": "Practice 2",
+      "type": "0",
+      "started_at": "2024-11-16 18:45:00 UTC",
+      "ended_at": "2024-11-16 20:14:03 UTC",
+      "last_received_data_at": "2024-11-16 20:18:33 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 6,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-thunderhill/results/1073742094"
+    },
+    {
+      "id": 107439244,
+      "group_id": 2193957,
+      "name": "Practice 1",
+      "type": "0",
+      "started_at": "2024-11-16 17:50:00 UTC",
+      "ended_at": "2024-11-16 18:06:44 UTC",
+      "last_received_data_at": "2024-11-16 18:08:27 UTC",
+      "status": "PROVISIONAL",
+      "total_laps": 7,
+      "has_results": true,
+      "results_url": "https://api.racehero.io/events/gridlife-thunderhill/results/1073742093"
+    }
+  ],
+  "attributes_labels": {
+    "attribute1": "Nat/State",
+    "attribute2": "Sponsor",
+    "attribute3": "Make",
+    "attribute4": "Hometown",
+    "attribute5": "Club",
+    "attribute6": "Model/Engine",
+    "attribute7": "Tires",
+    "attribute8": "Email"
+  },
+  "racers": [
+    {
+      "name": "Sean Lovett",
+      "number": "133",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Bmw",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "E46",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Larry Moore",
+      "number": "272",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Bmw",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "3 SERIES",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Anthony Domenici",
+      "number": "173",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Bmw",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "3 SERIES",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Roger Eagleton",
+      "number": "371",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Bmw",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "E46",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Abdul Osmani",
+      "number": "244",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Bmw",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "M3",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Derrick Ambrose",
+      "number": "771",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Mazda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "3 TC",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Daniel Giraldo",
+      "number": "440",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Lexus",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "IS",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Tony Marchev",
+      "number": "17",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Chevrolet",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "CORVETTE",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Jonathan Lugod",
+      "number": "94",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Honda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "DEL SOL",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Michael Hillo",
+      "number": "224",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Nissan",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "350Z",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "George Koustoumbardis",
+      "number": "20",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Mazda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "MX-5 MIATA",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Adam Bao",
+      "number": "97",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Lotus",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "ELISE",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Nikita Rushmanov",
+      "number": "420",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Mazda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "MX-5 MIATA",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Kevin Bandy",
+      "number": "5",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": "",
+        "attribute1": "",
+        "attribute2": "Mazda",
+        "attribute3": "",
+        "attribute4": "",
+        "attribute5": "MX-5 MIATA",
+        "attribute6": "",
+        "attribute7": "",
+        "attribute8": ""
+      }
+    },
+    {
+      "name": "Taz Harvey",
+      "number": "188",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Jack Wischmeyer",
+      "number": "132",
+      "class": "GLTC - FWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    },
+    {
+      "name": "Bryan Zimmerman",
+      "number": "401",
+      "class": "GLTC - RWD",
+      "attributes": {
+        "attribute0": null,
+        "attribute1": null,
+        "attribute2": null,
+        "attribute3": null,
+        "attribute4": null,
+        "attribute5": null,
+        "attribute6": null,
+        "attribute7": null,
+        "attribute8": null
+      }
+    }
+  ]
+}

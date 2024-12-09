@@ -1,0 +1,744 @@
+{
+  "id": 4358,
+  "name": "Gridlife Track Battle Midwest",
+  "started_at": "2019-05-30T18:00:00.000Z",
+  "ended_at": "2019-06-02T23:59:59.999Z",
+  "sport": {
+    "name": "CARRACING"
+  },
+  "is_live": false,
+  "notes": [
+    "Chief of Timing & Scoring",
+    "Race Director",
+    "",
+    ""
+  ],
+  "timezone": "America/Toronto",
+  "meta": "{}",
+  "event_url": "https://racehero.io/events/gridlife-track-battle-midwest",
+  "created_at": "2019-05-30T20:39:46.326Z",
+  "updated_at": "2019-06-02T19:57:39.337Z",
+  "org": {
+    "id": 278,
+    "name": "GridLife",
+    "location": "",
+    "url": "http://www.grid.life",
+    "html_url": "https://racehero.io/orgs/gridlife",
+    "avatar_url": "https://res.cloudinary.com/racehero/image/upload/c_pad,g_center,h_50,w_50/v1618687915/c36efc7046d9588678a1b0fbba1e6615.jpg"
+  },
+  "venue": {
+    "id": 25,
+    "name": "GingerMan Raceway",
+    "address": "61414 Phoenix Road",
+    "address2": null,
+    "city": "South Haven",
+    "region": "MI",
+    "postal_code": "49090",
+    "country": "US",
+    "website_url": "http://www.gingermanraceway.com",
+    "lat": 42.4114824905255,
+    "lng": -86.1419154906144,
+    "url": "http://www.gingermanraceway.com",
+    "html_url": "https://racehero.io/venues/25",
+    "avatar_url": "",
+    "configuration": {
+      "id": 43,
+      "venue_id": 25,
+      "name": "GingerMan Raceway",
+      "length": 2.2,
+      "units": "mi",
+      "direction": "cw"
+    }
+  },
+  "groups": [
+    {
+      "id": 209176,
+      "name": "GLTC SATURDAY",
+      "runs": [
+        {
+          "id": 14776085,
+          "group_id": 209176,
+          "name": "GLTC Qualifying ",
+          "type": "1",
+          "started_at": "2019-06-01T15:40:00.000Z",
+          "ended_at": "2019-06-01T15:57:40.928Z",
+          "last_received_data_at": "2019-06-01T16:02:22.163Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741913"
+        },
+        {
+          "id": 14788022,
+          "group_id": 209176,
+          "name": "GLTC Race 2",
+          "type": "2",
+          "started_at": "2019-06-01T20:40:00.000Z",
+          "ended_at": "2019-06-01T20:56:12.266Z",
+          "last_received_data_at": "2019-06-01T21:06:08.160Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741915"
+        },
+        {
+          "id": 14783221,
+          "group_id": 209176,
+          "name": "GLTC Race 1",
+          "type": "2",
+          "started_at": "2019-06-01T19:00:00.000Z",
+          "ended_at": "2019-06-01T19:14:16.664Z",
+          "last_received_data_at": "2019-06-01T19:22:17.964Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741914"
+        }
+      ]
+    },
+    {
+      "id": 209175,
+      "name": "Track Battle Heat 6",
+      "runs": [
+        {
+          "id": 14780384,
+          "group_id": 209175,
+          "name": "Group A +  B",
+          "type": "1",
+          "started_at": "2019-06-01T17:20:00.000Z",
+          "ended_at": "2019-06-01T17:40:10.023Z",
+          "last_received_data_at": "2019-06-01T17:51:07.154Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741907"
+        },
+        {
+          "id": 14781113,
+          "group_id": 209175,
+          "name": "Group C + D",
+          "type": "1",
+          "started_at": "2019-06-01T17:50:00.000Z",
+          "ended_at": "2019-06-01T18:16:12.073Z",
+          "last_received_data_at": "2019-06-01T18:18:41.807Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741909"
+        },
+        {
+          "id": 14782322,
+          "group_id": 209175,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2019-06-01T18:05:00.000Z",
+          "ended_at": "2019-06-01T18:20:40.881Z",
+          "last_received_data_at": "2019-06-01T18:35:56.427Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741910"
+        },
+        {
+          "id": 14783096,
+          "group_id": 209175,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2019-06-01T18:20:00.000Z",
+          "ended_at": "2019-06-01T18:31:01.569Z",
+          "last_received_data_at": "2019-06-01T18:49:02.240Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741911"
+        }
+      ]
+    },
+    {
+      "id": 209174,
+      "name": "Track Battle Heat 5",
+      "runs": [
+        {
+          "id": 14774919,
+          "group_id": 209174,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2019-06-01T14:45:00.000Z",
+          "ended_at": "2019-06-01T14:55:50.631Z",
+          "last_received_data_at": "2019-06-01T15:26:37.613Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741905"
+        },
+        {
+          "id": 14775745,
+          "group_id": 209174,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2019-06-01T15:00:00.000Z",
+          "ended_at": "2019-06-01T15:15:01.084Z",
+          "last_received_data_at": "2019-06-01T15:43:36.127Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741906"
+        },
+        {
+          "id": 14772218,
+          "group_id": 209174,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-06-01T14:00:00.000Z",
+          "ended_at": "2019-06-01T14:12:36.184Z",
+          "last_received_data_at": "2019-06-01T14:21:13.896Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741902"
+        },
+        {
+          "id": 14773115,
+          "group_id": 209174,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-06-01T14:15:00.000Z",
+          "ended_at": "2019-06-01T14:27:44.221Z",
+          "last_received_data_at": "2019-06-01T14:42:28.131Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741903"
+        },
+        {
+          "id": 14773471,
+          "group_id": 209174,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-06-01T14:30:00.000Z",
+          "ended_at": "2019-06-01T15:00:58.688Z",
+          "last_received_data_at": "2019-06-01T15:15:07.669Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741904"
+        }
+      ]
+    },
+    {
+      "id": 208012,
+      "name": "Track Battle Practice 1",
+      "runs": [
+        {
+          "id": 14690120,
+          "group_id": 208012,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-05-30T18:00:00.000Z",
+          "ended_at": "2019-05-30T18:47:21.270Z",
+          "last_received_data_at": "2019-05-31T13:05:26.459Z",
+          "status": "PROVISIONAL",
+          "total_laps": 12,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741876"
+        },
+        {
+          "id": 14689424,
+          "group_id": 208012,
+          "name": "Group A ",
+          "type": "1",
+          "started_at": "2019-05-30T18:00:00.000Z",
+          "ended_at": "2019-05-30T19:34:27.184Z",
+          "last_received_data_at": "2019-05-31T13:06:56.953Z",
+          "status": "PROVISIONAL",
+          "total_laps": 29,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741875"
+        }
+      ]
+    },
+    {
+      "id": 209835,
+      "name": "GLTC Sunday",
+      "runs": [
+        {
+          "id": 14833632,
+          "group_id": 209835,
+          "name": "GLTC Race 2",
+          "type": "2",
+          "started_at": "2019-06-02T19:20:00.000Z",
+          "ended_at": "2019-06-02T19:46:14.063Z",
+          "last_received_data_at": "2019-06-02T19:54:17.869Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741926"
+        },
+        {
+          "id": 14830256,
+          "group_id": 209835,
+          "name": "GLTC Race 1",
+          "type": "2",
+          "started_at": "2019-06-02T17:40:00.000Z",
+          "ended_at": "2019-06-02T18:04:28.575Z",
+          "last_received_data_at": "2019-06-02T18:16:26.023Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741925"
+        },
+        {
+          "id": 14821731,
+          "group_id": 209835,
+          "name": "GLTC Qualifying",
+          "type": "1",
+          "started_at": "2019-06-02T13:40:00.000Z",
+          "ended_at": "2019-06-02T13:55:21.065Z",
+          "last_received_data_at": "2019-06-02T14:10:52.087Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741924"
+        }
+      ]
+    },
+    {
+      "id": 208492,
+      "name": "Track Battle Heat 3",
+      "runs": [
+        {
+          "id": 14731629,
+          "group_id": 208492,
+          "name": "Group A ",
+          "type": "1",
+          "started_at": "2019-05-31T18:00:00.000Z",
+          "ended_at": "2019-05-31T18:10:39.066Z",
+          "last_received_data_at": "2019-05-31T18:35:23.267Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741890"
+        },
+        {
+          "id": 14732341,
+          "group_id": 208492,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-05-31T18:15:00.000Z",
+          "ended_at": "2019-05-31T18:32:50.674Z",
+          "last_received_data_at": "2019-05-31T18:59:52.399Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741891"
+        },
+        {
+          "id": 14733115,
+          "group_id": 208492,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-05-31T18:30:00.000Z",
+          "ended_at": "2019-05-31T18:40:05.664Z",
+          "last_received_data_at": "2019-05-31T19:10:48.362Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741892"
+        },
+        {
+          "id": 14733625,
+          "group_id": 208492,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2019-05-31T18:45:00.000Z",
+          "ended_at": "2019-05-31T18:58:19.713Z",
+          "last_received_data_at": "2019-05-31T19:28:22.051Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741893"
+        },
+        {
+          "id": 14734357,
+          "group_id": 208492,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2019-05-31T19:00:00.000Z",
+          "ended_at": "2019-05-31T19:40:16.927Z",
+          "last_received_data_at": "2019-05-31T19:41:18.180Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741894"
+        }
+      ]
+    },
+    {
+      "id": 208491,
+      "name": "Track Battle Heat 2",
+      "runs": [
+        {
+          "id": 14723091,
+          "group_id": 208491,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-05-31T14:00:00.000Z",
+          "ended_at": "2019-05-31T14:11:21.423Z",
+          "last_received_data_at": "2019-05-31T14:26:35.825Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741885"
+        },
+        {
+          "id": 14724855,
+          "group_id": 208491,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-05-31T14:15:00.000Z",
+          "ended_at": "2019-05-31T14:26:59.368Z",
+          "last_received_data_at": "2019-05-31T15:09:24.698Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741886"
+        },
+        {
+          "id": 14725136,
+          "group_id": 208491,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-05-31T14:30:00.000Z",
+          "ended_at": "2019-05-31T14:39:21.227Z",
+          "last_received_data_at": "2019-05-31T15:23:44.236Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741887"
+        },
+        {
+          "id": 14726339,
+          "group_id": 208491,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2019-05-31T15:00:00.000Z",
+          "ended_at": "2019-05-31T15:07:20.299Z",
+          "last_received_data_at": "2019-05-31T15:50:10.216Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741889"
+        },
+        {
+          "id": 14725664,
+          "group_id": 208491,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2019-05-31T14:45:00.000Z",
+          "ended_at": "2019-05-31T14:55:10.486Z",
+          "last_received_data_at": "2019-05-31T15:41:12.284Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741888"
+        }
+      ]
+    },
+    {
+      "id": 208680,
+      "name": "Track Battle Heat 4 ",
+      "runs": [
+        {
+          "id": 14737215,
+          "group_id": 208680,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-05-31T20:50:00.000Z",
+          "ended_at": "2019-05-31T21:07:00.578Z",
+          "last_received_data_at": "2019-05-31T21:09:51.782Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741897"
+        },
+        {
+          "id": 14737963,
+          "group_id": 208680,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-05-31T21:20:00.000Z",
+          "ended_at": "2019-05-31T21:29:03.608Z",
+          "last_received_data_at": "2019-05-31T21:34:24.237Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741899"
+        },
+        {
+          "id": 14737519,
+          "group_id": 208680,
+          "name": "Group B ",
+          "type": "1",
+          "started_at": "2019-05-31T21:05:00.000Z",
+          "ended_at": "2019-05-31T21:18:29.778Z",
+          "last_received_data_at": "2019-05-31T21:24:38.382Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741898"
+        },
+        {
+          "id": 14738672,
+          "group_id": 208680,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2019-05-31T21:35:00.000Z",
+          "ended_at": "2019-05-31T21:43:12.950Z",
+          "last_received_data_at": "2019-05-31T21:45:05.872Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741900"
+        },
+        {
+          "id": 14738678,
+          "group_id": 208680,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2019-05-31T21:50:00.000Z",
+          "ended_at": "2019-05-31T22:03:39.599Z",
+          "last_received_data_at": "2019-05-31T21:59:13.150Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741901"
+        }
+      ]
+    },
+    {
+      "id": 208679,
+      "name": "GLTC FRIDAY",
+      "runs": [
+        {
+          "id": 14736163,
+          "group_id": 208679,
+          "name": "GLTC Practice 1",
+          "type": "0",
+          "started_at": "2019-05-31T20:20:00.000Z",
+          "ended_at": "2019-05-31T20:40:53.259Z",
+          "last_received_data_at": "2019-05-31T20:52:58.917Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741895"
+        },
+        {
+          "id": 14740686,
+          "group_id": 208679,
+          "name": "GLTC Practice 2",
+          "type": "0",
+          "started_at": "2019-05-31T22:40:00.000Z",
+          "ended_at": "2019-05-31T22:58:43.275Z",
+          "last_received_data_at": "2019-05-31T23:08:52.055Z",
+          "status": "PROVISIONAL",
+          "total_laps": 9,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741896"
+        }
+      ]
+    },
+    {
+      "id": 208076,
+      "name": "Track Battle Heat 1",
+      "runs": [
+        {
+          "id": 14695808,
+          "group_id": 208076,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2019-05-30T23:00:00.000Z",
+          "ended_at": "2019-05-30T23:12:56.430Z",
+          "last_received_data_at": "2019-05-31T00:35:27.077Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741883"
+        },
+        {
+          "id": 14694709,
+          "group_id": 208076,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-05-30T23:00:00.000Z",
+          "ended_at": "2019-05-30T23:18:05.440Z",
+          "last_received_data_at": "2019-05-30T23:57:07.228Z",
+          "status": "PROVISIONAL",
+          "total_laps": 8,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741882"
+        },
+        {
+          "id": 14697117,
+          "group_id": 208076,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2019-05-30T23:00:00.000Z",
+          "ended_at": "2019-05-30T23:15:20.177Z",
+          "last_received_data_at": "2019-05-31T00:50:42.614Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741884"
+        },
+        {
+          "id": 14693826,
+          "group_id": 208076,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-05-30T23:00:00.000Z",
+          "ended_at": "2019-05-30T23:11:50.013Z",
+          "last_received_data_at": "2019-05-30T23:14:36.953Z",
+          "status": "PROVISIONAL",
+          "total_laps": 5,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741880"
+        },
+        {
+          "id": 14694486,
+          "group_id": 208076,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-05-30T23:00:00.000Z",
+          "ended_at": "2019-05-30T23:13:31.892Z",
+          "last_received_data_at": "2019-05-30T23:29:47.145Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741881"
+        }
+      ]
+    },
+    {
+      "id": 209313,
+      "name": "Track Battle Final",
+      "runs": [
+        {
+          "id": 14790792,
+          "group_id": 209313,
+          "name": "Group C",
+          "type": "1",
+          "started_at": "2019-06-01T21:30:00.000Z",
+          "ended_at": "2019-06-01T21:43:51.966Z",
+          "last_received_data_at": "2019-06-01T22:22:13.660Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741918"
+        },
+        {
+          "id": 14791034,
+          "group_id": 209313,
+          "name": "Group D",
+          "type": "1",
+          "started_at": "2019-06-01T21:45:00.000Z",
+          "ended_at": "2019-06-01T21:54:14.724Z",
+          "last_received_data_at": "2019-06-01T22:32:31.820Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741919"
+        },
+        {
+          "id": 14791476,
+          "group_id": 209313,
+          "name": "Group E",
+          "type": "1",
+          "started_at": "2019-06-01T22:00:00.000Z",
+          "ended_at": "2019-06-01T22:14:28.670Z",
+          "last_received_data_at": "2019-06-01T22:48:51.503Z",
+          "status": "PROVISIONAL",
+          "total_laps": 7,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741920"
+        },
+        {
+          "id": 14788757,
+          "group_id": 209313,
+          "name": "Group A",
+          "type": "1",
+          "started_at": "2019-06-01T21:00:00.000Z",
+          "ended_at": "2019-06-01T21:12:53.707Z",
+          "last_received_data_at": "2019-06-01T21:23:28.976Z",
+          "status": "PROVISIONAL",
+          "total_laps": 6,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741916"
+        },
+        {
+          "id": 14789451,
+          "group_id": 209313,
+          "name": "Group B",
+          "type": "1",
+          "started_at": "2019-06-01T21:15:00.000Z",
+          "ended_at": "2019-06-01T21:25:15.756Z",
+          "last_received_data_at": "2019-06-01T21:43:57.300Z",
+          "status": "PROVISIONAL",
+          "total_laps": 4,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741917"
+        }
+      ]
+    },
+    {
+      "id": 209332,
+      "name": "Driver Battles",
+      "runs": [
+        {
+          "id": 14785065,
+          "group_id": 209332,
+          "name": "Anthony Estrella vs Michael Puglisi",
+          "type": "1",
+          "started_at": "2019-06-01T19:24:00.000Z",
+          "ended_at": "2019-06-01T19:31:32.579Z",
+          "last_received_data_at": "2019-06-01T19:43:38.556Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741921"
+        },
+        {
+          "id": 14785619,
+          "group_id": 209332,
+          "name": "Matt Williams vs Charles Miller",
+          "type": "1",
+          "started_at": "2019-06-01T19:24:00.000Z",
+          "ended_at": "2019-06-01T19:32:08.365Z",
+          "last_received_data_at": "2019-06-01T19:55:09.154Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741922"
+        }
+      ]
+    },
+    {
+      "id": 209423,
+      "name": "tcr battle",
+      "runs": [
+        {
+          "id": 14792160,
+          "group_id": 209423,
+          "name": "run",
+          "type": "1",
+          "started_at": "2019-06-01T22:48:00.000Z",
+          "ended_at": "2019-06-01T22:54:16.112Z",
+          "last_received_data_at": "2019-06-01T23:00:48.337Z",
+          "status": "PROVISIONAL",
+          "total_laps": 3,
+          "has_results": true,
+          "results_url": "https://racehero.io/events/gridlife-track-battle-midwest/results/1073741923"
+        }
+      ]
+    }
+  ]
+}
