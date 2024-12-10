@@ -247,9 +247,25 @@ async function getEventAndGroupIds() {
     }
 }
 
+async function getAllEventIds() {
+    const client = await pool.connect();
+    try {
+        const query = `
+            SELECT id
+            FROM events
+            ORDER BY id;
+        `;
+        const result = await client.query(query);
+        return result.rows.map(row => row.id);
+    } finally {
+        client.release();
+    }
+}
+
 module.exports = {
     pool,
     initializeDatabase,
     insertEvent,
-    getEventAndGroupIds
+    getEventAndGroupIds,
+    getAllEventIds
 };

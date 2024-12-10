@@ -1,3 +1,7 @@
+# RaceHero JSON files
+json/
+json.raw/
+
 # Logs
 logs
 *.log

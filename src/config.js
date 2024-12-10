@@ -19,6 +19,7 @@ module.exports = {
         endpoints: {
             events: process.env.EVENTS_ENDPOINT,
             eventDetails: process.env.EVENT_DETAILS_ENDPOINT,
-        }
+        },
+        forceDownload: process.env.FORCE_DOWNLOAD === 'true'
     }
 };
