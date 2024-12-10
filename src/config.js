@@ -9,6 +9,6 @@ module.exports = {
             username: process.env.API_USERNAME,
             password: process.env.API_PASSWORD || ''
         },
-        forceDownload: process.env.FORCE_DOWNLOAD === 'true'
+        forceDownload: process.env.FORCE_DOWNLOAD === 'false'
     }
 };
