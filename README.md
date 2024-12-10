@@ -35,7 +35,7 @@ A Node.js application that fetches and stores race event data from the RaceHero 
    ```env
    # API Configuration
    API_BASE_URL=https://api.racehero.io/v1
-   ORGANIZATION=gridlife
+   ORGANIZATION=your-org-name
    JSON_OUTPUT_DIR=json
    API_USERNAME=your-api-username
    API_PASSWORD=your-api-password
