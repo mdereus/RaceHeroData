@@ -9,10 +9,6 @@ module.exports = {
             username: process.env.API_USERNAME,
             password: process.env.API_PASSWORD || ''
         },
-        endpoints: {
-            events: process.env.EVENTS_ENDPOINT,
-            eventDetails: process.env.EVENT_DETAILS_ENDPOINT,
-        },
         forceDownload: process.env.FORCE_DOWNLOAD === 'true'
     }
 };
