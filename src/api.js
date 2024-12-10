@@ -2,7 +2,6 @@ const axios = require('axios');
 const fs = require('fs').promises;
 const path = require('path');
 const config = require('./config');
-const db = require('./db');
 
 // Create axios instance with auth configuration
 const api = axios.create({
@@ -42,7 +41,7 @@ async function readJsonFile(filepath) {
 }
 
 async function fetchAllEvents() {
-    const filename = 'gridlifeAllEvents.json';
+    const filename = `${config.api.organization}AllEvents.json`;
     const filepath = path.join(config.api.jsonOutputDir, filename);
     
     try {
@@ -86,6 +85,24 @@ async function fetchEventDetails(eventId) {
         return response.data;
     } catch (error) {
         console.error(`Error fetching event details for ID ${eventId}:`, error.message);
+        throw error;
+    }
+}
+
+async function processAllEventDetails(events) {
+    try {
+        console.log(`Processing ${events.length} events in batches`);
+        const batchSize = 10; // Process 10 at a time to avoid overwhelming the system
+        
+        for (let i = 0; i < events.length; i += batchSize) {
+            const batch = events.slice(i, i + batchSize);
+            console.log(`Processing batch ${Math.floor(i/batchSize) + 1} of ${Math.ceil(events.length/batchSize)}`);
+            await Promise.all(batch.map(event => fetchEventDetails(event.id)));
+        }
+        
+        console.log('Finished processing all event details');
+    } catch (error) {
+        console.error('Error processing event details:', error);
         throw error;
     }
 }
@@ -234,10 +251,55 @@ async function fetchRunPassings(eventId, runId) {
     }
 }
 
+async function getAllEventIds() {
+    const filename = 'gridlifeAllEvents.json';
+    const filepath = path.join(config.api.jsonOutputDir, filename);
+    
+    try {
+        if (await fileExists(filepath)) {
+            const events = await readJsonFile(filepath);
+            return events.map(event => event.id);
+        }
+        return [];
+    } catch (error) {
+        console.error('Error getting event IDs:', error);
+        throw error;
+    }
+}
+
+async function getEventAndGroupIds() {
+    const filename = 'gridlifeAllEvents.json';
+    const filepath = path.join(config.api.jsonOutputDir, filename);
+    
+    try {
+        if (await fileExists(filepath)) {
+            const events = await readJsonFile(filepath);
+            const eventGroups = [];
+            
+            for (const event of events) {
+                if (event.groups && Array.isArray(event.groups)) {
+                    for (const group of event.groups) {
+                        eventGroups.push({
+                            event_id: event.id,
+                            group_id: group.id
+                        });
+                    }
+                }
+            }
+            
+            return eventGroups;
+        }
+        return [];
+    } catch (error) {
+        console.error('Error getting event and group IDs:', error);
+        throw error;
+    }
+}
+
 async function processAllGroupDetails() {
     try {
-        // Get event and group IDs from database
-        const eventGroups = await db.getEventAndGroupIds();
+        // Get event and group IDs from JSON file
+        const eventGroups = await getEventAndGroupIds();
         console.log(`Found ${eventGroups.length} event-group combinations to process`);
 
         // Process in parallel when using existing files
@@ -258,8 +320,8 @@ async function processAllGroupDetails() {
 
 async function processAllEventRuns() {
     try {
-        // Get all event IDs from database
-        const eventIds = await db.getAllEventIds();
+        // Get all event IDs from JSON file
+        const eventIds = await getAllEventIds();
         console.log(`Found ${eventIds.length} events to process runs for`);
 
         // Process in parallel when using existing files
@@ -278,8 +340,8 @@ async function processAllEventRuns() {
 
 async function processAllRunResults() {
     try {
-        // Get all event IDs from database
-        const eventIds = await db.getAllEventIds();
+        // Get all event IDs from JSON file
+        const eventIds = await getAllEventIds();
         console.log(`Found ${eventIds.length} events to process results for`);
 
         for (const eventId of eventIds) {
@@ -315,8 +377,8 @@ async function processAllRunResults() {
 
 async function processAllRunRacers() {
     try {
-        // Get all event IDs from database
-        const eventIds = await db.getAllEventIds();
+        // Get all event IDs from JSON file
+        const eventIds = await getAllEventIds();
         console.log(`Found ${eventIds.length} events to process racers for`);
 
         for (const eventId of eventIds) {
@@ -352,8 +414,8 @@ async function processAllRunRacers() {
 
 async function processAllRunFlags() {
     try {
-        // Get all event IDs from database
-        const eventIds = await db.getAllEventIds();
+        // Get all event IDs from JSON file
+        const eventIds = await getAllEventIds();
         console.log(`Found ${eventIds.length} events to process flags for`);
 
         for (const eventId of eventIds) {
@@ -389,8 +451,8 @@ async function processAllRunFlags() {
 
 async function processAllRunPassings() {
     try {
-        // Get all event IDs from database
-        const eventIds = await db.getAllEventIds();
+        // Get all event IDs from JSON file
+        const eventIds = await getAllEventIds();
         console.log(`Found ${eventIds.length} events to process passings for`);
 
         for (const eventId of eventIds) {
@@ -433,6 +495,7 @@ module.exports = {
     fetchRunRacers,
     fetchRunFlags,
     fetchRunPassings,
+    processAllEventDetails,
     processAllGroupDetails,
     processAllEventRuns,
     processAllRunResults,
