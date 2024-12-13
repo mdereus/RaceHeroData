@@ -40,6 +40,95 @@ async function readJsonFile(filepath) {
     return JSON.parse(content);
 }
 
+// Helper function to implement retry logic with timeout
+async function retryOperation(operation, maxRetries = 20, timeout = 20000) {
+    let lastError;
+    
+    for (let attempt = 1; attempt <= maxRetries; attempt++) {
+        try {
+            const timeoutPromise = new Promise((_, reject) => {
+                setTimeout(() => reject(new Error('Operation timed out')), timeout);
+            });
+            
+            const result = await Promise.race([
+                operation(),
+                timeoutPromise
+            ]);
+            
+            return result; // Success, return the result
+        } catch (error) {
+            lastError = error;
+            console.log(`Attempt ${attempt}/${maxRetries} failed: ${error.message}`);
+            
+            if (attempt < maxRetries) {
+                // Wait before retrying, using exponential backoff
+                const delay = Math.min(1000 * Math.pow(2, attempt - 1), 5000);
+                await new Promise(resolve => setTimeout(resolve, delay));
+            }
+        }
+    }
+    
+    throw lastError; // If all retries failed, throw the last error
+}
+
+async function downloadCsv(resultsUrl, runId) {
+    try {
+        const csvUrl = `${resultsUrl}.csv`;
+        console.log(`Downloading CSV from: ${csvUrl}`);
+        
+        const downloadOperation = async () => {
+            const response = await axios.get(csvUrl);
+            
+            // Save to csv directory with run ID as filename
+            const outputDir = 'csv';
+            await ensureDirectoryExists(outputDir);
+            const filepath = path.join(outputDir, `${runId}.csv`);
+            
+            await fs.writeFile(filepath, response.data);
+            console.log(`Saved CSV to ${filepath}`);
+            
+            return filepath;
+        };
+
+        await retryOperation(downloadOperation);
+        // Removed the 1-second delay after download
+    } catch (error) {
+        console.error(`Error downloading CSV for run ${runId} after all retries:`, error.message);
+        throw error;
+    }
+}
+
+async function processAllCsvDownloads() {
+    try {
+        const filename = `${config.api.organization}AllEvents.json`;
+        const filepath = path.join(config.api.jsonOutputDir, filename);
+        
+        if (await fileExists(filepath)) {
+            const events = await readJsonFile(filepath);
+            console.log(`Processing CSV downloads for ${events.length} events`);
+            
+            for (const event of events) {
+                if (event.groups && Array.isArray(event.groups)) {
+                    for (const group of event.groups) {
+                        if (group.runs && Array.isArray(group.runs)) {
+                            for (const run of group.runs) {
+                                if (run.results_url) {
+                                    await downloadCsv(run.results_url, run.id);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            
+            console.log('Finished processing all CSV downloads');
+        }
+    } catch (error) {
+        console.error('Error processing CSV downloads:', error);
+        throw error;
+    }
+}
+
 async function fetchAllEvents() {
     const filename = `${config.api.organization}AllEvents.json`;
     const filepath = path.join(config.api.jsonOutputDir, filename);
@@ -501,5 +590,6 @@ module.exports = {
     processAllRunResults,
     processAllRunRacers,
     processAllRunFlags,
-    processAllRunPassings
+    processAllRunPassings,
+    processAllCsvDownloads
 };

@@ -6,11 +6,21 @@ const {
     processAllRunResults, 
     processAllRunRacers,
     processAllRunFlags,
-    processAllRunPassings
+    processAllRunPassings,
+    processAllCsvDownloads
 } = require('./api');
 
 async function processEvents() {
     try {
+        const csvOnly = process.argv.includes('--csv-only');
+        
+        if (csvOnly) {
+            console.log('Running in CSV-only mode...');
+            await processAllCsvDownloads();
+            console.log('All CSV files downloaded successfully');
+            return;
+        }
+
         // Fetch and save all events
         console.log('Fetching all events...');
         const events = await fetchAllEvents();
@@ -50,6 +60,11 @@ async function processEvents() {
         console.log('Starting run passings processing...');
         await processAllRunPassings();
         console.log('All run passings processed successfully');
+
+        // Download CSV files
+        console.log('Starting CSV downloads...');
+        await processAllCsvDownloads();
+        console.log('All CSV files downloaded successfully');
 
     } catch (error) {
         console.error('Error processing events:', error);

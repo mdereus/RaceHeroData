@@ -1,17 +1,20 @@
 # RaceHero Data Importer
 
-A Node.js application that fetches and stores race event data from the RaceHero API into JSON files.
+A Node.js application that fetches and stores race event data from the RaceHero API into JSON files and CSV data.
 
 ## Features
 
 - Fetches race event data from RaceHero API
 - Stores raw API responses as JSON files for backup/reference
+- Downloads CSV data for race results
 - Efficient batched processing of API requests
 - Handles relationships between events, groups, and runs
 - Fetches detailed group information for each event
 - Collects run data, results, racers, flags, and passings for each event
 - Smart file caching with force download option
 - Configurable through environment variables
+- Resilient CSV downloads with automatic retries
+- Supports CSV-only mode for quick data updates
 
 ## Prerequisites
 
@@ -94,19 +97,42 @@ The application collects data in multiple stages, using efficient batch processi
      - Run passings
    - Each type of data is saved to its respective JSON file
 
+5. **CSV Data Collection**:
+   - Downloads CSV files for all race results
+   - Features automatic retry mechanism:
+     - 20-second timeout per attempt
+     - Up to 3 retry attempts for failed downloads
+     - Exponential backoff between retries
+     - Detailed logging of retry attempts
+
 ## Usage
 
-Run the application:
+The application can be run in two modes:
+
+1. Full mode (processes all data):
 ```bash
 npm start
+# or
+node src/index.js
 ```
 
-This will:
+2. CSV-only mode (only downloads CSV files):
+```bash
+node src/index.js --csv-only
+```
+
+The full mode will:
 1. Fetch the initial list of events
 2. Process event details in parallel batches
 3. Process group details in parallel batches
 4. Process runs in parallel batches
 5. Process additional data (results, racers, flags, passings) in parallel batches
+6. Download CSV files for all race results
+
+The CSV-only mode will:
+1. Skip all JSON data processing
+2. Only download CSV files for race results
+3. Use existing JSON data to locate CSV files to download
 
 To force fresh downloads of all data:
 1. Set `FORCE_DOWNLOAD=true` in `.env`
@@ -129,6 +155,7 @@ RaceHeroData/
 │   ├── event_{id}_run_{run_id}_racers.json   # Run racers
 │   ├── event_{id}_run_{run_id}_flags.json    # Run flags
 │   └── event_{id}_run_{run_id}_passings.json # Run passings
+├── csv/              # CSV file storage for race results
 ├── .env              # Environment configuration
 └── package.json      # Project dependencies
 ```
@@ -149,6 +176,7 @@ RaceHeroData/
    - Saves raw API responses as JSON files
    - Maintains a backup of all fetched data
    - Organizes files by event, group, and run IDs
+   - Stores CSV files in dedicated csv directory
 
 ## Error Handling
 
@@ -157,6 +185,7 @@ The application includes comprehensive error handling for:
 - File system operations
 - Data validation and processing
 - Batch processing recovery
+- CSV download retries with timeout
 
 ## Contributing
 

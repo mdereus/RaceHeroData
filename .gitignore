@@ -1,6 +1,7 @@
 # RaceHero JSON files
 json/
 json.raw/
+csv/
 
 # Logs
 logs
